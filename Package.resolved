@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HandySwift",
+        "repositoryURL": "https://github.com/Flinesoft/HandySwift.git",
+        "state": {
+          "branch": null,
+          "revision": "80a9697f586cba84278a48539c58b1b1afc61e13",
+          "version": "3.2.0"
+        }
+      },
+      {
+        "package": "Microya",
+        "repositoryURL": "https://github.com/Flinesoft/Microya.git",
+        "state": {
+          "branch": null,
+          "revision": "ae7136454bdd36e63e496b0be38ab05270d9510d",
+          "version": "0.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
