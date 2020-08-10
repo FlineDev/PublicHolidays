@@ -12,7 +12,7 @@ let package = Package(
         .package(url: "https://github.com/Flinesoft/HandySwift.git", from: "3.2.0"),
 
         // Micro version of the Moya network abstraction layer written in Swift.
-        .package(url: "https://github.com/Flinesoft/Microya.git", from: "0.1.1"),
+        .package(url: "https://github.com/Flinesoft/Microya.git", .branch("main")),
     ],
     targets: [
         .target(name: "PublicHolidays", dependencies: ["HandySwift", "Microya"]),
