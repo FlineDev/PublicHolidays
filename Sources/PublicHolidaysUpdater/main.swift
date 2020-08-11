@@ -6,7 +6,7 @@ struct Import: ParsableCommand {
     @Option(name: .shortAndLong, help: "Provide the path to the countries JSON data file.")
     var countriesFilePath: String
 
-    @Option(name: .shortAndLong, help: "Profide the ISO Country Code to start with.")
+    @Option(name: .shortAndLong, help: "Provide the ISO country code to start updating from.")
     var offset: String?
 
     func run() throws {
