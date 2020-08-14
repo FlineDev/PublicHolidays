@@ -1,0 +1,320 @@
+{
+  "isoCode" : "PE",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2020-04-09",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Domingo Santo"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2020-06-29",
+      "localName" : "Día de San Pedro y San Pablo"
+    },
+    {
+      "date" : "2020-07-28",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2020-07-29",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2020-08-30",
+      "localName" : "Día de Santa Rosa de Lima"
+    },
+    {
+      "date" : "2020-10-08",
+      "localName" : "Combate de Angamos"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2021-04-01",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Domingo Santo"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2021-06-29",
+      "localName" : "Día de San Pedro y San Pablo"
+    },
+    {
+      "date" : "2021-07-28",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2021-07-29",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2021-08-30",
+      "localName" : "Día de Santa Rosa de Lima"
+    },
+    {
+      "date" : "2021-10-08",
+      "localName" : "Combate de Angamos"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2022-04-14",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Domingo Santo"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2022-06-29",
+      "localName" : "Día de San Pedro y San Pablo"
+    },
+    {
+      "date" : "2022-07-28",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2022-07-29",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2022-08-30",
+      "localName" : "Día de Santa Rosa de Lima"
+    },
+    {
+      "date" : "2022-10-08",
+      "localName" : "Combate de Angamos"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2023-04-06",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Domingo Santo"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2023-06-29",
+      "localName" : "Día de San Pedro y San Pablo"
+    },
+    {
+      "date" : "2023-07-28",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2023-07-29",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2023-08-30",
+      "localName" : "Día de Santa Rosa de Lima"
+    },
+    {
+      "date" : "2023-10-08",
+      "localName" : "Combate de Angamos"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2024-03-28",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Domingo Santo"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2024-06-29",
+      "localName" : "Día de San Pedro y San Pablo"
+    },
+    {
+      "date" : "2024-07-28",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2024-07-29",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2024-08-30",
+      "localName" : "Día de Santa Rosa de Lima"
+    },
+    {
+      "date" : "2024-10-08",
+      "localName" : "Combate de Angamos"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2025-04-17",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Domingo Santo"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2025-06-29",
+      "localName" : "Día de San Pedro y San Pablo"
+    },
+    {
+      "date" : "2025-07-28",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2025-07-29",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2025-08-30",
+      "localName" : "Día de Santa Rosa de Lima"
+    },
+    {
+      "date" : "2025-10-08",
+      "localName" : "Combate de Angamos"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Navidad"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

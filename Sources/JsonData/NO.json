@@ -1,0 +1,296 @@
+{
+  "isoCode" : "NO",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2020-04-09",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2020-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2020-05-31",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2021-04-01",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2021-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2021-05-23",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2022-04-14",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2022-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2023-04-06",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2023-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2023-05-28",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2024-03-28",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2024-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2024-05-19",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2025-04-17",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2025-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2025-06-08",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Andre juledag"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

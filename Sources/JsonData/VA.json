@@ -1,0 +1,368 @@
+{
+  "isoCode" : "VA",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Maria Santissima Madre di Dio"
+    },
+    {
+      "date" : "2020-01-06",
+      "localName" : "Epifania del Signore"
+    },
+    {
+      "date" : "2020-02-11",
+      "localName" : "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date" : "2020-03-13",
+      "localName" : "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date" : "2020-03-19",
+      "localName" : "San Giuseppe"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2020-04-23",
+      "localName" : "Onomastico del Santo Padre"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "San Giuseppe lavoratore"
+    },
+    {
+      "date" : "2020-06-29",
+      "localName" : "Santi Pietro e Paolo"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Assunzione di Maria in Cielo"
+    },
+    {
+      "date" : "2020-09-08",
+      "localName" : "Festa della natività della madonna"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Tutti i santi, Ognissanti"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Maria Santissima Madre di Dio"
+    },
+    {
+      "date" : "2021-01-06",
+      "localName" : "Epifania del Signore"
+    },
+    {
+      "date" : "2021-02-11",
+      "localName" : "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date" : "2021-03-13",
+      "localName" : "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date" : "2021-03-19",
+      "localName" : "San Giuseppe"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2021-04-23",
+      "localName" : "Onomastico del Santo Padre"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "San Giuseppe lavoratore"
+    },
+    {
+      "date" : "2021-06-29",
+      "localName" : "Santi Pietro e Paolo"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Assunzione di Maria in Cielo"
+    },
+    {
+      "date" : "2021-09-08",
+      "localName" : "Festa della natività della madonna"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Tutti i santi, Ognissanti"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Maria Santissima Madre di Dio"
+    },
+    {
+      "date" : "2022-01-06",
+      "localName" : "Epifania del Signore"
+    },
+    {
+      "date" : "2022-02-11",
+      "localName" : "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date" : "2022-03-13",
+      "localName" : "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date" : "2022-03-19",
+      "localName" : "San Giuseppe"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2022-04-23",
+      "localName" : "Onomastico del Santo Padre"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "San Giuseppe lavoratore"
+    },
+    {
+      "date" : "2022-06-29",
+      "localName" : "Santi Pietro e Paolo"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Assunzione di Maria in Cielo"
+    },
+    {
+      "date" : "2022-09-08",
+      "localName" : "Festa della natività della madonna"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Tutti i santi, Ognissanti"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Maria Santissima Madre di Dio"
+    },
+    {
+      "date" : "2023-01-06",
+      "localName" : "Epifania del Signore"
+    },
+    {
+      "date" : "2023-02-11",
+      "localName" : "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date" : "2023-03-13",
+      "localName" : "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date" : "2023-03-19",
+      "localName" : "San Giuseppe"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2023-04-23",
+      "localName" : "Onomastico del Santo Padre"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "San Giuseppe lavoratore"
+    },
+    {
+      "date" : "2023-06-29",
+      "localName" : "Santi Pietro e Paolo"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Assunzione di Maria in Cielo"
+    },
+    {
+      "date" : "2023-09-08",
+      "localName" : "Festa della natività della madonna"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Tutti i santi, Ognissanti"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Maria Santissima Madre di Dio"
+    },
+    {
+      "date" : "2024-01-06",
+      "localName" : "Epifania del Signore"
+    },
+    {
+      "date" : "2024-02-11",
+      "localName" : "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date" : "2024-03-13",
+      "localName" : "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date" : "2024-03-19",
+      "localName" : "San Giuseppe"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2024-04-23",
+      "localName" : "Onomastico del Santo Padre"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "San Giuseppe lavoratore"
+    },
+    {
+      "date" : "2024-06-29",
+      "localName" : "Santi Pietro e Paolo"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Assunzione di Maria in Cielo"
+    },
+    {
+      "date" : "2024-09-08",
+      "localName" : "Festa della natività della madonna"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Tutti i santi, Ognissanti"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Maria Santissima Madre di Dio"
+    },
+    {
+      "date" : "2025-01-06",
+      "localName" : "Epifania del Signore"
+    },
+    {
+      "date" : "2025-02-11",
+      "localName" : "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date" : "2025-03-13",
+      "localName" : "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date" : "2025-03-19",
+      "localName" : "San Giuseppe"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2025-04-23",
+      "localName" : "Onomastico del Santo Padre"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "San Giuseppe lavoratore"
+    },
+    {
+      "date" : "2025-06-29",
+      "localName" : "Santi Pietro e Paolo"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Assunzione di Maria in Cielo"
+    },
+    {
+      "date" : "2025-09-08",
+      "localName" : "Festa della natività della madonna"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Tutti i santi, Ognissanti"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Santo Stefano"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

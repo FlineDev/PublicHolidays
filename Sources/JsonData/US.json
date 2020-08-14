@@ -1,0 +1,1481 @@
+{
+  "isoCode" : "US",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-01-20",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2020-02-17",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2020-05-25",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2020-07-03",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-09-07",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2020-11-11",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2020-11-26",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-01-18",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2021-02-15",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2021-05-31",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2021-07-05",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-09-06",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2021-11-11",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2021-11-25",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-12-31",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-01-17",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2022-02-21",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2022-05-30",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2022-07-04",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-09-05",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2022-11-11",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2022-11-24",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-01-16",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2023-02-20",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2023-07-04",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-09-04",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2023-11-10",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2023-11-23",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-01-15",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2024-02-19",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2024-05-27",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2024-07-04",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-09-02",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2024-11-11",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2024-11-28",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-01-20",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2025-02-17",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2025-05-26",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2025-07-04",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-09-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2025-11-11",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2025-11-27",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Christmas Day"
+    }
+  ],
+  "subTerritories" : [
+    {
+      "isoCode" : "AL",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "AZ",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "CO",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "CT",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "DC",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "GA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "IA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "ID",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "IL",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "IN",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "KS",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "KY",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "LA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MD",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "ME",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MO",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MS",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MT",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NC",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NE",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NH",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NJ",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NM",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NY",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "OH",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "OK",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "PA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "RI",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "SC",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "TN",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "UT",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "VA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "WV",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2021-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2021-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2022-10-10",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2023-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2024-10-14",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2025-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        }
+      ]
+    }
+  ]
+}

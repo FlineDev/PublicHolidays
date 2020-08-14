@@ -1,0 +1,296 @@
+{
+  "isoCode" : "IT",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Capodanno"
+    },
+    {
+      "date" : "2020-01-06",
+      "localName" : "Epifania"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Pasqua"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2020-04-25",
+      "localName" : "Festa della Liberazione"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Festa del Lavoro"
+    },
+    {
+      "date" : "2020-06-02",
+      "localName" : "Festa della Repubblica"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Ferragosto o Assunzione"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Tutti i santi"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Capodanno"
+    },
+    {
+      "date" : "2021-01-06",
+      "localName" : "Epifania"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Pasqua"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2021-04-25",
+      "localName" : "Festa della Liberazione"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Festa del Lavoro"
+    },
+    {
+      "date" : "2021-06-02",
+      "localName" : "Festa della Repubblica"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Ferragosto o Assunzione"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Tutti i santi"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Capodanno"
+    },
+    {
+      "date" : "2022-01-06",
+      "localName" : "Epifania"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Pasqua"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2022-04-25",
+      "localName" : "Festa della Liberazione"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Festa del Lavoro"
+    },
+    {
+      "date" : "2022-06-02",
+      "localName" : "Festa della Repubblica"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Ferragosto o Assunzione"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Tutti i santi"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Capodanno"
+    },
+    {
+      "date" : "2023-01-06",
+      "localName" : "Epifania"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Pasqua"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2023-04-25",
+      "localName" : "Festa della Liberazione"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Festa del Lavoro"
+    },
+    {
+      "date" : "2023-06-02",
+      "localName" : "Festa della Repubblica"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Ferragosto o Assunzione"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Tutti i santi"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Capodanno"
+    },
+    {
+      "date" : "2024-01-06",
+      "localName" : "Epifania"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Pasqua"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2024-04-25",
+      "localName" : "Festa della Liberazione"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Festa del Lavoro"
+    },
+    {
+      "date" : "2024-06-02",
+      "localName" : "Festa della Repubblica"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Ferragosto o Assunzione"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Tutti i santi"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Santo Stefano"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Capodanno"
+    },
+    {
+      "date" : "2025-01-06",
+      "localName" : "Epifania"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Pasqua"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Lunedì dell'Angelo"
+    },
+    {
+      "date" : "2025-04-25",
+      "localName" : "Festa della Liberazione"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Festa del Lavoro"
+    },
+    {
+      "date" : "2025-06-02",
+      "localName" : "Festa della Repubblica"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Ferragosto o Assunzione"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Tutti i santi"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Immacolata Concezione"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Natale"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Santo Stefano"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

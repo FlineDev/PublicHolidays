@@ -1,0 +1,296 @@
+{
+  "isoCode" : "AL",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2020-01-02",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2020-03-14",
+      "localName" : "Dita e Verës"
+    },
+    {
+      "date" : "2020-03-22",
+      "localName" : "Dita e Sulltan Nevruzit"
+    },
+    {
+      "date" : "2020-04-19",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2020-04-20",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date" : "2020-10-19",
+      "localName" : "Dita e Nënë Terezës"
+    },
+    {
+      "date" : "2020-11-28",
+      "localName" : "Dita e Pavarësisë"
+    },
+    {
+      "date" : "2020-11-29",
+      "localName" : "Dita e Çlirimit"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Dita Kombëtare e Rinisë"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Krishtlindjet"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2021-01-02",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2021-03-14",
+      "localName" : "Dita e Verës"
+    },
+    {
+      "date" : "2021-03-22",
+      "localName" : "Dita e Sulltan Nevruzit"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date" : "2021-05-02",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2021-05-03",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2021-10-19",
+      "localName" : "Dita e Nënë Terezës"
+    },
+    {
+      "date" : "2021-11-28",
+      "localName" : "Dita e Pavarësisë"
+    },
+    {
+      "date" : "2021-11-29",
+      "localName" : "Dita e Çlirimit"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Dita Kombëtare e Rinisë"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Krishtlindjet"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2022-01-02",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2022-03-14",
+      "localName" : "Dita e Verës"
+    },
+    {
+      "date" : "2022-03-22",
+      "localName" : "Dita e Sulltan Nevruzit"
+    },
+    {
+      "date" : "2022-04-24",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2022-04-25",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date" : "2022-10-19",
+      "localName" : "Dita e Nënë Terezës"
+    },
+    {
+      "date" : "2022-11-28",
+      "localName" : "Dita e Pavarësisë"
+    },
+    {
+      "date" : "2022-11-29",
+      "localName" : "Dita e Çlirimit"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Dita Kombëtare e Rinisë"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Krishtlindjet"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2023-03-14",
+      "localName" : "Dita e Verës"
+    },
+    {
+      "date" : "2023-03-22",
+      "localName" : "Dita e Sulltan Nevruzit"
+    },
+    {
+      "date" : "2023-04-16",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2023-04-17",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date" : "2023-10-19",
+      "localName" : "Dita e Nënë Terezës"
+    },
+    {
+      "date" : "2023-11-28",
+      "localName" : "Dita e Pavarësisë"
+    },
+    {
+      "date" : "2023-11-29",
+      "localName" : "Dita e Çlirimit"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Dita Kombëtare e Rinisë"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Krishtlindjet"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2024-01-02",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2024-03-14",
+      "localName" : "Dita e Verës"
+    },
+    {
+      "date" : "2024-03-22",
+      "localName" : "Dita e Sulltan Nevruzit"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date" : "2024-05-05",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2024-05-06",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2024-10-19",
+      "localName" : "Dita e Nënë Terezës"
+    },
+    {
+      "date" : "2024-11-28",
+      "localName" : "Dita e Pavarësisë"
+    },
+    {
+      "date" : "2024-11-29",
+      "localName" : "Dita e Çlirimit"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Dita Kombëtare e Rinisë"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Krishtlindjet"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2025-01-02",
+      "localName" : "Viti i Ri"
+    },
+    {
+      "date" : "2025-03-14",
+      "localName" : "Dita e Verës"
+    },
+    {
+      "date" : "2025-03-22",
+      "localName" : "Dita e Sulltan Nevruzit"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Pashkët Ortodokse"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date" : "2025-10-19",
+      "localName" : "Dita e Nënë Terezës"
+    },
+    {
+      "date" : "2025-11-28",
+      "localName" : "Dita e Pavarësisë"
+    },
+    {
+      "date" : "2025-11-29",
+      "localName" : "Dita e Çlirimit"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Dita Kombëtare e Rinisë"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Krishtlindjet"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

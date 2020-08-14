@@ -1,0 +1,392 @@
+{
+  "isoCode" : "AR",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2020-02-24",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2020-02-25",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2020-03-24",
+      "localName" : "Día Nacional de la Memoria por la Verdad y la Justicia"
+    },
+    {
+      "date" : "2020-04-02",
+      "localName" : "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2020-05-25",
+      "localName" : "Día de la Revolución de Mayo"
+    },
+    {
+      "date" : "2020-06-17",
+      "localName" : "Paso a la Inmortalidad del General Martín Miguel de Güemes"
+    },
+    {
+      "date" : "2020-06-20",
+      "localName" : "Paso a la Inmortalidad del General Manuel Belgrano"
+    },
+    {
+      "date" : "2020-07-09",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2020-08-17",
+      "localName" : "Paso a la Inmortalidad del General José de San Martín"
+    },
+    {
+      "date" : "2020-10-12",
+      "localName" : "Día del Respeto a la Diversidad Cultural"
+    },
+    {
+      "date" : "2020-11-20",
+      "localName" : "Día de la Soberanía Nacional"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Día de la Inmaculada Concepción de María"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2021-02-15",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2021-02-16",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2021-03-24",
+      "localName" : "Día Nacional de la Memoria por la Verdad y la Justicia"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2021-05-25",
+      "localName" : "Día de la Revolución de Mayo"
+    },
+    {
+      "date" : "2021-06-17",
+      "localName" : "Paso a la Inmortalidad del General Martín Miguel de Güemes"
+    },
+    {
+      "date" : "2021-06-20",
+      "localName" : "Paso a la Inmortalidad del General Manuel Belgrano"
+    },
+    {
+      "date" : "2021-07-09",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2021-08-16",
+      "localName" : "Paso a la Inmortalidad del General José de San Martín"
+    },
+    {
+      "date" : "2021-10-11",
+      "localName" : "Día del Respeto a la Diversidad Cultural"
+    },
+    {
+      "date" : "2021-11-20",
+      "localName" : "Día de la Soberanía Nacional"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Día de la Inmaculada Concepción de María"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2022-02-28",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2022-03-01",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2022-03-24",
+      "localName" : "Día Nacional de la Memoria por la Verdad y la Justicia"
+    },
+    {
+      "date" : "2022-04-02",
+      "localName" : "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2022-05-25",
+      "localName" : "Día de la Revolución de Mayo"
+    },
+    {
+      "date" : "2022-06-17",
+      "localName" : "Paso a la Inmortalidad del General Martín Miguel de Güemes"
+    },
+    {
+      "date" : "2022-06-20",
+      "localName" : "Paso a la Inmortalidad del General Manuel Belgrano"
+    },
+    {
+      "date" : "2022-07-09",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Paso a la Inmortalidad del General José de San Martín"
+    },
+    {
+      "date" : "2022-10-10",
+      "localName" : "Día del Respeto a la Diversidad Cultural"
+    },
+    {
+      "date" : "2022-11-20",
+      "localName" : "Día de la Soberanía Nacional"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Día de la Inmaculada Concepción de María"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2023-02-20",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2023-02-21",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2023-03-24",
+      "localName" : "Día Nacional de la Memoria por la Verdad y la Justicia"
+    },
+    {
+      "date" : "2023-04-02",
+      "localName" : "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2023-05-25",
+      "localName" : "Día de la Revolución de Mayo"
+    },
+    {
+      "date" : "2023-06-17",
+      "localName" : "Paso a la Inmortalidad del General Martín Miguel de Güemes"
+    },
+    {
+      "date" : "2023-06-20",
+      "localName" : "Paso a la Inmortalidad del General Manuel Belgrano"
+    },
+    {
+      "date" : "2023-07-09",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2023-08-21",
+      "localName" : "Paso a la Inmortalidad del General José de San Martín"
+    },
+    {
+      "date" : "2023-10-09",
+      "localName" : "Día del Respeto a la Diversidad Cultural"
+    },
+    {
+      "date" : "2023-11-20",
+      "localName" : "Día de la Soberanía Nacional"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Día de la Inmaculada Concepción de María"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2024-02-12",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2024-02-13",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2024-03-24",
+      "localName" : "Día Nacional de la Memoria por la Verdad y la Justicia"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2024-04-02",
+      "localName" : "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2024-05-25",
+      "localName" : "Día de la Revolución de Mayo"
+    },
+    {
+      "date" : "2024-06-17",
+      "localName" : "Paso a la Inmortalidad del General Martín Miguel de Güemes"
+    },
+    {
+      "date" : "2024-06-20",
+      "localName" : "Paso a la Inmortalidad del General Manuel Belgrano"
+    },
+    {
+      "date" : "2024-07-09",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2024-08-19",
+      "localName" : "Paso a la Inmortalidad del General José de San Martín"
+    },
+    {
+      "date" : "2024-10-14",
+      "localName" : "Día del Respeto a la Diversidad Cultural"
+    },
+    {
+      "date" : "2024-11-20",
+      "localName" : "Día de la Soberanía Nacional"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Día de la Inmaculada Concepción de María"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2025-03-03",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2025-03-04",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2025-03-24",
+      "localName" : "Día Nacional de la Memoria por la Verdad y la Justicia"
+    },
+    {
+      "date" : "2025-04-02",
+      "localName" : "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2025-05-25",
+      "localName" : "Día de la Revolución de Mayo"
+    },
+    {
+      "date" : "2025-06-17",
+      "localName" : "Paso a la Inmortalidad del General Martín Miguel de Güemes"
+    },
+    {
+      "date" : "2025-06-20",
+      "localName" : "Paso a la Inmortalidad del General Manuel Belgrano"
+    },
+    {
+      "date" : "2025-07-09",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2025-08-18",
+      "localName" : "Paso a la Inmortalidad del General José de San Martín"
+    },
+    {
+      "date" : "2025-10-13",
+      "localName" : "Día del Respeto a la Diversidad Cultural"
+    },
+    {
+      "date" : "2025-11-20",
+      "localName" : "Día de la Soberanía Nacional"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Día de la Inmaculada Concepción de María"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Navidad"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

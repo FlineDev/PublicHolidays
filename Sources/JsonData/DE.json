@@ -1,0 +1,3439 @@
+{
+  "isoCode" : "DE",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Christi Himmelfahrt"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2020-10-03",
+      "localName" : "Tag der Deutschen Einheit"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Erster Weihnachtstag"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Zweiter Weihnachtstag"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Christi Himmelfahrt"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2021-10-03",
+      "localName" : "Tag der Deutschen Einheit"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Erster Weihnachtstag"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Zweiter Weihnachtstag"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Christi Himmelfahrt"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2022-10-03",
+      "localName" : "Tag der Deutschen Einheit"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Erster Weihnachtstag"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Zweiter Weihnachtstag"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Christi Himmelfahrt"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2023-10-03",
+      "localName" : "Tag der Deutschen Einheit"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Erster Weihnachtstag"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Zweiter Weihnachtstag"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Christi Himmelfahrt"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2024-10-03",
+      "localName" : "Tag der Deutschen Einheit"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Erster Weihnachtstag"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Zweiter Weihnachtstag"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Christi Himmelfahrt"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2025-10-03",
+      "localName" : "Tag der Deutschen Einheit"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Erster Weihnachtstag"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Zweiter Weihnachtstag"
+    }
+  ],
+  "subTerritories" : [
+    {
+      "isoCode" : "BB",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "BE",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "BW",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "BY",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "HB",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "HE",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "HH",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MV",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NI",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NW",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "RP",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "SH",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "SL",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "SN",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "ST",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    },
+    {
+      "isoCode" : "TH",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2020-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2020-05-08",
+          "localName" : "Tag der Befreiung"
+        },
+        {
+          "date" : "2020-06-11",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2020-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2020-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2020-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2020-11-18",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2021-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2021-06-03",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2021-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2021-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2021-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2021-11-17",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2022-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2022-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2022-06-16",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2022-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2022-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2022-11-16",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2023-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2023-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2023-06-08",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2023-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2023-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2023-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2023-11-22",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2024-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2024-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2024-05-30",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2024-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2024-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2024-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2024-11-20",
+          "localName" : "Buß- und Bettag"
+        },
+        {
+          "date" : "2025-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2025-03-08",
+          "localName" : "Internationaler Frauentag"
+        },
+        {
+          "date" : "2025-06-19",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2025-08-15",
+          "localName" : "Mariä Himmelfahrt"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Weltkindertag"
+        },
+        {
+          "date" : "2025-10-31",
+          "localName" : "Reformationstag"
+        },
+        {
+          "date" : "2025-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2025-11-19",
+          "localName" : "Buß- und Bettag"
+        }
+      ]
+    }
+  ]
+}

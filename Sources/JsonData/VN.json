@@ -1,0 +1,104 @@
+{
+  "isoCode" : "VN",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Tết dương lịch"
+    },
+    {
+      "date" : "2020-04-30",
+      "localName" : "Ngày Giải phóng miền Nam, thống nhất đất nước"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Ngày Quốc tế lao động"
+    },
+    {
+      "date" : "2020-09-02",
+      "localName" : "Quốc khánh"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Tết dương lịch"
+    },
+    {
+      "date" : "2021-04-30",
+      "localName" : "Ngày Giải phóng miền Nam, thống nhất đất nước"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Ngày Quốc tế lao động"
+    },
+    {
+      "date" : "2021-09-02",
+      "localName" : "Quốc khánh"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Tết dương lịch"
+    },
+    {
+      "date" : "2022-04-30",
+      "localName" : "Ngày Giải phóng miền Nam, thống nhất đất nước"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Ngày Quốc tế lao động"
+    },
+    {
+      "date" : "2022-09-02",
+      "localName" : "Quốc khánh"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Tết dương lịch"
+    },
+    {
+      "date" : "2023-04-30",
+      "localName" : "Ngày Giải phóng miền Nam, thống nhất đất nước"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Ngày Quốc tế lao động"
+    },
+    {
+      "date" : "2023-09-02",
+      "localName" : "Quốc khánh"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Tết dương lịch"
+    },
+    {
+      "date" : "2024-04-30",
+      "localName" : "Ngày Giải phóng miền Nam, thống nhất đất nước"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Ngày Quốc tế lao động"
+    },
+    {
+      "date" : "2024-09-02",
+      "localName" : "Quốc khánh"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Tết dương lịch"
+    },
+    {
+      "date" : "2025-04-30",
+      "localName" : "Ngày Giải phóng miền Nam, thống nhất đất nước"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Ngày Quốc tế lao động"
+    },
+    {
+      "date" : "2025-09-02",
+      "localName" : "Quốc khánh"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

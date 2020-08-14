@@ -1,0 +1,224 @@
+{
+  "isoCode" : "MA",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Ras l' âm"
+    },
+    {
+      "date" : "2020-01-11",
+      "localName" : "Takdim watikat al-istiqlal"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Eid Ash-Shughl"
+    },
+    {
+      "date" : "2020-07-30",
+      "localName" : "Eid Al-Ârch"
+    },
+    {
+      "date" : "2020-08-14",
+      "localName" : "Oued Ed-Dahab Day"
+    },
+    {
+      "date" : "2020-08-20",
+      "localName" : "Thawrat al malik wa shâab"
+    },
+    {
+      "date" : "2020-08-21",
+      "localName" : "Eid Al Chabab"
+    },
+    {
+      "date" : "2020-11-06",
+      "localName" : "Eid Al Massira Al Khadra"
+    },
+    {
+      "date" : "2020-11-18",
+      "localName" : "Eid Al Istiqulal"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Ras l' âm"
+    },
+    {
+      "date" : "2021-01-11",
+      "localName" : "Takdim watikat al-istiqlal"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Eid Ash-Shughl"
+    },
+    {
+      "date" : "2021-07-30",
+      "localName" : "Eid Al-Ârch"
+    },
+    {
+      "date" : "2021-08-14",
+      "localName" : "Oued Ed-Dahab Day"
+    },
+    {
+      "date" : "2021-08-20",
+      "localName" : "Thawrat al malik wa shâab"
+    },
+    {
+      "date" : "2021-08-21",
+      "localName" : "Eid Al Chabab"
+    },
+    {
+      "date" : "2021-11-06",
+      "localName" : "Eid Al Massira Al Khadra"
+    },
+    {
+      "date" : "2021-11-18",
+      "localName" : "Eid Al Istiqulal"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Ras l' âm"
+    },
+    {
+      "date" : "2022-01-11",
+      "localName" : "Takdim watikat al-istiqlal"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Eid Ash-Shughl"
+    },
+    {
+      "date" : "2022-07-30",
+      "localName" : "Eid Al-Ârch"
+    },
+    {
+      "date" : "2022-08-14",
+      "localName" : "Oued Ed-Dahab Day"
+    },
+    {
+      "date" : "2022-08-20",
+      "localName" : "Thawrat al malik wa shâab"
+    },
+    {
+      "date" : "2022-08-21",
+      "localName" : "Eid Al Chabab"
+    },
+    {
+      "date" : "2022-11-06",
+      "localName" : "Eid Al Massira Al Khadra"
+    },
+    {
+      "date" : "2022-11-18",
+      "localName" : "Eid Al Istiqulal"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Ras l' âm"
+    },
+    {
+      "date" : "2023-01-11",
+      "localName" : "Takdim watikat al-istiqlal"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Eid Ash-Shughl"
+    },
+    {
+      "date" : "2023-07-30",
+      "localName" : "Eid Al-Ârch"
+    },
+    {
+      "date" : "2023-08-14",
+      "localName" : "Oued Ed-Dahab Day"
+    },
+    {
+      "date" : "2023-08-20",
+      "localName" : "Thawrat al malik wa shâab"
+    },
+    {
+      "date" : "2023-08-21",
+      "localName" : "Eid Al Chabab"
+    },
+    {
+      "date" : "2023-11-06",
+      "localName" : "Eid Al Massira Al Khadra"
+    },
+    {
+      "date" : "2023-11-18",
+      "localName" : "Eid Al Istiqulal"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Ras l' âm"
+    },
+    {
+      "date" : "2024-01-11",
+      "localName" : "Takdim watikat al-istiqlal"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Eid Ash-Shughl"
+    },
+    {
+      "date" : "2024-07-30",
+      "localName" : "Eid Al-Ârch"
+    },
+    {
+      "date" : "2024-08-14",
+      "localName" : "Oued Ed-Dahab Day"
+    },
+    {
+      "date" : "2024-08-20",
+      "localName" : "Thawrat al malik wa shâab"
+    },
+    {
+      "date" : "2024-08-21",
+      "localName" : "Eid Al Chabab"
+    },
+    {
+      "date" : "2024-11-06",
+      "localName" : "Eid Al Massira Al Khadra"
+    },
+    {
+      "date" : "2024-11-18",
+      "localName" : "Eid Al Istiqulal"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Ras l' âm"
+    },
+    {
+      "date" : "2025-01-11",
+      "localName" : "Takdim watikat al-istiqlal"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Eid Ash-Shughl"
+    },
+    {
+      "date" : "2025-07-30",
+      "localName" : "Eid Al-Ârch"
+    },
+    {
+      "date" : "2025-08-14",
+      "localName" : "Oued Ed-Dahab Day"
+    },
+    {
+      "date" : "2025-08-20",
+      "localName" : "Thawrat al malik wa shâab"
+    },
+    {
+      "date" : "2025-08-21",
+      "localName" : "Eid Al Chabab"
+    },
+    {
+      "date" : "2025-11-06",
+      "localName" : "Eid Al Massira Al Khadra"
+    },
+    {
+      "date" : "2025-11-18",
+      "localName" : "Eid Al Istiqulal"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "isoCode" : "TN",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-01-14",
+      "localName" : "Revolution and Youth Day"
+    },
+    {
+      "date" : "2020-03-20",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-04-09",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Victory Day"
+    },
+    {
+      "date" : "2020-07-25",
+      "localName" : "Republic Day"
+    },
+    {
+      "date" : "2020-08-13",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2020-10-15",
+      "localName" : "Eid El Jala'"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-01-14",
+      "localName" : "Revolution and Youth Day"
+    },
+    {
+      "date" : "2021-03-20",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-04-09",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2021-06-01",
+      "localName" : "Victory Day"
+    },
+    {
+      "date" : "2021-07-25",
+      "localName" : "Republic Day"
+    },
+    {
+      "date" : "2021-08-13",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2021-10-15",
+      "localName" : "Eid El Jala'"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-01-14",
+      "localName" : "Revolution and Youth Day"
+    },
+    {
+      "date" : "2022-03-20",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-04-09",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2022-06-01",
+      "localName" : "Victory Day"
+    },
+    {
+      "date" : "2022-07-25",
+      "localName" : "Republic Day"
+    },
+    {
+      "date" : "2022-08-13",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2022-10-15",
+      "localName" : "Eid El Jala'"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-01-14",
+      "localName" : "Revolution and Youth Day"
+    },
+    {
+      "date" : "2023-03-20",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2023-06-01",
+      "localName" : "Victory Day"
+    },
+    {
+      "date" : "2023-07-25",
+      "localName" : "Republic Day"
+    },
+    {
+      "date" : "2023-08-13",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2023-10-15",
+      "localName" : "Eid El Jala'"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-01-14",
+      "localName" : "Revolution and Youth Day"
+    },
+    {
+      "date" : "2024-03-20",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-04-09",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2024-06-01",
+      "localName" : "Victory Day"
+    },
+    {
+      "date" : "2024-07-25",
+      "localName" : "Republic Day"
+    },
+    {
+      "date" : "2024-08-13",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2024-10-15",
+      "localName" : "Eid El Jala'"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-01-14",
+      "localName" : "Revolution and Youth Day"
+    },
+    {
+      "date" : "2025-03-20",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-04-09",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2025-06-01",
+      "localName" : "Victory Day"
+    },
+    {
+      "date" : "2025-07-25",
+      "localName" : "Republic Day"
+    },
+    {
+      "date" : "2025-08-13",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2025-10-15",
+      "localName" : "Eid El Jala'"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

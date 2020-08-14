@@ -1,0 +1,296 @@
+{
+  "isoCode" : "MC",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Le jour de l’An"
+    },
+    {
+      "date" : "2020-01-27",
+      "localName" : "La Sainte Dévote"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Le 1er mai"
+    },
+    {
+      "date" : "2020-05-22",
+      "localName" : "L’Ascension"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Le lundi de Pentecôte"
+    },
+    {
+      "date" : "2020-06-11",
+      "localName" : "La Fête Dieu"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2020-11-02",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2020-11-19",
+      "localName" : "La Fête du Prince"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "L’Immaculée Conception"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Noël​"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Le jour de l’An"
+    },
+    {
+      "date" : "2021-01-27",
+      "localName" : "La Sainte Dévote"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Le 1er mai"
+    },
+    {
+      "date" : "2021-05-14",
+      "localName" : "L’Ascension"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Le lundi de Pentecôte"
+    },
+    {
+      "date" : "2021-06-03",
+      "localName" : "La Fête Dieu"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2021-11-19",
+      "localName" : "La Fête du Prince"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "L’Immaculée Conception"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Noël​"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Le jour de l’An"
+    },
+    {
+      "date" : "2022-01-27",
+      "localName" : "La Sainte Dévote"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Le 1er mai"
+    },
+    {
+      "date" : "2022-05-27",
+      "localName" : "L’Ascension"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Le lundi de Pentecôte"
+    },
+    {
+      "date" : "2022-06-16",
+      "localName" : "La Fête Dieu"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2022-11-19",
+      "localName" : "La Fête du Prince"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "L’Immaculée Conception"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Noël​"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "Le jour de l’An"
+    },
+    {
+      "date" : "2023-01-27",
+      "localName" : "La Sainte Dévote"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Le 1er mai"
+    },
+    {
+      "date" : "2023-05-19",
+      "localName" : "L’Ascension"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Le lundi de Pentecôte"
+    },
+    {
+      "date" : "2023-06-08",
+      "localName" : "La Fête Dieu"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2023-11-20",
+      "localName" : "La Fête du Prince"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "L’Immaculée Conception"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Noël​"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Le jour de l’An"
+    },
+    {
+      "date" : "2024-01-27",
+      "localName" : "La Sainte Dévote"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Le 1er mai"
+    },
+    {
+      "date" : "2024-05-10",
+      "localName" : "L’Ascension"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Le lundi de Pentecôte"
+    },
+    {
+      "date" : "2024-05-30",
+      "localName" : "La Fête Dieu"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2024-11-19",
+      "localName" : "La Fête du Prince"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "L’Immaculée Conception"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Noël​"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Le jour de l’An"
+    },
+    {
+      "date" : "2025-01-27",
+      "localName" : "La Sainte Dévote"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Le 1er mai"
+    },
+    {
+      "date" : "2025-05-30",
+      "localName" : "L’Ascension"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Le lundi de Pentecôte"
+    },
+    {
+      "date" : "2025-06-19",
+      "localName" : "La Fête Dieu"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2025-11-19",
+      "localName" : "La Fête du Prince"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "L’Immaculée Conception"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Noël​"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

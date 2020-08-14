@@ -1,0 +1,224 @@
+{
+  "isoCode" : "CU",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Triunfo de la Revolución"
+    },
+    {
+      "date" : "2020-01-02",
+      "localName" : "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Día de los trabajadores"
+    },
+    {
+      "date" : "2020-07-25",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2020-07-26",
+      "localName" : "Día de la Rebeldía Nacional"
+    },
+    {
+      "date" : "2020-07-27",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2020-10-10",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Triunfo de la Revolución"
+    },
+    {
+      "date" : "2021-01-02",
+      "localName" : "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Día de los trabajadores"
+    },
+    {
+      "date" : "2021-07-25",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2021-07-26",
+      "localName" : "Día de la Rebeldía Nacional"
+    },
+    {
+      "date" : "2021-07-27",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2021-10-10",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Triunfo de la Revolución"
+    },
+    {
+      "date" : "2022-01-02",
+      "localName" : "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Día de los trabajadores"
+    },
+    {
+      "date" : "2022-07-25",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2022-07-26",
+      "localName" : "Día de la Rebeldía Nacional"
+    },
+    {
+      "date" : "2022-07-27",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2022-10-10",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Triunfo de la Revolución"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Día de los trabajadores"
+    },
+    {
+      "date" : "2023-07-25",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2023-07-26",
+      "localName" : "Día de la Rebeldía Nacional"
+    },
+    {
+      "date" : "2023-07-27",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2023-10-10",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Triunfo de la Revolución"
+    },
+    {
+      "date" : "2024-01-02",
+      "localName" : "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Día de los trabajadores"
+    },
+    {
+      "date" : "2024-07-25",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2024-07-26",
+      "localName" : "Día de la Rebeldía Nacional"
+    },
+    {
+      "date" : "2024-07-27",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2024-10-10",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Triunfo de la Revolución"
+    },
+    {
+      "date" : "2025-01-02",
+      "localName" : "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Día de los trabajadores"
+    },
+    {
+      "date" : "2025-07-25",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2025-07-26",
+      "localName" : "Día de la Rebeldía Nacional"
+    },
+    {
+      "date" : "2025-07-27",
+      "localName" : "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date" : "2025-10-10",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Navidad"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

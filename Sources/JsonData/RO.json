@@ -1,0 +1,368 @@
+{
+  "isoCode" : "RO",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2020-01-02",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2020-01-24",
+      "localName" : "Unirea Principatelor Române\/Mica Unire"
+    },
+    {
+      "date" : "2020-04-17",
+      "localName" : "Vinerea mare"
+    },
+    {
+      "date" : "2020-04-19",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2020-04-20",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Ziua Muncii"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Ziua Copilului"
+    },
+    {
+      "date" : "2020-06-07",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2020-06-08",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Adormirea Maicii Domnului\/Sfânta Maria Mare"
+    },
+    {
+      "date" : "2020-11-30",
+      "localName" : "Sfântul Andrei"
+    },
+    {
+      "date" : "2020-12-01",
+      "localName" : "Ziua Națională\/Marea Unire"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2021-01-02",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2021-01-24",
+      "localName" : "Unirea Principatelor Române\/Mica Unire"
+    },
+    {
+      "date" : "2021-04-30",
+      "localName" : "Vinerea mare"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Ziua Muncii"
+    },
+    {
+      "date" : "2021-05-02",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2021-05-03",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2021-06-01",
+      "localName" : "Ziua Copilului"
+    },
+    {
+      "date" : "2021-06-20",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2021-06-21",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Adormirea Maicii Domnului\/Sfânta Maria Mare"
+    },
+    {
+      "date" : "2021-11-30",
+      "localName" : "Sfântul Andrei"
+    },
+    {
+      "date" : "2021-12-01",
+      "localName" : "Ziua Națională\/Marea Unire"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2022-01-02",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2022-01-24",
+      "localName" : "Unirea Principatelor Române\/Mica Unire"
+    },
+    {
+      "date" : "2022-04-22",
+      "localName" : "Vinerea mare"
+    },
+    {
+      "date" : "2022-04-24",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2022-04-25",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Ziua Muncii"
+    },
+    {
+      "date" : "2022-06-01",
+      "localName" : "Ziua Copilului"
+    },
+    {
+      "date" : "2022-06-12",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2022-06-13",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Adormirea Maicii Domnului\/Sfânta Maria Mare"
+    },
+    {
+      "date" : "2022-11-30",
+      "localName" : "Sfântul Andrei"
+    },
+    {
+      "date" : "2022-12-01",
+      "localName" : "Ziua Națională\/Marea Unire"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2023-01-24",
+      "localName" : "Unirea Principatelor Române\/Mica Unire"
+    },
+    {
+      "date" : "2023-04-14",
+      "localName" : "Vinerea mare"
+    },
+    {
+      "date" : "2023-04-16",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2023-04-17",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Ziua Muncii"
+    },
+    {
+      "date" : "2023-06-01",
+      "localName" : "Ziua Copilului"
+    },
+    {
+      "date" : "2023-06-04",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2023-06-05",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Adormirea Maicii Domnului\/Sfânta Maria Mare"
+    },
+    {
+      "date" : "2023-11-30",
+      "localName" : "Sfântul Andrei"
+    },
+    {
+      "date" : "2023-12-01",
+      "localName" : "Ziua Națională\/Marea Unire"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2024-01-02",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2024-01-24",
+      "localName" : "Unirea Principatelor Române\/Mica Unire"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Ziua Muncii"
+    },
+    {
+      "date" : "2024-05-03",
+      "localName" : "Vinerea mare"
+    },
+    {
+      "date" : "2024-05-05",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2024-05-06",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2024-06-01",
+      "localName" : "Ziua Copilului"
+    },
+    {
+      "date" : "2024-06-23",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2024-06-24",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Adormirea Maicii Domnului\/Sfânta Maria Mare"
+    },
+    {
+      "date" : "2024-11-30",
+      "localName" : "Sfântul Andrei"
+    },
+    {
+      "date" : "2024-12-01",
+      "localName" : "Ziua Națională\/Marea Unire"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2025-01-02",
+      "localName" : "Anul Nou"
+    },
+    {
+      "date" : "2025-01-24",
+      "localName" : "Unirea Principatelor Române\/Mica Unire"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Vinerea mare"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Paștele"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Ziua Muncii"
+    },
+    {
+      "date" : "2025-06-01",
+      "localName" : "Ziua Copilului"
+    },
+    {
+      "date" : "2025-06-08",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Rusaliile"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Adormirea Maicii Domnului\/Sfânta Maria Mare"
+    },
+    {
+      "date" : "2025-11-30",
+      "localName" : "Sfântul Andrei"
+    },
+    {
+      "date" : "2025-12-01",
+      "localName" : "Ziua Națională\/Marea Unire"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Crăciunul"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Crăciunul"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

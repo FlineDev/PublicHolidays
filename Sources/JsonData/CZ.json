@@ -1,0 +1,320 @@
+{
+  "isoCode" : "CZ",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Den obnovy samostatného českého státu; Nový rok"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Velký pátek"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Velikonoční pondělí"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Svátek práce"
+    },
+    {
+      "date" : "2020-05-08",
+      "localName" : "Den vítězství"
+    },
+    {
+      "date" : "2020-07-05",
+      "localName" : "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date" : "2020-07-06",
+      "localName" : "Den upálení mistra Jana Husa"
+    },
+    {
+      "date" : "2020-09-28",
+      "localName" : "Den české státnosti"
+    },
+    {
+      "date" : "2020-10-28",
+      "localName" : "Den vzniku samostatného československého státu"
+    },
+    {
+      "date" : "2020-11-17",
+      "localName" : "Den boje za svobodu a demokracii a Mezinárodní den studentstva"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "Štědrý den"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "1. svátek vánoční"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "2. svátek vánoční"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Den obnovy samostatného českého státu; Nový rok"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Velký pátek"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Velikonoční pondělí"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Svátek práce"
+    },
+    {
+      "date" : "2021-05-08",
+      "localName" : "Den vítězství"
+    },
+    {
+      "date" : "2021-07-05",
+      "localName" : "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date" : "2021-07-06",
+      "localName" : "Den upálení mistra Jana Husa"
+    },
+    {
+      "date" : "2021-09-28",
+      "localName" : "Den české státnosti"
+    },
+    {
+      "date" : "2021-10-28",
+      "localName" : "Den vzniku samostatného československého státu"
+    },
+    {
+      "date" : "2021-11-17",
+      "localName" : "Den boje za svobodu a demokracii a Mezinárodní den studentstva"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Štědrý den"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "1. svátek vánoční"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "2. svátek vánoční"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Den obnovy samostatného českého státu; Nový rok"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Velký pátek"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Velikonoční pondělí"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Svátek práce"
+    },
+    {
+      "date" : "2022-05-08",
+      "localName" : "Den vítězství"
+    },
+    {
+      "date" : "2022-07-05",
+      "localName" : "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date" : "2022-07-06",
+      "localName" : "Den upálení mistra Jana Husa"
+    },
+    {
+      "date" : "2022-09-28",
+      "localName" : "Den české státnosti"
+    },
+    {
+      "date" : "2022-10-28",
+      "localName" : "Den vzniku samostatného československého státu"
+    },
+    {
+      "date" : "2022-11-17",
+      "localName" : "Den boje za svobodu a demokracii a Mezinárodní den studentstva"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "Štědrý den"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "1. svátek vánoční"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "2. svátek vánoční"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Den obnovy samostatného českého státu; Nový rok"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Velký pátek"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Velikonoční pondělí"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Svátek práce"
+    },
+    {
+      "date" : "2023-05-08",
+      "localName" : "Den vítězství"
+    },
+    {
+      "date" : "2023-07-05",
+      "localName" : "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date" : "2023-07-06",
+      "localName" : "Den upálení mistra Jana Husa"
+    },
+    {
+      "date" : "2023-09-28",
+      "localName" : "Den české státnosti"
+    },
+    {
+      "date" : "2023-10-28",
+      "localName" : "Den vzniku samostatného československého státu"
+    },
+    {
+      "date" : "2023-11-17",
+      "localName" : "Den boje za svobodu a demokracii a Mezinárodní den studentstva"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "Štědrý den"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "1. svátek vánoční"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "2. svátek vánoční"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Den obnovy samostatného českého státu; Nový rok"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Velký pátek"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Velikonoční pondělí"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Svátek práce"
+    },
+    {
+      "date" : "2024-05-08",
+      "localName" : "Den vítězství"
+    },
+    {
+      "date" : "2024-07-05",
+      "localName" : "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date" : "2024-07-06",
+      "localName" : "Den upálení mistra Jana Husa"
+    },
+    {
+      "date" : "2024-09-28",
+      "localName" : "Den české státnosti"
+    },
+    {
+      "date" : "2024-10-28",
+      "localName" : "Den vzniku samostatného československého státu"
+    },
+    {
+      "date" : "2024-11-17",
+      "localName" : "Den boje za svobodu a demokracii a Mezinárodní den studentstva"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "Štědrý den"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "1. svátek vánoční"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "2. svátek vánoční"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Den obnovy samostatného českého státu; Nový rok"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Velký pátek"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Velikonoční pondělí"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Svátek práce"
+    },
+    {
+      "date" : "2025-05-08",
+      "localName" : "Den vítězství"
+    },
+    {
+      "date" : "2025-07-05",
+      "localName" : "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date" : "2025-07-06",
+      "localName" : "Den upálení mistra Jana Husa"
+    },
+    {
+      "date" : "2025-09-28",
+      "localName" : "Den české státnosti"
+    },
+    {
+      "date" : "2025-10-28",
+      "localName" : "Den vzniku samostatného československého státu"
+    },
+    {
+      "date" : "2025-11-17",
+      "localName" : "Den boje za svobodu a demokracii a Mezinárodní den studentstva"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "Štědrý den"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "1. svátek vánoční"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "2. svátek vánoční"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

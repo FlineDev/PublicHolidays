@@ -1,0 +1,296 @@
+{
+  "isoCode" : "EE",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "uusaasta"
+    },
+    {
+      "date" : "2020-02-24",
+      "localName" : "iseseisvuspäev"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "suur reede"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "ülestõusmispühade 1. püha"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "kevadpüha"
+    },
+    {
+      "date" : "2020-05-31",
+      "localName" : "nelipühade 1. püha"
+    },
+    {
+      "date" : "2020-06-23",
+      "localName" : "võidupüha and jaanilaupäev"
+    },
+    {
+      "date" : "2020-06-24",
+      "localName" : "jaanipäev"
+    },
+    {
+      "date" : "2020-08-20",
+      "localName" : "taasiseseisvumispäev"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "jõululaupäev"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "esimene jõulupüha"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "teine jõulupüha"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "uusaasta"
+    },
+    {
+      "date" : "2021-02-24",
+      "localName" : "iseseisvuspäev"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "suur reede"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "ülestõusmispühade 1. püha"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "kevadpüha"
+    },
+    {
+      "date" : "2021-05-23",
+      "localName" : "nelipühade 1. püha"
+    },
+    {
+      "date" : "2021-06-23",
+      "localName" : "võidupüha and jaanilaupäev"
+    },
+    {
+      "date" : "2021-06-24",
+      "localName" : "jaanipäev"
+    },
+    {
+      "date" : "2021-08-20",
+      "localName" : "taasiseseisvumispäev"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "jõululaupäev"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "esimene jõulupüha"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "teine jõulupüha"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "uusaasta"
+    },
+    {
+      "date" : "2022-02-24",
+      "localName" : "iseseisvuspäev"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "suur reede"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "ülestõusmispühade 1. püha"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "kevadpüha"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "nelipühade 1. püha"
+    },
+    {
+      "date" : "2022-06-23",
+      "localName" : "võidupüha and jaanilaupäev"
+    },
+    {
+      "date" : "2022-06-24",
+      "localName" : "jaanipäev"
+    },
+    {
+      "date" : "2022-08-20",
+      "localName" : "taasiseseisvumispäev"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "jõululaupäev"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "esimene jõulupüha"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "teine jõulupüha"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "uusaasta"
+    },
+    {
+      "date" : "2023-02-24",
+      "localName" : "iseseisvuspäev"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "suur reede"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "ülestõusmispühade 1. püha"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "kevadpüha"
+    },
+    {
+      "date" : "2023-05-28",
+      "localName" : "nelipühade 1. püha"
+    },
+    {
+      "date" : "2023-06-23",
+      "localName" : "võidupüha and jaanilaupäev"
+    },
+    {
+      "date" : "2023-06-24",
+      "localName" : "jaanipäev"
+    },
+    {
+      "date" : "2023-08-20",
+      "localName" : "taasiseseisvumispäev"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "jõululaupäev"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "esimene jõulupüha"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "teine jõulupüha"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "uusaasta"
+    },
+    {
+      "date" : "2024-02-24",
+      "localName" : "iseseisvuspäev"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "suur reede"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "ülestõusmispühade 1. püha"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "kevadpüha"
+    },
+    {
+      "date" : "2024-05-19",
+      "localName" : "nelipühade 1. püha"
+    },
+    {
+      "date" : "2024-06-23",
+      "localName" : "võidupüha and jaanilaupäev"
+    },
+    {
+      "date" : "2024-06-24",
+      "localName" : "jaanipäev"
+    },
+    {
+      "date" : "2024-08-20",
+      "localName" : "taasiseseisvumispäev"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "jõululaupäev"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "esimene jõulupüha"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "teine jõulupüha"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "uusaasta"
+    },
+    {
+      "date" : "2025-02-24",
+      "localName" : "iseseisvuspäev"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "suur reede"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "ülestõusmispühade 1. püha"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "kevadpüha"
+    },
+    {
+      "date" : "2025-06-08",
+      "localName" : "nelipühade 1. püha"
+    },
+    {
+      "date" : "2025-06-23",
+      "localName" : "võidupüha and jaanilaupäev"
+    },
+    {
+      "date" : "2025-06-24",
+      "localName" : "jaanipäev"
+    },
+    {
+      "date" : "2025-08-20",
+      "localName" : "taasiseseisvumispäev"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "jõululaupäev"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "esimene jõulupüha"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "teine jõulupüha"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "isoCode" : "BR",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Confraternização Universal"
+    },
+    {
+      "date" : "2020-02-25",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Sexta feira Santa"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Domingo de Pascoa"
+    },
+    {
+      "date" : "2020-04-21",
+      "localName" : "Dia de Tiradentes"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2020-06-11",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2020-09-07",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2020-10-12",
+      "localName" : "Nossa Senhora Aparecida"
+    },
+    {
+      "date" : "2020-11-02",
+      "localName" : "Dia de Finados"
+    },
+    {
+      "date" : "2020-11-15",
+      "localName" : "Proclamação da República"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Confraternização Universal"
+    },
+    {
+      "date" : "2021-02-16",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Sexta feira Santa"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Domingo de Pascoa"
+    },
+    {
+      "date" : "2021-04-21",
+      "localName" : "Dia de Tiradentes"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2021-06-03",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2021-09-07",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2021-10-12",
+      "localName" : "Nossa Senhora Aparecida"
+    },
+    {
+      "date" : "2021-11-02",
+      "localName" : "Dia de Finados"
+    },
+    {
+      "date" : "2021-11-15",
+      "localName" : "Proclamação da República"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Confraternização Universal"
+    },
+    {
+      "date" : "2022-03-01",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Sexta feira Santa"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Domingo de Pascoa"
+    },
+    {
+      "date" : "2022-04-21",
+      "localName" : "Dia de Tiradentes"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2022-06-16",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2022-09-07",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2022-10-12",
+      "localName" : "Nossa Senhora Aparecida"
+    },
+    {
+      "date" : "2022-11-02",
+      "localName" : "Dia de Finados"
+    },
+    {
+      "date" : "2022-11-15",
+      "localName" : "Proclamação da República"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Confraternização Universal"
+    },
+    {
+      "date" : "2023-02-21",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Sexta feira Santa"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Domingo de Pascoa"
+    },
+    {
+      "date" : "2023-04-21",
+      "localName" : "Dia de Tiradentes"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2023-06-08",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2023-09-07",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2023-10-12",
+      "localName" : "Nossa Senhora Aparecida"
+    },
+    {
+      "date" : "2023-11-02",
+      "localName" : "Dia de Finados"
+    },
+    {
+      "date" : "2023-11-15",
+      "localName" : "Proclamação da República"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Confraternização Universal"
+    },
+    {
+      "date" : "2024-02-13",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Sexta feira Santa"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Domingo de Pascoa"
+    },
+    {
+      "date" : "2024-04-21",
+      "localName" : "Dia de Tiradentes"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2024-05-30",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2024-09-07",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2024-10-12",
+      "localName" : "Nossa Senhora Aparecida"
+    },
+    {
+      "date" : "2024-11-02",
+      "localName" : "Dia de Finados"
+    },
+    {
+      "date" : "2024-11-15",
+      "localName" : "Proclamação da República"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Confraternização Universal"
+    },
+    {
+      "date" : "2025-03-04",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Sexta feira Santa"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Domingo de Pascoa"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Dia de Tiradentes"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2025-06-19",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2025-09-07",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2025-10-12",
+      "localName" : "Nossa Senhora Aparecida"
+    },
+    {
+      "date" : "2025-11-02",
+      "localName" : "Dia de Finados"
+    },
+    {
+      "date" : "2025-11-15",
+      "localName" : "Proclamação da República"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Natal"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "isoCode" : "MT",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "L-Ewwel tas-Sena"
+    },
+    {
+      "date" : "2020-02-10",
+      "localName" : "In-Nawfraġju ta’ San Pawl"
+    },
+    {
+      "date" : "2020-03-19",
+      "localName" : "San Ġużepp"
+    },
+    {
+      "date" : "2020-03-31",
+      "localName" : "Jum il-Ħelsien"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Jum il-Ħaddiem"
+    },
+    {
+      "date" : "2020-06-07",
+      "localName" : "Sette Giugno"
+    },
+    {
+      "date" : "2020-06-29",
+      "localName" : "L-Imnarja"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Santa Marija"
+    },
+    {
+      "date" : "2020-09-08",
+      "localName" : "Il-Vittorja"
+    },
+    {
+      "date" : "2020-09-21",
+      "localName" : "L-Indipendenza"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "L-Immakulata Kunċizzjoni"
+    },
+    {
+      "date" : "2020-12-13",
+      "localName" : "Jum ir-Repubblika"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Il-Milied​"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "L-Ewwel tas-Sena"
+    },
+    {
+      "date" : "2021-02-10",
+      "localName" : "In-Nawfraġju ta’ San Pawl"
+    },
+    {
+      "date" : "2021-03-19",
+      "localName" : "San Ġużepp"
+    },
+    {
+      "date" : "2021-03-31",
+      "localName" : "Jum il-Ħelsien"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Jum il-Ħaddiem"
+    },
+    {
+      "date" : "2021-06-07",
+      "localName" : "Sette Giugno"
+    },
+    {
+      "date" : "2021-06-29",
+      "localName" : "L-Imnarja"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Santa Marija"
+    },
+    {
+      "date" : "2021-09-08",
+      "localName" : "Il-Vittorja"
+    },
+    {
+      "date" : "2021-09-21",
+      "localName" : "L-Indipendenza"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "L-Immakulata Kunċizzjoni"
+    },
+    {
+      "date" : "2021-12-13",
+      "localName" : "Jum ir-Repubblika"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Il-Milied​"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "L-Ewwel tas-Sena"
+    },
+    {
+      "date" : "2022-02-10",
+      "localName" : "In-Nawfraġju ta’ San Pawl"
+    },
+    {
+      "date" : "2022-03-19",
+      "localName" : "San Ġużepp"
+    },
+    {
+      "date" : "2022-03-31",
+      "localName" : "Jum il-Ħelsien"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Jum il-Ħaddiem"
+    },
+    {
+      "date" : "2022-06-07",
+      "localName" : "Sette Giugno"
+    },
+    {
+      "date" : "2022-06-29",
+      "localName" : "L-Imnarja"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Santa Marija"
+    },
+    {
+      "date" : "2022-09-08",
+      "localName" : "Il-Vittorja"
+    },
+    {
+      "date" : "2022-09-21",
+      "localName" : "L-Indipendenza"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "L-Immakulata Kunċizzjoni"
+    },
+    {
+      "date" : "2022-12-13",
+      "localName" : "Jum ir-Repubblika"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Il-Milied​"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "L-Ewwel tas-Sena"
+    },
+    {
+      "date" : "2023-02-10",
+      "localName" : "In-Nawfraġju ta’ San Pawl"
+    },
+    {
+      "date" : "2023-03-19",
+      "localName" : "San Ġużepp"
+    },
+    {
+      "date" : "2023-03-31",
+      "localName" : "Jum il-Ħelsien"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Jum il-Ħaddiem"
+    },
+    {
+      "date" : "2023-06-07",
+      "localName" : "Sette Giugno"
+    },
+    {
+      "date" : "2023-06-29",
+      "localName" : "L-Imnarja"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Santa Marija"
+    },
+    {
+      "date" : "2023-09-08",
+      "localName" : "Il-Vittorja"
+    },
+    {
+      "date" : "2023-09-21",
+      "localName" : "L-Indipendenza"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "L-Immakulata Kunċizzjoni"
+    },
+    {
+      "date" : "2023-12-13",
+      "localName" : "Jum ir-Repubblika"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Il-Milied​"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "L-Ewwel tas-Sena"
+    },
+    {
+      "date" : "2024-02-10",
+      "localName" : "In-Nawfraġju ta’ San Pawl"
+    },
+    {
+      "date" : "2024-03-19",
+      "localName" : "San Ġużepp"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Jum il-Ħelsien"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Jum il-Ħaddiem"
+    },
+    {
+      "date" : "2024-06-07",
+      "localName" : "Sette Giugno"
+    },
+    {
+      "date" : "2024-06-29",
+      "localName" : "L-Imnarja"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Santa Marija"
+    },
+    {
+      "date" : "2024-09-08",
+      "localName" : "Il-Vittorja"
+    },
+    {
+      "date" : "2024-09-21",
+      "localName" : "L-Indipendenza"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "L-Immakulata Kunċizzjoni"
+    },
+    {
+      "date" : "2024-12-13",
+      "localName" : "Jum ir-Repubblika"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Il-Milied​"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "L-Ewwel tas-Sena"
+    },
+    {
+      "date" : "2025-02-10",
+      "localName" : "In-Nawfraġju ta’ San Pawl"
+    },
+    {
+      "date" : "2025-03-19",
+      "localName" : "San Ġużepp"
+    },
+    {
+      "date" : "2025-03-31",
+      "localName" : "Jum il-Ħelsien"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Jum il-Ħaddiem"
+    },
+    {
+      "date" : "2025-06-07",
+      "localName" : "Sette Giugno"
+    },
+    {
+      "date" : "2025-06-29",
+      "localName" : "L-Imnarja"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Santa Marija"
+    },
+    {
+      "date" : "2025-09-08",
+      "localName" : "Il-Vittorja"
+    },
+    {
+      "date" : "2025-09-21",
+      "localName" : "L-Indipendenza"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "L-Immakulata Kunċizzjoni"
+    },
+    {
+      "date" : "2025-12-13",
+      "localName" : "Jum ir-Repubblika"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Il-Milied​"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

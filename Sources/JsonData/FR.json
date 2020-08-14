@@ -1,0 +1,877 @@
+{
+  "isoCode" : "FR",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Lundi de Pâques"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Fête du premier mai"
+    },
+    {
+      "date" : "2020-05-08",
+      "localName" : "Fête de la Victoire"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Jour de l'Ascension"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Lundi de Pentecôte"
+    },
+    {
+      "date" : "2020-07-14",
+      "localName" : "Fête nationale"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2020-11-11",
+      "localName" : "Armistice de 1918"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Noël"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Lundi de Pâques"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Fête du premier mai"
+    },
+    {
+      "date" : "2021-05-08",
+      "localName" : "Fête de la Victoire"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Jour de l'Ascension"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Lundi de Pentecôte"
+    },
+    {
+      "date" : "2021-07-14",
+      "localName" : "Fête nationale"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2021-11-11",
+      "localName" : "Armistice de 1918"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Noël"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Lundi de Pâques"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Fête du premier mai"
+    },
+    {
+      "date" : "2022-05-08",
+      "localName" : "Fête de la Victoire"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Jour de l'Ascension"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Lundi de Pentecôte"
+    },
+    {
+      "date" : "2022-07-14",
+      "localName" : "Fête nationale"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2022-11-11",
+      "localName" : "Armistice de 1918"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Noël"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Lundi de Pâques"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Fête du premier mai"
+    },
+    {
+      "date" : "2023-05-08",
+      "localName" : "Fête de la Victoire"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Jour de l'Ascension"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Lundi de Pentecôte"
+    },
+    {
+      "date" : "2023-07-14",
+      "localName" : "Fête nationale"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2023-11-11",
+      "localName" : "Armistice de 1918"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Noël"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Lundi de Pâques"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Fête du premier mai"
+    },
+    {
+      "date" : "2024-05-08",
+      "localName" : "Fête de la Victoire"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Jour de l'Ascension"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Lundi de Pentecôte"
+    },
+    {
+      "date" : "2024-07-14",
+      "localName" : "Fête nationale"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2024-11-11",
+      "localName" : "Armistice de 1918"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Noël"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Lundi de Pâques"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Fête du premier mai"
+    },
+    {
+      "date" : "2025-05-08",
+      "localName" : "Fête de la Victoire"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Jour de l'Ascension"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Lundi de Pentecôte"
+    },
+    {
+      "date" : "2025-07-14",
+      "localName" : "Fête nationale"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2025-11-11",
+      "localName" : "Armistice de 1918"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Noël"
+    }
+  ],
+  "subTerritories" : [
+    {
+      "isoCode" : "57",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-04-10",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2020-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2020-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2021-04-02",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2021-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2021-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2022-04-15",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2022-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2022-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2023-04-07",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2023-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2024-03-29",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2024-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2025-04-18",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2025-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2025-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "Saint-Étienne"
+        }
+      ]
+    },
+    {
+      "isoCode" : "A",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-04-10",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2020-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2020-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2021-04-02",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2021-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2021-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2022-04-15",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2022-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2022-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2023-04-07",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2023-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2024-03-29",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2024-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2025-04-18",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2025-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2025-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "Saint-Étienne"
+        }
+      ]
+    },
+    {
+      "isoCode" : "BL",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-04-10",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2020-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2020-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2021-04-02",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2021-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2021-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2022-04-15",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2022-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2022-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2023-04-07",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2023-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2024-03-29",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2024-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2025-04-18",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2025-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2025-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "Saint-Étienne"
+        }
+      ]
+    },
+    {
+      "isoCode" : "GP",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-04-10",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2020-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2020-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2021-04-02",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2021-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2021-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2022-04-15",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2022-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2022-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2023-04-07",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2023-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2024-03-29",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2024-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2025-04-18",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2025-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2025-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "Saint-Étienne"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MF",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-04-10",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2020-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2020-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2021-04-02",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2021-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2021-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2022-04-15",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2022-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2022-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2023-04-07",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2023-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2024-03-29",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2024-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2025-04-18",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2025-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2025-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "Saint-Étienne"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MQ",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-04-10",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2020-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2020-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2021-04-02",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2021-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2021-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2022-04-15",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2022-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2022-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2023-04-07",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2023-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2024-03-29",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2024-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "Saint-Étienne"
+        },
+        {
+          "date" : "2025-04-18",
+          "localName" : "Vendredi saint"
+        },
+        {
+          "date" : "2025-05-22",
+          "localName" : "Abolition de l'esclavage"
+        },
+        {
+          "date" : "2025-05-27",
+          "localName" : "Abolition of Slavery"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "Saint-Étienne"
+        }
+      ]
+    }
+  ]
+}

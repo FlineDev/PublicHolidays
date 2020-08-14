@@ -1,0 +1,248 @@
+{
+  "isoCode" : "IE",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Lá Caille"
+    },
+    {
+      "date" : "2020-03-17",
+      "localName" : "Lá Fhéile Pádraig"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Aoine an Chéasta"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Luan Cásca"
+    },
+    {
+      "date" : "2020-05-04",
+      "localName" : "Lá Bealtaine"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Lá Saoire i mí an Mheithimh"
+    },
+    {
+      "date" : "2020-08-03",
+      "localName" : "Lá Saoire i mí Lúnasa"
+    },
+    {
+      "date" : "2020-10-26",
+      "localName" : "Lá Saoire i mí Dheireadh Fómhair"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Lá Nollag"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Lá Fhéile Stiofáin"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Lá Caille"
+    },
+    {
+      "date" : "2021-03-17",
+      "localName" : "Lá Fhéile Pádraig"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Aoine an Chéasta"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Luan Cásca"
+    },
+    {
+      "date" : "2021-05-03",
+      "localName" : "Lá Bealtaine"
+    },
+    {
+      "date" : "2021-06-07",
+      "localName" : "Lá Saoire i mí an Mheithimh"
+    },
+    {
+      "date" : "2021-08-02",
+      "localName" : "Lá Saoire i mí Lúnasa"
+    },
+    {
+      "date" : "2021-10-25",
+      "localName" : "Lá Saoire i mí Dheireadh Fómhair"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Lá Nollag"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Lá Fhéile Stiofáin"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Lá Caille"
+    },
+    {
+      "date" : "2022-03-17",
+      "localName" : "Lá Fhéile Pádraig"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Aoine an Chéasta"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Luan Cásca"
+    },
+    {
+      "date" : "2022-05-02",
+      "localName" : "Lá Bealtaine"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Lá Saoire i mí an Mheithimh"
+    },
+    {
+      "date" : "2022-08-01",
+      "localName" : "Lá Saoire i mí Lúnasa"
+    },
+    {
+      "date" : "2022-10-31",
+      "localName" : "Lá Saoire i mí Dheireadh Fómhair"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Lá Nollag"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Lá Fhéile Stiofáin"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Lá Caille"
+    },
+    {
+      "date" : "2023-03-17",
+      "localName" : "Lá Fhéile Pádraig"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Aoine an Chéasta"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Luan Cásca"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Lá Bealtaine"
+    },
+    {
+      "date" : "2023-06-05",
+      "localName" : "Lá Saoire i mí an Mheithimh"
+    },
+    {
+      "date" : "2023-08-07",
+      "localName" : "Lá Saoire i mí Lúnasa"
+    },
+    {
+      "date" : "2023-10-30",
+      "localName" : "Lá Saoire i mí Dheireadh Fómhair"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Lá Nollag"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Lá Fhéile Stiofáin"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Lá Caille"
+    },
+    {
+      "date" : "2024-03-17",
+      "localName" : "Lá Fhéile Pádraig"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Aoine an Chéasta"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Luan Cásca"
+    },
+    {
+      "date" : "2024-05-06",
+      "localName" : "Lá Bealtaine"
+    },
+    {
+      "date" : "2024-06-03",
+      "localName" : "Lá Saoire i mí an Mheithimh"
+    },
+    {
+      "date" : "2024-08-05",
+      "localName" : "Lá Saoire i mí Lúnasa"
+    },
+    {
+      "date" : "2024-10-28",
+      "localName" : "Lá Saoire i mí Dheireadh Fómhair"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Lá Nollag"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Lá Fhéile Stiofáin"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Lá Caille"
+    },
+    {
+      "date" : "2025-03-17",
+      "localName" : "Lá Fhéile Pádraig"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Aoine an Chéasta"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Luan Cásca"
+    },
+    {
+      "date" : "2025-05-05",
+      "localName" : "Lá Bealtaine"
+    },
+    {
+      "date" : "2025-06-02",
+      "localName" : "Lá Saoire i mí an Mheithimh"
+    },
+    {
+      "date" : "2025-08-04",
+      "localName" : "Lá Saoire i mí Lúnasa"
+    },
+    {
+      "date" : "2025-10-27",
+      "localName" : "Lá Saoire i mí Dheireadh Fómhair"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Lá Nollag"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Lá Fhéile Stiofáin"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

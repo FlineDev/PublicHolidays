@@ -1,0 +1,296 @@
+{
+  "isoCode" : "NA",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-03-21",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Workers' Day"
+    },
+    {
+      "date" : "2020-05-04",
+      "localName" : "Cassinga Day"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2020-05-25",
+      "localName" : "Africa Day"
+    },
+    {
+      "date" : "2020-08-26",
+      "localName" : "Heroes' Day"
+    },
+    {
+      "date" : "2020-12-10",
+      "localName" : "Human Rights Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Day of Goodwill"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-03-21",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Workers' Day"
+    },
+    {
+      "date" : "2021-05-04",
+      "localName" : "Cassinga Day"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2021-05-25",
+      "localName" : "Africa Day"
+    },
+    {
+      "date" : "2021-08-26",
+      "localName" : "Heroes' Day"
+    },
+    {
+      "date" : "2021-12-10",
+      "localName" : "Human Rights Day"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Day of Goodwill"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-03-21",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Workers' Day"
+    },
+    {
+      "date" : "2022-05-04",
+      "localName" : "Cassinga Day"
+    },
+    {
+      "date" : "2022-05-25",
+      "localName" : "Africa Day"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2022-08-26",
+      "localName" : "Heroes' Day"
+    },
+    {
+      "date" : "2022-12-10",
+      "localName" : "Human Rights Day"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Day of Goodwill"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-03-21",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Workers' Day"
+    },
+    {
+      "date" : "2023-05-04",
+      "localName" : "Cassinga Day"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2023-05-25",
+      "localName" : "Africa Day"
+    },
+    {
+      "date" : "2023-08-26",
+      "localName" : "Heroes' Day"
+    },
+    {
+      "date" : "2023-12-10",
+      "localName" : "Human Rights Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Day of Goodwill"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-03-21",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Workers' Day"
+    },
+    {
+      "date" : "2024-05-04",
+      "localName" : "Cassinga Day"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2024-05-25",
+      "localName" : "Africa Day"
+    },
+    {
+      "date" : "2024-08-26",
+      "localName" : "Heroes' Day"
+    },
+    {
+      "date" : "2024-12-10",
+      "localName" : "Human Rights Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Day of Goodwill"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-03-21",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Workers' Day"
+    },
+    {
+      "date" : "2025-05-04",
+      "localName" : "Cassinga Day"
+    },
+    {
+      "date" : "2025-05-25",
+      "localName" : "Africa Day"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2025-08-26",
+      "localName" : "Heroes' Day"
+    },
+    {
+      "date" : "2025-12-10",
+      "localName" : "Human Rights Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Day of Goodwill"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

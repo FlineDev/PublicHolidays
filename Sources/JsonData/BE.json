@@ -1,0 +1,272 @@
+{
+  "isoCode" : "BE",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Nieuwjaar"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Pasen"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : " Paasmaandag"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Dag van de arbeid"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Onze Lieve Heer hemel"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Pinkstermaandag"
+    },
+    {
+      "date" : "2020-07-21",
+      "localName" : "Nationale feestdag"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Onze Lieve Vrouw hemelvaart"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2020-11-11",
+      "localName" : "Wapenstilstand"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Kerstdag"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Nieuwjaar"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Pasen"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : " Paasmaandag"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Dag van de arbeid"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Onze Lieve Heer hemel"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Pinkstermaandag"
+    },
+    {
+      "date" : "2021-07-21",
+      "localName" : "Nationale feestdag"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Onze Lieve Vrouw hemelvaart"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2021-11-11",
+      "localName" : "Wapenstilstand"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Kerstdag"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Nieuwjaar"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Pasen"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : " Paasmaandag"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Dag van de arbeid"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Onze Lieve Heer hemel"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Pinkstermaandag"
+    },
+    {
+      "date" : "2022-07-21",
+      "localName" : "Nationale feestdag"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Onze Lieve Vrouw hemelvaart"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2022-11-11",
+      "localName" : "Wapenstilstand"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Kerstdag"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Nieuwjaar"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Pasen"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : " Paasmaandag"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Dag van de arbeid"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Onze Lieve Heer hemel"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Pinkstermaandag"
+    },
+    {
+      "date" : "2023-07-21",
+      "localName" : "Nationale feestdag"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Onze Lieve Vrouw hemelvaart"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2023-11-11",
+      "localName" : "Wapenstilstand"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Kerstdag"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Nieuwjaar"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Pasen"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : " Paasmaandag"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Dag van de arbeid"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Onze Lieve Heer hemel"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Pinkstermaandag"
+    },
+    {
+      "date" : "2024-07-21",
+      "localName" : "Nationale feestdag"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Onze Lieve Vrouw hemelvaart"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2024-11-11",
+      "localName" : "Wapenstilstand"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Kerstdag"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Nieuwjaar"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Pasen"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : " Paasmaandag"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Dag van de arbeid"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Onze Lieve Heer hemel"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Pinkstermaandag"
+    },
+    {
+      "date" : "2025-07-21",
+      "localName" : "Nationale feestdag"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Onze Lieve Vrouw hemelvaart"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2025-11-11",
+      "localName" : "Wapenstilstand"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Kerstdag"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

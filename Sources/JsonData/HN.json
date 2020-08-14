@@ -1,0 +1,272 @@
+{
+  "isoCode" : "HN",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-04-09",
+      "localName" : "Holy Thursday"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2020-04-11",
+      "localName" : "Holy Saturday"
+    },
+    {
+      "date" : "2020-04-14",
+      "localName" : "America's Day"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2020-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-10-03",
+      "localName" : "Francisco Morazán's Day\/Soldier's Day"
+    },
+    {
+      "date" : "2020-10-12",
+      "localName" : "Columbus Day"
+    },
+    {
+      "date" : "2020-10-21",
+      "localName" : "Army Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-04-01",
+      "localName" : "Holy Thursday"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2021-04-03",
+      "localName" : "Holy Saturday"
+    },
+    {
+      "date" : "2021-04-14",
+      "localName" : "America's Day"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2021-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-10-03",
+      "localName" : "Francisco Morazán's Day\/Soldier's Day"
+    },
+    {
+      "date" : "2021-10-12",
+      "localName" : "Columbus Day"
+    },
+    {
+      "date" : "2021-10-21",
+      "localName" : "Army Day"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-04-14",
+      "localName" : "America's Day"
+    },
+    {
+      "date" : "2022-04-14",
+      "localName" : "Holy Thursday"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2022-04-16",
+      "localName" : "Holy Saturday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2022-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-10-03",
+      "localName" : "Francisco Morazán's Day\/Soldier's Day"
+    },
+    {
+      "date" : "2022-10-12",
+      "localName" : "Columbus Day"
+    },
+    {
+      "date" : "2022-10-21",
+      "localName" : "Army Day"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-04-06",
+      "localName" : "Holy Thursday"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2023-04-08",
+      "localName" : "Holy Saturday"
+    },
+    {
+      "date" : "2023-04-14",
+      "localName" : "America's Day"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2023-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-10-03",
+      "localName" : "Francisco Morazán's Day\/Soldier's Day"
+    },
+    {
+      "date" : "2023-10-12",
+      "localName" : "Columbus Day"
+    },
+    {
+      "date" : "2023-10-21",
+      "localName" : "Army Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-03-28",
+      "localName" : "Holy Thursday"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2024-03-30",
+      "localName" : "Holy Saturday"
+    },
+    {
+      "date" : "2024-04-14",
+      "localName" : "America's Day"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2024-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-10-03",
+      "localName" : "Francisco Morazán's Day\/Soldier's Day"
+    },
+    {
+      "date" : "2024-10-12",
+      "localName" : "Columbus Day"
+    },
+    {
+      "date" : "2024-10-21",
+      "localName" : "Army Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-04-14",
+      "localName" : "America's Day"
+    },
+    {
+      "date" : "2025-04-17",
+      "localName" : "Holy Thursday"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2025-04-19",
+      "localName" : "Holy Saturday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2025-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-10-03",
+      "localName" : "Francisco Morazán's Day\/Soldier's Day"
+    },
+    {
+      "date" : "2025-10-12",
+      "localName" : "Columbus Day"
+    },
+    {
+      "date" : "2025-10-21",
+      "localName" : "Army Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Navidad"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

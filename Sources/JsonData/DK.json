@@ -1,0 +1,368 @@
+{
+  "isoCode" : "DK",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Nytårsdag"
+    },
+    {
+      "date" : "2020-04-09",
+      "localName" : "Skærtorsdag"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Påskedag"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "2. Påskedag"
+    },
+    {
+      "date" : "2020-05-08",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Kristi Himmelfartsdag"
+    },
+    {
+      "date" : "2020-05-22",
+      "localName" : "Banklukkedag"
+    },
+    {
+      "date" : "2020-05-31",
+      "localName" : "Pinsedag"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "2. Pinsedag"
+    },
+    {
+      "date" : "2020-06-05",
+      "localName" : "Grundlovsdag"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "Juleaftensdag"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Juledag \/ 1. juledag"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "2. juledag"
+    },
+    {
+      "date" : "2020-12-31",
+      "localName" : "Nytårsaftensdag"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Nytårsdag"
+    },
+    {
+      "date" : "2021-04-01",
+      "localName" : "Skærtorsdag"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Påskedag"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "2. Påskedag"
+    },
+    {
+      "date" : "2021-04-30",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Kristi Himmelfartsdag"
+    },
+    {
+      "date" : "2021-05-14",
+      "localName" : "Banklukkedag"
+    },
+    {
+      "date" : "2021-05-23",
+      "localName" : "Pinsedag"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "2. Pinsedag"
+    },
+    {
+      "date" : "2021-06-05",
+      "localName" : "Grundlovsdag"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Juleaftensdag"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Juledag \/ 1. juledag"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "2. juledag"
+    },
+    {
+      "date" : "2021-12-31",
+      "localName" : "Nytårsaftensdag"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Nytårsdag"
+    },
+    {
+      "date" : "2022-04-14",
+      "localName" : "Skærtorsdag"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Påskedag"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "2. Påskedag"
+    },
+    {
+      "date" : "2022-05-13",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Kristi Himmelfartsdag"
+    },
+    {
+      "date" : "2022-05-27",
+      "localName" : "Banklukkedag"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "Pinsedag"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "Grundlovsdag"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "2. Pinsedag"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "Juleaftensdag"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Juledag \/ 1. juledag"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "2. juledag"
+    },
+    {
+      "date" : "2022-12-31",
+      "localName" : "Nytårsaftensdag"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Nytårsdag"
+    },
+    {
+      "date" : "2023-04-06",
+      "localName" : "Skærtorsdag"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Påskedag"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "2. Påskedag"
+    },
+    {
+      "date" : "2023-05-05",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Kristi Himmelfartsdag"
+    },
+    {
+      "date" : "2023-05-19",
+      "localName" : "Banklukkedag"
+    },
+    {
+      "date" : "2023-05-28",
+      "localName" : "Pinsedag"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "2. Pinsedag"
+    },
+    {
+      "date" : "2023-06-05",
+      "localName" : "Grundlovsdag"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "Juleaftensdag"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Juledag \/ 1. juledag"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "2. juledag"
+    },
+    {
+      "date" : "2023-12-31",
+      "localName" : "Nytårsaftensdag"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Nytårsdag"
+    },
+    {
+      "date" : "2024-03-28",
+      "localName" : "Skærtorsdag"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Påskedag"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "2. Påskedag"
+    },
+    {
+      "date" : "2024-04-26",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Kristi Himmelfartsdag"
+    },
+    {
+      "date" : "2024-05-10",
+      "localName" : "Banklukkedag"
+    },
+    {
+      "date" : "2024-05-19",
+      "localName" : "Pinsedag"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "2. Pinsedag"
+    },
+    {
+      "date" : "2024-06-05",
+      "localName" : "Grundlovsdag"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "Juleaftensdag"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Juledag \/ 1. juledag"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "2. juledag"
+    },
+    {
+      "date" : "2024-12-31",
+      "localName" : "Nytårsaftensdag"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Nytårsdag"
+    },
+    {
+      "date" : "2025-04-17",
+      "localName" : "Skærtorsdag"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Påskedag"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "2. Påskedag"
+    },
+    {
+      "date" : "2025-05-16",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Kristi Himmelfartsdag"
+    },
+    {
+      "date" : "2025-05-30",
+      "localName" : "Banklukkedag"
+    },
+    {
+      "date" : "2025-06-05",
+      "localName" : "Grundlovsdag"
+    },
+    {
+      "date" : "2025-06-08",
+      "localName" : "Pinsedag"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "2. Pinsedag"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "Juleaftensdag"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Juledag \/ 1. juledag"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "2. juledag"
+    },
+    {
+      "date" : "2025-12-31",
+      "localName" : "Nytårsaftensdag"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

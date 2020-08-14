@@ -1,0 +1,2903 @@
+{
+  "isoCode" : "AU",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-01-26",
+      "localName" : "Australia Day"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2020-04-25",
+      "localName" : "Anzac Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-01-26",
+      "localName" : "Australia Day"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2021-04-25",
+      "localName" : "Anzac Day"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-01-26",
+      "localName" : "Australia Day"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2022-04-25",
+      "localName" : "Anzac Day"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-01-26",
+      "localName" : "Australia Day"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2023-04-25",
+      "localName" : "Anzac Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-01-26",
+      "localName" : "Australia Day"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2024-04-25",
+      "localName" : "Anzac Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-01-26",
+      "localName" : "Australia Day"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2025-04-25",
+      "localName" : "Anzac Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Boxing Day"
+    }
+  ],
+  "subTerritories" : [
+    {
+      "isoCode" : "ACT",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-03-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-04-11",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2020-04-12",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2020-06-08",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2020-10-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-04-03",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2021-04-04",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-05-31",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2021-06-07",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2021-06-14",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2021-10-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-04-16",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2022-04-17",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-05-30",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2022-06-06",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2022-06-13",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2022-10-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-04-08",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2023-04-09",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-05-29",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2023-06-05",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2023-06-12",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-30",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2024-03-31",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2024-06-03",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2024-06-10",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2024-10-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-04-19",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2025-04-20",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2025-06-09",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2025-10-06",
+          "localName" : "Labour Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NSW",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-03-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-04-11",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2020-04-12",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2020-06-08",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2020-10-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-04-03",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2021-04-04",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-05-31",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2021-06-07",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2021-06-14",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2021-10-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-04-16",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2022-04-17",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-05-30",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2022-06-06",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2022-06-13",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2022-10-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-04-08",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2023-04-09",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-05-29",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2023-06-05",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2023-06-12",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-30",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2024-03-31",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2024-06-03",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2024-06-10",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2024-10-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-04-19",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2025-04-20",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2025-06-09",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2025-10-06",
+          "localName" : "Labour Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NT",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-03-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-04-11",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2020-04-12",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2020-06-08",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2020-10-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-04-03",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2021-04-04",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-05-31",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2021-06-07",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2021-06-14",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2021-10-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-04-16",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2022-04-17",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-05-30",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2022-06-06",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2022-06-13",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2022-10-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-04-08",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2023-04-09",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-05-29",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2023-06-05",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2023-06-12",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-30",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2024-03-31",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2024-06-03",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2024-06-10",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2024-10-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-04-19",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2025-04-20",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2025-06-09",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2025-10-06",
+          "localName" : "Labour Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "QLD",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-03-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-04-11",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2020-04-12",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2020-06-08",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2020-10-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-04-03",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2021-04-04",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-05-31",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2021-06-07",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2021-06-14",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2021-10-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-04-16",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2022-04-17",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-05-30",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2022-06-06",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2022-06-13",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2022-10-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-04-08",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2023-04-09",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-05-29",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2023-06-05",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2023-06-12",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-30",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2024-03-31",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2024-06-03",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2024-06-10",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2024-10-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-04-19",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2025-04-20",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2025-06-09",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2025-10-06",
+          "localName" : "Labour Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "SA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-03-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-04-11",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2020-04-12",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2020-06-08",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2020-10-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-04-03",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2021-04-04",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-05-31",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2021-06-07",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2021-06-14",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2021-10-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-04-16",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2022-04-17",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-05-30",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2022-06-06",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2022-06-13",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2022-10-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-04-08",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2023-04-09",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-05-29",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2023-06-05",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2023-06-12",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-30",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2024-03-31",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2024-06-03",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2024-06-10",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2024-10-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-04-19",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2025-04-20",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2025-06-09",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2025-10-06",
+          "localName" : "Labour Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "TAS",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-03-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-04-11",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2020-04-12",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2020-06-08",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2020-10-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-04-03",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2021-04-04",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-05-31",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2021-06-07",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2021-06-14",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2021-10-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-04-16",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2022-04-17",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-05-30",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2022-06-06",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2022-06-13",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2022-10-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-04-08",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2023-04-09",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-05-29",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2023-06-05",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2023-06-12",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-30",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2024-03-31",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2024-06-03",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2024-06-10",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2024-10-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-04-19",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2025-04-20",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2025-06-09",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2025-10-06",
+          "localName" : "Labour Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "VIC",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-03-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-04-11",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2020-04-12",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2020-06-08",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2020-10-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-04-03",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2021-04-04",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-05-31",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2021-06-07",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2021-06-14",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2021-10-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-04-16",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2022-04-17",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-05-30",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2022-06-06",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2022-06-13",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2022-10-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-04-08",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2023-04-09",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-05-29",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2023-06-05",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2023-06-12",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-30",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2024-03-31",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2024-06-03",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2024-06-10",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2024-10-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-04-19",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2025-04-20",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2025-06-09",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2025-10-06",
+          "localName" : "Labour Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "WA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-03-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2020-03-09",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-04-11",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2020-04-12",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2020-05-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2020-06-01",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2020-06-08",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2020-10-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2021-03-08",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-04-03",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2021-04-04",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2021-05-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2021-05-31",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2021-06-07",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2021-06-14",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2021-10-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2022-03-14",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-04-16",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2022-04-17",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2022-05-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2022-05-30",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2022-06-06",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2022-06-13",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2022-10-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2023-03-13",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-04-08",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2023-04-09",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2023-05-01",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2023-05-29",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2023-06-05",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2023-06-12",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-04",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2024-03-11",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-03-30",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2024-03-31",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2024-05-06",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2024-05-27",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2024-06-03",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2024-06-10",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2024-10-07",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-03",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Canberra Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "March Public Holiday"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Eight Hours Day"
+        },
+        {
+          "date" : "2025-03-10",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-04-19",
+          "localName" : "Easter Eve"
+        },
+        {
+          "date" : "2025-04-20",
+          "localName" : "Easter Sunday"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "May Day"
+        },
+        {
+          "date" : "2025-05-05",
+          "localName" : "Labour Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Reconciliation Day"
+        },
+        {
+          "date" : "2025-06-02",
+          "localName" : "Western Australia Day"
+        },
+        {
+          "date" : "2025-06-09",
+          "localName" : "Queen's Birthday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Picnic Day"
+        },
+        {
+          "date" : "2025-10-06",
+          "localName" : "Labour Day"
+        }
+      ]
+    }
+  ]
+}

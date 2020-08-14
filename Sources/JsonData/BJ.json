@@ -1,0 +1,344 @@
+{
+  "isoCode" : "BJ",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-01-10",
+      "localName" : "Traditional Day"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2020-05-25",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2020-08-01",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2020-10-26",
+      "localName" : "Armed Forces Day"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2020-11-30",
+      "localName" : "National Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-01-10",
+      "localName" : "Traditional Day"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2021-05-25",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2021-08-01",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2021-10-26",
+      "localName" : "Armed Forces Day"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2021-11-30",
+      "localName" : "National Day"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-01-10",
+      "localName" : "Traditional Day"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2022-05-25",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2022-08-01",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2022-10-26",
+      "localName" : "Armed Forces Day"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2022-11-30",
+      "localName" : "National Day"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-01-10",
+      "localName" : "Traditional Day"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2023-05-25",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2023-08-01",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2023-10-26",
+      "localName" : "Armed Forces Day"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2023-11-30",
+      "localName" : "National Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-01-10",
+      "localName" : "Traditional Day"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2024-05-25",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2024-08-01",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2024-10-26",
+      "localName" : "Armed Forces Day"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2024-11-30",
+      "localName" : "National Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-01-10",
+      "localName" : "Traditional Day"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2025-05-25",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2025-08-01",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2025-10-26",
+      "localName" : "Armed Forces Day"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2025-11-30",
+      "localName" : "National Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Boxing Day"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

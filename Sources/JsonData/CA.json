@@ -1,0 +1,7392 @@
+{
+  "isoCode" : "CA",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2020-07-01",
+      "localName" : "Canada Day"
+    },
+    {
+      "date" : "2020-09-07",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2020-10-12",
+      "localName" : "Thanksgiving"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2021-07-01",
+      "localName" : "Canada Day"
+    },
+    {
+      "date" : "2021-09-06",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2021-10-11",
+      "localName" : "Thanksgiving"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2022-07-01",
+      "localName" : "Canada Day"
+    },
+    {
+      "date" : "2022-09-05",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2022-10-10",
+      "localName" : "Thanksgiving"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2023-07-01",
+      "localName" : "Canada Day"
+    },
+    {
+      "date" : "2023-09-04",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2023-10-09",
+      "localName" : "Thanksgiving"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2024-07-01",
+      "localName" : "Canada Day"
+    },
+    {
+      "date" : "2024-09-02",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2024-10-14",
+      "localName" : "Thanksgiving"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2025-07-01",
+      "localName" : "Canada Day"
+    },
+    {
+      "date" : "2025-09-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2025-10-13",
+      "localName" : "Thanksgiving"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Christmas Day"
+    }
+  ],
+  "subTerritories" : [
+    {
+      "isoCode" : "AB",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "BC",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MB",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NB",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NL",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NS",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NT",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "NU",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "ON",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "PE",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "QC",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "SK",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    },
+    {
+      "isoCode" : "YT",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2020-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2020-04-13",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2020-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2020-05-18",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2020-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2020-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2020-08-03",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2020-08-17",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2020-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2021-02-08",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2021-02-15",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2021-04-05",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2021-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2021-05-24",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2021-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2021-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2021-08-02",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2021-08-16",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2021-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2022-02-14",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2022-02-21",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2022-04-18",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2022-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2022-05-23",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2022-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2022-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2022-08-01",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2022-08-15",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2022-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2023-02-13",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2023-02-20",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2023-04-10",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2023-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2023-05-22",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2023-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2023-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2023-08-07",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2023-08-21",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2023-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2024-02-12",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2024-02-19",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2024-04-01",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2024-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2024-05-20",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2024-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2024-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2024-08-05",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2024-08-19",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2024-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "St. Stephen's Day"
+        },
+        {
+          "date" : "2025-02-10",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Louis Riel Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Islander Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Family Day"
+        },
+        {
+          "date" : "2025-02-17",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-03-17",
+          "localName" : "Saint Patrick's Day"
+        },
+        {
+          "date" : "2025-04-21",
+          "localName" : "Easter Monday"
+        },
+        {
+          "date" : "2025-04-23",
+          "localName" : "Saint George's Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "National Patriots' Day"
+        },
+        {
+          "date" : "2025-05-19",
+          "localName" : "Victoria Day"
+        },
+        {
+          "date" : "2025-06-21",
+          "localName" : "National Aboriginal Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-06-24",
+          "localName" : "Fête nationale du Québec"
+        },
+        {
+          "date" : "2025-07-12",
+          "localName" : "Orangemen's Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Civic Holiday"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Heritage Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "New Brunswick Day"
+        },
+        {
+          "date" : "2025-08-04",
+          "localName" : "Natal Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Gold Cup Parade Day"
+        },
+        {
+          "date" : "2025-08-18",
+          "localName" : "Discovery Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Armistice Day"
+        },
+        {
+          "date" : "2025-11-11",
+          "localName" : "Remembrance Day"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "St. Stephen's Day"
+        }
+      ]
+    }
+  ]
+}

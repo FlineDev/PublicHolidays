@@ -1,9 +1,10 @@
-// swift-tools-version:4.2
+// swift-tools-version:5.0
 
 import PackageDescription
 
 let package = Package(
     name: "PublicHolidays",
+    platforms: [.macOS(.v10_12)],
     products: [
         .library(name: "PublicHolidays", targets: ["PublicHolidays"]),
         .executable(name: "PublicHolidaysUpdater", targets: ["PublicHolidaysUpdater"]),

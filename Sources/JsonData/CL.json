@@ -1,0 +1,1040 @@
+{
+  "isoCode" : "CL",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2020-04-11",
+      "localName" : "Sábado Santo"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Día de las Glorias Navales"
+    },
+    {
+      "date" : "2020-06-07",
+      "localName" : "Asalto y Toma del Morro de Arica"
+    },
+    {
+      "date" : "2020-06-26",
+      "localName" : "San Pedro y San Pablo"
+    },
+    {
+      "date" : "2020-07-16",
+      "localName" : "Virgen del Carmen"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Asunción de la Virgen"
+    },
+    {
+      "date" : "2020-09-18",
+      "localName" : "Fiestas Patrias"
+    },
+    {
+      "date" : "2020-09-19",
+      "localName" : "Día de las Glorias del Ejército"
+    },
+    {
+      "date" : "2020-10-09",
+      "localName" : "Día del Descubrimiento de Dos Mundos"
+    },
+    {
+      "date" : "2020-10-27",
+      "localName" : "Día Nacional de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2020-11-19",
+      "localName" : "Elecciones presidencial, congresistas y regionales"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Navidad \/ Natividad del Señor"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2021-04-03",
+      "localName" : "Sábado Santo"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2021-05-21",
+      "localName" : "Día de las Glorias Navales"
+    },
+    {
+      "date" : "2021-06-07",
+      "localName" : "Asalto y Toma del Morro de Arica"
+    },
+    {
+      "date" : "2021-06-26",
+      "localName" : "San Pedro y San Pablo"
+    },
+    {
+      "date" : "2021-07-16",
+      "localName" : "Virgen del Carmen"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Asunción de la Virgen"
+    },
+    {
+      "date" : "2021-09-18",
+      "localName" : "Fiestas Patrias"
+    },
+    {
+      "date" : "2021-09-19",
+      "localName" : "Día de las Glorias del Ejército"
+    },
+    {
+      "date" : "2021-10-09",
+      "localName" : "Día del Descubrimiento de Dos Mundos"
+    },
+    {
+      "date" : "2021-10-27",
+      "localName" : "Día Nacional de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2021-11-19",
+      "localName" : "Elecciones presidencial, congresistas y regionales"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Navidad \/ Natividad del Señor"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2022-04-16",
+      "localName" : "Sábado Santo"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2022-05-21",
+      "localName" : "Día de las Glorias Navales"
+    },
+    {
+      "date" : "2022-06-07",
+      "localName" : "Asalto y Toma del Morro de Arica"
+    },
+    {
+      "date" : "2022-06-26",
+      "localName" : "San Pedro y San Pablo"
+    },
+    {
+      "date" : "2022-07-16",
+      "localName" : "Virgen del Carmen"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Asunción de la Virgen"
+    },
+    {
+      "date" : "2022-09-18",
+      "localName" : "Fiestas Patrias"
+    },
+    {
+      "date" : "2022-09-19",
+      "localName" : "Día de las Glorias del Ejército"
+    },
+    {
+      "date" : "2022-10-09",
+      "localName" : "Día del Descubrimiento de Dos Mundos"
+    },
+    {
+      "date" : "2022-10-27",
+      "localName" : "Día Nacional de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2022-11-19",
+      "localName" : "Elecciones presidencial, congresistas y regionales"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Navidad \/ Natividad del Señor"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2023-04-08",
+      "localName" : "Sábado Santo"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2023-05-21",
+      "localName" : "Día de las Glorias Navales"
+    },
+    {
+      "date" : "2023-06-07",
+      "localName" : "Asalto y Toma del Morro de Arica"
+    },
+    {
+      "date" : "2023-06-26",
+      "localName" : "San Pedro y San Pablo"
+    },
+    {
+      "date" : "2023-07-16",
+      "localName" : "Virgen del Carmen"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Asunción de la Virgen"
+    },
+    {
+      "date" : "2023-09-18",
+      "localName" : "Fiestas Patrias"
+    },
+    {
+      "date" : "2023-09-19",
+      "localName" : "Día de las Glorias del Ejército"
+    },
+    {
+      "date" : "2023-10-09",
+      "localName" : "Día del Descubrimiento de Dos Mundos"
+    },
+    {
+      "date" : "2023-10-27",
+      "localName" : "Día Nacional de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2023-11-19",
+      "localName" : "Elecciones presidencial, congresistas y regionales"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Navidad \/ Natividad del Señor"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2024-03-30",
+      "localName" : "Sábado Santo"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2024-05-21",
+      "localName" : "Día de las Glorias Navales"
+    },
+    {
+      "date" : "2024-06-07",
+      "localName" : "Asalto y Toma del Morro de Arica"
+    },
+    {
+      "date" : "2024-06-26",
+      "localName" : "San Pedro y San Pablo"
+    },
+    {
+      "date" : "2024-07-16",
+      "localName" : "Virgen del Carmen"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Asunción de la Virgen"
+    },
+    {
+      "date" : "2024-09-18",
+      "localName" : "Fiestas Patrias"
+    },
+    {
+      "date" : "2024-09-19",
+      "localName" : "Día de las Glorias del Ejército"
+    },
+    {
+      "date" : "2024-10-09",
+      "localName" : "Día del Descubrimiento de Dos Mundos"
+    },
+    {
+      "date" : "2024-10-27",
+      "localName" : "Día Nacional de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2024-11-19",
+      "localName" : "Elecciones presidencial, congresistas y regionales"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Navidad \/ Natividad del Señor"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2025-04-19",
+      "localName" : "Sábado Santo"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2025-05-21",
+      "localName" : "Día de las Glorias Navales"
+    },
+    {
+      "date" : "2025-06-07",
+      "localName" : "Asalto y Toma del Morro de Arica"
+    },
+    {
+      "date" : "2025-06-26",
+      "localName" : "San Pedro y San Pablo"
+    },
+    {
+      "date" : "2025-07-16",
+      "localName" : "Virgen del Carmen"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Asunción de la Virgen"
+    },
+    {
+      "date" : "2025-09-18",
+      "localName" : "Fiestas Patrias"
+    },
+    {
+      "date" : "2025-09-19",
+      "localName" : "Día de las Glorias del Ejército"
+    },
+    {
+      "date" : "2025-10-09",
+      "localName" : "Día del Descubrimiento de Dos Mundos"
+    },
+    {
+      "date" : "2025-10-27",
+      "localName" : "Día Nacional de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Día de Todos los Santos"
+    },
+    {
+      "date" : "2025-11-19",
+      "localName" : "Elecciones presidencial, congresistas y regionales"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Navidad \/ Natividad del Señor"
+    }
+  ],
+  "subTerritories" : [
+    {
+      "isoCode" : "AT",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2020-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2020-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2020-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2021-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2021-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2022-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2022-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2023-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2024-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2024-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2025-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2025-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        }
+      ]
+    },
+    {
+      "isoCode" : "CO",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2020-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2020-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2020-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2021-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2021-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2022-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2022-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2023-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2024-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2024-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2025-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2025-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        }
+      ]
+    },
+    {
+      "isoCode" : "LR",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2020-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2020-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2020-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2021-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2021-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2022-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2022-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2023-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2024-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2024-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2025-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2025-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        }
+      ]
+    },
+    {
+      "isoCode" : "MA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2020-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2020-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2020-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2021-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2021-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2022-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2022-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2023-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2024-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2024-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2025-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2025-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        }
+      ]
+    },
+    {
+      "isoCode" : "TA",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2020-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2020-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2020-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2020-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2021-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2021-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2021-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2021-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2022-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2022-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2022-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2022-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2023-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2023-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2023-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2023-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2024-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2024-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2024-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2024-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "San Lorenzo de Tarapacá"
+        },
+        {
+          "date" : "2025-08-10",
+          "localName" : "Día del Minero"
+        },
+        {
+          "date" : "2025-09-20",
+          "localName" : "Feast of La Pampilla"
+        },
+        {
+          "date" : "2025-09-21",
+          "localName" : "Toma de posesión del estrecho de Magallanes"
+        },
+        {
+          "date" : "2025-10-02",
+          "localName" : "Aniversario de la Creación de la XIV Región de Los Ríos"
+        }
+      ]
+    }
+  ]
+}

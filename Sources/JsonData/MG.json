@@ -1,0 +1,248 @@
+{
+  "isoCode" : "MG",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-03-29",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2020-06-26",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-03-29",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2021-06-26",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-03-29",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2022-06-26",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-03-29",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2023-06-26",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2024-06-26",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-03-29",
+      "localName" : "Martyrs' Day"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2025-06-26",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Christmas Day"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

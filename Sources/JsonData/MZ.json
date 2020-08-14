@@ -1,0 +1,224 @@
+{
+  "isoCode" : "MZ",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Dia de Ano Novo"
+    },
+    {
+      "date" : "2020-02-03",
+      "localName" : "Dia do Heroi Nacional"
+    },
+    {
+      "date" : "2020-04-07",
+      "localName" : "Dia da Mulher"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2020-06-25",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2020-09-07",
+      "localName" : "Dia da Victória"
+    },
+    {
+      "date" : "2020-09-25",
+      "localName" : "Dia da Revolução"
+    },
+    {
+      "date" : "2020-10-04",
+      "localName" : "Dia da Paz e da Reconcialição"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Dia de Ano Novo"
+    },
+    {
+      "date" : "2021-02-03",
+      "localName" : "Dia do Heroi Nacional"
+    },
+    {
+      "date" : "2021-04-07",
+      "localName" : "Dia da Mulher"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2021-06-25",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2021-09-07",
+      "localName" : "Dia da Victória"
+    },
+    {
+      "date" : "2021-09-25",
+      "localName" : "Dia da Revolução"
+    },
+    {
+      "date" : "2021-10-04",
+      "localName" : "Dia da Paz e da Reconcialição"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Dia de Ano Novo"
+    },
+    {
+      "date" : "2022-02-03",
+      "localName" : "Dia do Heroi Nacional"
+    },
+    {
+      "date" : "2022-04-07",
+      "localName" : "Dia da Mulher"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2022-06-25",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2022-09-07",
+      "localName" : "Dia da Victória"
+    },
+    {
+      "date" : "2022-09-25",
+      "localName" : "Dia da Revolução"
+    },
+    {
+      "date" : "2022-10-04",
+      "localName" : "Dia da Paz e da Reconcialição"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Dia de Ano Novo"
+    },
+    {
+      "date" : "2023-02-03",
+      "localName" : "Dia do Heroi Nacional"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Dia da Mulher"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2023-06-25",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2023-09-07",
+      "localName" : "Dia da Victória"
+    },
+    {
+      "date" : "2023-09-25",
+      "localName" : "Dia da Revolução"
+    },
+    {
+      "date" : "2023-10-04",
+      "localName" : "Dia da Paz e da Reconcialição"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Dia de Ano Novo"
+    },
+    {
+      "date" : "2024-02-03",
+      "localName" : "Dia do Heroi Nacional"
+    },
+    {
+      "date" : "2024-04-07",
+      "localName" : "Dia da Mulher"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2024-06-25",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2024-09-07",
+      "localName" : "Dia da Victória"
+    },
+    {
+      "date" : "2024-09-25",
+      "localName" : "Dia da Revolução"
+    },
+    {
+      "date" : "2024-10-04",
+      "localName" : "Dia da Paz e da Reconcialição"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Dia de Ano Novo"
+    },
+    {
+      "date" : "2025-02-03",
+      "localName" : "Dia do Heroi Nacional"
+    },
+    {
+      "date" : "2025-04-07",
+      "localName" : "Dia da Mulher"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2025-06-25",
+      "localName" : "Dia da Independência"
+    },
+    {
+      "date" : "2025-09-07",
+      "localName" : "Dia da Victória"
+    },
+    {
+      "date" : "2025-09-25",
+      "localName" : "Dia da Revolução"
+    },
+    {
+      "date" : "2025-10-04",
+      "localName" : "Dia da Paz e da Reconcialição"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Natal"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}
