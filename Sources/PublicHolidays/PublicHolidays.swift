@@ -9,6 +9,7 @@ enum PublicHolidaysError: Error {
 
 /// The main API to use for fetching public holiday.
 public enum PublicHolidays {
+    /// The gregorian calendar years supported with public holidays data.
     public static let supportedYears: ClosedRange<Int> = 2020...2029
 
     private static var jsonDataDirUrl = URL(fileURLWithPath: Bundle.module.resourcePath!).appendingPathComponent("JsonData")

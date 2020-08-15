@@ -11,7 +11,8 @@ extension PublicHolidaysTests {
     static var allTests: [(String, (PublicHolidaysTests) -> () throws -> Void)] = [
         ("testAvailableCountries", testAvailableCountries),
         ("testAvailableSubTerritories", testAvailableSubTerritories),
-        ("testPublicHolidays", testPublicHolidays)
+        ("testAll", testAll),
+        ("testContains", testContains)
     ]
 }
 

@@ -94,35 +94,35 @@ class PublicHolidaysTests: XCTestCase {
         let gmtPlusFiveAndAHalf = TimeZone(secondsFromGMT: Int(TimeInterval.hours(5.5).seconds))!
         let gmtMinusSix = TimeZone(secondsFromGMT: Int(TimeInterval.hours(-6).seconds))!
 
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00-06:00", countryCode: "DE", timeZone: gmtPlusOne), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00Z", countryCode: "DE", timeZone: gmtPlusOne), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00+01:00", countryCode: "DE", timeZone: gmtPlusOne), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00+05:30", countryCode: "DE", timeZone: gmtPlusOne), false)
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T00:00:00-06:00", countryCode: "DE", timeZone: gmtPlusOne))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T00:00:00Z", countryCode: "DE", timeZone: gmtPlusOne))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T00:00:00+01:00", countryCode: "DE", timeZone: gmtPlusOne))
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T00:00:00+05:30", countryCode: "DE", timeZone: gmtPlusOne))
 
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59-06:00", countryCode: "DE", timeZone: gmtPlusOne), false)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59Z", countryCode: "DE", timeZone: gmtPlusOne), false)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59+01:00", countryCode: "DE", timeZone: gmtPlusOne), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59+05:30", countryCode: "DE", timeZone: gmtPlusOne), true)
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T23:59:59-06:00", countryCode: "DE", timeZone: gmtPlusOne))
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T23:59:59Z", countryCode: "DE", timeZone: gmtPlusOne))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T23:59:59+01:00", countryCode: "DE", timeZone: gmtPlusOne))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T23:59:59+05:30", countryCode: "DE", timeZone: gmtPlusOne))
 
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00-06:00", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00Z", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00+01:00", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00+05:30", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf), true)
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T00:00:00-06:00", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T00:00:00Z", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T00:00:00+01:00", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T00:00:00+05:30", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
 
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59-06:00", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf), false)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59Z", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf), false)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59+01:00", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf), false)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59+05:30", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf), true)
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T23:59:59-06:00", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T23:59:59Z", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T23:59:59+01:00", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T23:59:59+05:30", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
 
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00-06:00", countryCode: "DE", timeZone: gmtMinusSix), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00Z", countryCode: "DE", timeZone: gmtMinusSix), false)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00+01:00", countryCode: "DE", timeZone: gmtMinusSix), false)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T00:00:00+05:30", countryCode: "DE", timeZone: gmtMinusSix), false)
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T00:00:00-06:00", countryCode: "DE", timeZone: gmtMinusSix))
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T00:00:00Z", countryCode: "DE", timeZone: gmtMinusSix))
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T00:00:00+01:00", countryCode: "DE", timeZone: gmtMinusSix))
+        XCTAssertFalse(try PublicHolidays.contains(date: "2020-10-03T00:00:00+05:30", countryCode: "DE", timeZone: gmtMinusSix))
 
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59-06:00", countryCode: "DE", timeZone: gmtMinusSix), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59Z", countryCode: "DE", timeZone: gmtMinusSix), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59+01:00", countryCode: "DE", timeZone: gmtMinusSix), true)
-        XCTAssertEqual(try PublicHolidays.contains(date: "2020-10-03T23:59:59+05:30", countryCode: "DE", timeZone: gmtMinusSix), true)
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T23:59:59-06:00", countryCode: "DE", timeZone: gmtMinusSix))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T23:59:59Z", countryCode: "DE", timeZone: gmtMinusSix))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T23:59:59+01:00", countryCode: "DE", timeZone: gmtMinusSix))
+        XCTAssertTrue(try PublicHolidays.contains(date: "2020-10-03T23:59:59+05:30", countryCode: "DE", timeZone: gmtMinusSix))
 
         XCTAssertThrowsError(try PublicHolidays.contains(date: "2019-12-31T23:59:59+01:00", countryCode: "DE", timeZone: gmtPlusOne))
         XCTAssertThrowsError(try PublicHolidays.contains(date: "2019-12-31T23:59:59+05:30", countryCode: "DE", timeZone: gmtPlusFiveAndAHalf))
@@ -151,6 +151,5 @@ extension Date: ExpressibleByStringLiteral {
         default:
             self = ISO8601DateFormatter().date(from: value)!
         }
-
     }
 }
