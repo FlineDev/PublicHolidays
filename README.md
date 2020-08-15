@@ -4,8 +4,8 @@
             alt="CI">
     </a>
     <a href="https://github.com/Flinesoft/PublicHolidays/releases">
-        <img src="https://img.shields.io/badge/Version-0.0.0-blue.svg"
-             alt="Version: 0.0.0">
+        <img src="https://img.shields.io/badge/Version-0.1.0-blue.svg"
+             alt="Version: 0.1.0">
     </a>
     <a href="https://swift.org/package-manager/">
         <img src="https://img.shields.io/badge/SwiftPM-Compatible-orange"
