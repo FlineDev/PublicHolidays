@@ -5,10 +5,9 @@ import PublicHolidays
 struct Import: ParsableCommand {
     private static let yearsToFetch: ClosedRange<Int> = 2020...2025
 
-    @Option(name: .shortAndLong, help: "Provide the path to the countries JSON data files directory.")
-    var countriesFilePath: String
-
     func run() throws { // swiftlint:disable:this function_body_length
+        let countriesFilePath = URL(fileURLWithPath: FileManager.default.currentDirectoryPath).appendingPathComponent("Sources/PublicHolidays/JsonData").path
+
         print("Fetching list of all available countries")
         let availableCountryResponses = try NagerDateClient.availableCountries.request(type: [AvailableCountryResponse].self).get()
 
@@ -69,7 +68,7 @@ struct Import: ParsableCommand {
             }
 
             try countryData.write(to: countryFileUrl)
-            print("Public Holidays for \(country.isoCode) updated successfully!")
+            print("Successfully saved updated public holidays for \(country.isoCode) at: \(countryFileUrl.path)")
         }
     }
 }
