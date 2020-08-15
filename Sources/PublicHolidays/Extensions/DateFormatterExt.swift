@@ -1,11 +1,11 @@
 import Foundation
 
 extension DateFormatter {
-    /// Returns a date formatter with GMT timezone which only formats the day, dropping the time.
-    public static var dateOnly: DateFormatter {
+    /// Returns a date formatter which only formats the day, dropping the time.
+    static func dateOnly(timeZone: TimeZone) -> DateFormatter {
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "yyyy-MM-dd"
-        dateFormatter.timeZone = TimeZone(identifier: "GMT")
+        dateFormatter.timeZone = timeZone
         return dateFormatter
     }
 }

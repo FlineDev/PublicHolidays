@@ -3,8 +3,6 @@ import Foundation
 import PublicHolidays
 
 struct Import: ParsableCommand {
-    private static let yearsToFetch: ClosedRange<Int> = 2020...2029
-
     func run() throws { // swiftlint:disable:this function_body_length
         let countriesFilePath = URL(fileURLWithPath: FileManager.default.currentDirectoryPath).appendingPathComponent("Sources/PublicHolidays/JsonData").path
 
@@ -12,8 +10,8 @@ struct Import: ParsableCommand {
         let availableCountryResponses = try NagerDateClient.availableCountries.request(type: [AvailableCountryResponse].self).get()
 
         for availableCountry in availableCountryResponses {
-            print("Fetching public holidays for years \(Import.yearsToFetch) in '\(availableCountry.key)'")
-            let publicHolidayResponses: [PublicHolidayResponse] = try Import.yearsToFetch.reduce(into: []) { responses, yearToFetch in
+            print("Fetching public holidays for years \(PublicHolidays.supportedYears) in '\(availableCountry.key)'")
+            let publicHolidayResponses: [PublicHolidayResponse] = try PublicHolidays.supportedYears.reduce(into: []) { responses, yearToFetch in
                 let responsesOfYearToFetch: [PublicHolidayResponse] = try NagerDateClient.publicHolidays(
                     year: yearToFetch,
                     countryCode: availableCountry.key
@@ -50,7 +48,7 @@ struct Import: ParsableCommand {
 
             let jsonEncoder = JSONEncoder()
             jsonEncoder.outputFormatting = .prettyPrinted
-            jsonEncoder.dateEncodingStrategy = .formatted(DateFormatter.dateOnly)
+            jsonEncoder.dateEncodingStrategy = .formatted(DateFormatter.dateOnlyGMT)
             let countryData: Data = try jsonEncoder.encode(country)
             let countryFileUrl = URL(fileURLWithPath: countriesFilePath).appendingPathComponent("\(country.isoCode).json")
 

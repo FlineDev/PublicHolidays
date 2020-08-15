@@ -10,7 +10,7 @@ enum NagerDateClient {
 extension NagerDateClient: JsonApi {
     var decoder: JSONDecoder {
         let decoder = JSONDecoder()
-        decoder.dateDecodingStrategy = .formatted(DateFormatter.dateOnly)
+        decoder.dateDecodingStrategy = .formatted(DateFormatter.dateOnlyGMT)
         return decoder
     }
 
