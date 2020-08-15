@@ -3,19 +3,24 @@ import Foundation
 import PublicHolidays
 
 struct Import: ParsableCommand {
-    private static let yearsToFetch = 2020...2025
+    private static let yearsToFetch: ClosedRange<Int> = 2020...2025
 
     @Option(name: .shortAndLong, help: "Provide the path to the countries JSON data files directory.")
     var countriesFilePath: String
 
-    func run() throws {
+    func run() throws { // swiftlint:disable:this function_body_length
         print("Fetching list of all available countries")
         let availableCountryResponses = try NagerDateClient.availableCountries.request(type: [AvailableCountryResponse].self).get()
 
         for availableCountry in availableCountryResponses {
             print("Fetching public holidays for years \(Import.yearsToFetch) in '\(availableCountry.key)'")
-            let publicHolidayResponses = try Import.yearsToFetch.reduce([]) {
-                try $0 + NagerDateClient.publicHolidays(year: $1, countryCode: availableCountry.key).request(type: [PublicHolidayResponse].self).get()
+            let publicHolidayResponses: [PublicHolidayResponse] = try Import.yearsToFetch.reduce(into: []) { responses, yearToFetch in
+                let responsesOfYearToFetch: [PublicHolidayResponse] = try NagerDateClient.publicHolidays(
+                    year: yearToFetch,
+                    countryCode: availableCountry.key
+                ).request(type: [PublicHolidayResponse].self).get()
+
+                return responses.append(contentsOf: responsesOfYearToFetch)
             }
 
             let countrywidePublicHolidayResponses: [PublicHolidayResponse] = publicHolidayResponses.filter { $0.counties == nil || $0.counties!.isEmpty }
@@ -40,8 +45,8 @@ struct Import: ParsableCommand {
             print("Downloaded public holidays for country '\(availableCountry.key)'")
             let country = Country(
                 isoCode: availableCountry.key,
-                subTerritories: subTerritories,
-                publicHolidays: countrywidePublicHolidays
+                publicHolidays: countrywidePublicHolidays,
+                subTerritories: subTerritories
             )
 
             let jsonEncoder = JSONEncoder()
@@ -49,7 +54,6 @@ struct Import: ParsableCommand {
             jsonEncoder.dateEncodingStrategy = .formatted(DateFormatter.dateOnly)
             let countryData: Data = try jsonEncoder.encode(country)
             let countryFileUrl = URL(fileURLWithPath: countriesFilePath).appendingPathComponent("\(country.isoCode).json")
-
 
             print("Fetched data: \(String(data: countryData, encoding: .utf8)!)")
             if !FileManager.default.fileExists(atPath: countryFileUrl.deletingLastPathComponent().path) {
