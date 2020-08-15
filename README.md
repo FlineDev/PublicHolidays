@@ -54,17 +54,20 @@ Here's how to use the main functions:
 // First main function returns list of public holidays for a given location:
 try PublicHolidays.all(countryCode: "US")
 // => [PublicHoliday(localName: "New Year's Day", date: "2020-01-01"), ...]
+
 try PublicHolidays.all(countryCode: "US", subTerritoryCode: "DC")
 // => [PublicHoliday(localName: "New Year's Day", date: "2020-01-01"), ...]
+
 
 // Second main checks if a given date is on a public holiday for a given location:
 try PublicHolidays.contains(date: Date(), country: "FR")
 // => true/false
+
 try PublicHolidays.contains(date: Date(), country: "GB", subTerritoryCode: "ENG")
 // => true/false
 ```
 
-Note that `subTerritoryCode` is optional and has a default value of `nil`. Each `PublicHoliday` consists of a `localName: String` and a `date: Date`. You can also specify a custom `timeZone` to use when loading the public holidays, but it is discourages to do that unless you know what you're doing. By default, the calculation will be using the current time zone of the device which should be correct for most situations.
+Note that `subTerritoryCode` is optional and has a default value of `nil`. Each `PublicHoliday` consists of a `localName: String` and a `date: Date`. Technically speaking, you can also specify a custom `timeZone` to use when loading the public holidays, but it is discouraged to do that unless you really know what you're doing. By default, the calculation will be using the current time zone of the device so passing a `timeZone` shouldn't be necessary in most cases.
 
 If you provide a `countryCode` or a `subTerritoryCode` for which no data is available in this library, the method will throw an error. To prevent this, there are two supporting functions that tell you for which data is available:
 
