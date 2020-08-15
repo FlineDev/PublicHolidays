@@ -42,9 +42,27 @@
 
 An offline database with APIs to check if a given date is on a public holiday for a given region.
 
+Contains public holidays of over 100 countries from start of 2020 to end of 2029.
+
 ## Usage
 
-TODO
+This library basically has just **one main function** and **two supporting functions**.
+
+Here's how to use the main function:
+
+```Swift
+try PublicHolidays.all(countryCode: "US") // => [PublicHoliday("New Year's Day", "2020-01-01"), ...]
+try PublicHolidays.all(countryCode: "US", subTerritoryCode: "DC") // => [PublicHoliday()]
+```
+
+Note that `subTerritoryCode` is optional and has a default value of `nil`. The result type is an array of `PublicHoliday` objects. Each `PublicHoliday` consists of a `localName: String` and a `date: Date`.
+
+If you provide a `countryCode` or a `subTerritoryCode` for which no data is available in this library, the method will throw an error. To prevent this, there are two supporting functions that tell you for which data is available:
+
+```Swift
+PublicHolidays.availableCountries() // => ["US", "DE", "JP", "FR", ...]
+try PublicHolidays.availableSubTerritories(countryCode: "GB") // => ["ENG", "NIR", "SCT", "WLS"]
+```
 
 ## Donation
 

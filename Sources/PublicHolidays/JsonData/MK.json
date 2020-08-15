@@ -288,6 +288,198 @@
     {
       "date" : "2025-12-08",
       "localName" : "Св. Климент Охридски, Sv. Kliment Ohridski"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Нова Година, Nova Godina"
+    },
+    {
+      "date" : "2026-01-07",
+      "localName" : "Прв ден Божик, Prv den Božik"
+    },
+    {
+      "date" : "2026-04-10",
+      "localName" : "Велики Петок, Veliki Petok"
+    },
+    {
+      "date" : "2026-04-12",
+      "localName" : "Прв ден Велигден, Prv den Veligden"
+    },
+    {
+      "date" : "2026-04-13",
+      "localName" : "Втор ден Велигден, Vtor den Veligden"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Ден на трудот, Den na trudot"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Св. Кирил и Методиј, Ден на сèсловенските просветители"
+    },
+    {
+      "date" : "2026-08-02",
+      "localName" : "Ден на Републиката, Den na Republikata"
+    },
+    {
+      "date" : "2026-09-08",
+      "localName" : "Ден на независноста, Den na nezavisnosta"
+    },
+    {
+      "date" : "2026-10-11",
+      "localName" : "Ден на востанието, Den na vostanieto"
+    },
+    {
+      "date" : "2026-10-23",
+      "localName" : "Ден на македонската револуционерна борба,Den na makedonskata revolucionarna borba"
+    },
+    {
+      "date" : "2026-12-08",
+      "localName" : "Св. Климент Охридски, Sv. Kliment Ohridski"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Нова Година, Nova Godina"
+    },
+    {
+      "date" : "2027-01-07",
+      "localName" : "Прв ден Божик, Prv den Božik"
+    },
+    {
+      "date" : "2027-04-30",
+      "localName" : "Велики Петок, Veliki Petok"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Ден на трудот, Den na trudot"
+    },
+    {
+      "date" : "2027-05-02",
+      "localName" : "Прв ден Велигден, Prv den Veligden"
+    },
+    {
+      "date" : "2027-05-03",
+      "localName" : "Втор ден Велигден, Vtor den Veligden"
+    },
+    {
+      "date" : "2027-05-24",
+      "localName" : "Св. Кирил и Методиј, Ден на сèсловенските просветители"
+    },
+    {
+      "date" : "2027-08-02",
+      "localName" : "Ден на Републиката, Den na Republikata"
+    },
+    {
+      "date" : "2027-09-08",
+      "localName" : "Ден на независноста, Den na nezavisnosta"
+    },
+    {
+      "date" : "2027-10-11",
+      "localName" : "Ден на востанието, Den na vostanieto"
+    },
+    {
+      "date" : "2027-10-23",
+      "localName" : "Ден на македонската револуционерна борба,Den na makedonskata revolucionarna borba"
+    },
+    {
+      "date" : "2027-12-08",
+      "localName" : "Св. Климент Охридски, Sv. Kliment Ohridski"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Нова Година, Nova Godina"
+    },
+    {
+      "date" : "2028-01-07",
+      "localName" : "Прв ден Божик, Prv den Božik"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Велики Петок, Veliki Petok"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Прв ден Велигден, Prv den Veligden"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Втор ден Велигден, Vtor den Veligden"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Ден на трудот, Den na trudot"
+    },
+    {
+      "date" : "2028-05-24",
+      "localName" : "Св. Кирил и Методиј, Ден на сèсловенските просветители"
+    },
+    {
+      "date" : "2028-08-02",
+      "localName" : "Ден на Републиката, Den na Republikata"
+    },
+    {
+      "date" : "2028-09-08",
+      "localName" : "Ден на независноста, Den na nezavisnosta"
+    },
+    {
+      "date" : "2028-10-11",
+      "localName" : "Ден на востанието, Den na vostanieto"
+    },
+    {
+      "date" : "2028-10-23",
+      "localName" : "Ден на македонската револуционерна борба,Den na makedonskata revolucionarna borba"
+    },
+    {
+      "date" : "2028-12-08",
+      "localName" : "Св. Климент Охридски, Sv. Kliment Ohridski"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Нова Година, Nova Godina"
+    },
+    {
+      "date" : "2029-01-07",
+      "localName" : "Прв ден Божик, Prv den Božik"
+    },
+    {
+      "date" : "2029-04-06",
+      "localName" : "Велики Петок, Veliki Petok"
+    },
+    {
+      "date" : "2029-04-08",
+      "localName" : "Прв ден Велигден, Prv den Veligden"
+    },
+    {
+      "date" : "2029-04-09",
+      "localName" : "Втор ден Велигден, Vtor den Veligden"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Ден на трудот, Den na trudot"
+    },
+    {
+      "date" : "2029-05-24",
+      "localName" : "Св. Кирил и Методиј, Ден на сèсловенските просветители"
+    },
+    {
+      "date" : "2029-08-02",
+      "localName" : "Ден на Републиката, Den na Republikata"
+    },
+    {
+      "date" : "2029-09-08",
+      "localName" : "Ден на независноста, Den na nezavisnosta"
+    },
+    {
+      "date" : "2029-10-11",
+      "localName" : "Ден на востанието, Den na vostanieto"
+    },
+    {
+      "date" : "2029-10-23",
+      "localName" : "Ден на македонската револуционерна борба,Den na makedonskata revolucionarna borba"
+    },
+    {
+      "date" : "2029-12-08",
+      "localName" : "Св. Климент Охридски, Sv. Kliment Ohridski"
     }
   ],
   "subTerritories" : [

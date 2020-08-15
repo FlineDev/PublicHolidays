@@ -96,6 +96,70 @@
     {
       "date" : "2025-12-25",
       "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2026-08-01",
+      "localName" : "Bundesfeier"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2027-08-01",
+      "localName" : "Bundesfeier"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2028-08-01",
+      "localName" : "Bundesfeier"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2029-08-01",
+      "localName" : "Bundesfeier"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Weihnachten"
     }
   ],
   "subTerritories" : [
@@ -436,6 +500,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -778,6 +1066,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -1118,6 +1630,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -1460,6 +2196,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -1800,6 +2760,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -2142,6 +3326,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -2482,6 +3890,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -2824,6 +4456,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -3164,6 +5020,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -3506,6 +5586,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -3846,6 +6150,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -4188,6 +6716,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -4528,6 +7280,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -4870,6 +7846,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -5210,6 +8410,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -5552,6 +8976,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -5892,6 +9540,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -6234,6 +10106,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -6574,6 +10670,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -6916,6 +11236,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -7256,6 +11800,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -7598,6 +12366,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -7938,6 +12930,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]
@@ -8280,6 +13496,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -8621,6 +14061,230 @@
         {
           "date" : "2025-12-26",
           "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Stephanstag"
         }
       ]
     },
@@ -8961,6 +14625,230 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2026-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2026-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2026-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2026-05-25",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2026-06-04",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2026-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2026-09-10",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2026-09-21",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2026-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2026-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2027-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2027-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2027-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2027-05-27",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2027-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2027-09-09",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2027-09-20",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2027-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2027-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2028-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2028-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2028-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2028-06-05",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2028-06-15",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2028-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2028-09-07",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2028-09-18",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2028-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2028-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Stephanstag"
+        },
+        {
+          "date" : "2029-01-02",
+          "localName" : "Berchtoldstag"
+        },
+        {
+          "date" : "2029-01-06",
+          "localName" : "Heilige Drei Könige"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "Josefstag"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Karfreitag"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Ostermontag"
+        },
+        {
+          "date" : "2029-05-01",
+          "localName" : "Tag der Arbeit"
+        },
+        {
+          "date" : "2029-05-21",
+          "localName" : "Pfingstmontag"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Fronleichnam"
+        },
+        {
+          "date" : "2029-08-15",
+          "localName" : "Maria Himmelfahrt"
+        },
+        {
+          "date" : "2029-09-06",
+          "localName" : "Jeûne genevois"
+        },
+        {
+          "date" : "2029-09-17",
+          "localName" : "Eidgenössischer Dank-, Buss- und Bettag"
+        },
+        {
+          "date" : "2029-11-01",
+          "localName" : "Allerheiligen"
+        },
+        {
+          "date" : "2029-12-08",
+          "localName" : "Mariä Empfängnis"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Stephanstag"
         }
       ]

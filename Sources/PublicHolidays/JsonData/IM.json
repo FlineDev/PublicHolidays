@@ -240,6 +240,166 @@
     {
       "date" : "2025-12-26",
       "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2026-05-04",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Spring Bank Holiday"
+    },
+    {
+      "date" : "2026-06-12",
+      "localName" : "Senior Race Day"
+    },
+    {
+      "date" : "2026-07-05",
+      "localName" : "Tynwald Day"
+    },
+    {
+      "date" : "2026-08-31",
+      "localName" : "Late Summer Bank Holiday"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2027-05-03",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2027-05-31",
+      "localName" : "Spring Bank Holiday"
+    },
+    {
+      "date" : "2027-06-11",
+      "localName" : "Senior Race Day"
+    },
+    {
+      "date" : "2027-07-05",
+      "localName" : "Tynwald Day"
+    },
+    {
+      "date" : "2027-08-30",
+      "localName" : "Late Summer Bank Holiday"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2028-05-29",
+      "localName" : "Spring Bank Holiday"
+    },
+    {
+      "date" : "2028-06-09",
+      "localName" : "Senior Race Day"
+    },
+    {
+      "date" : "2028-07-05",
+      "localName" : "Tynwald Day"
+    },
+    {
+      "date" : "2028-08-28",
+      "localName" : "Late Summer Bank Holiday"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2029-05-07",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2029-05-28",
+      "localName" : "Spring Bank Holiday"
+    },
+    {
+      "date" : "2029-06-08",
+      "localName" : "Senior Race Day"
+    },
+    {
+      "date" : "2029-07-05",
+      "localName" : "Tynwald Day"
+    },
+    {
+      "date" : "2029-08-27",
+      "localName" : "Late Summer Bank Holiday"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Boxing Day"
     }
   ],
   "subTerritories" : [

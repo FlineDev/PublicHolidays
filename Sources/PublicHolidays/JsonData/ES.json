@@ -264,6 +264,182 @@
     {
       "date" : "2025-12-25",
       "localName" : "Navidad"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Día de Reyes \/ Epifanía del Señor"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Pascua de Resurrección"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Asunción"
+    },
+    {
+      "date" : "2026-10-12",
+      "localName" : "Fiesta Nacional de España"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "Día de todos los Santos"
+    },
+    {
+      "date" : "2026-12-06",
+      "localName" : "Día de la Constitución"
+    },
+    {
+      "date" : "2026-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Día de Reyes \/ Epifanía del Señor"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Pascua de Resurrección"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Asunción"
+    },
+    {
+      "date" : "2027-10-12",
+      "localName" : "Fiesta Nacional de España"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "Día de todos los Santos"
+    },
+    {
+      "date" : "2027-12-06",
+      "localName" : "Día de la Constitución"
+    },
+    {
+      "date" : "2027-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Día de Reyes \/ Epifanía del Señor"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Pascua de Resurrección"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Asunción"
+    },
+    {
+      "date" : "2028-10-12",
+      "localName" : "Fiesta Nacional de España"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "Día de todos los Santos"
+    },
+    {
+      "date" : "2028-12-06",
+      "localName" : "Día de la Constitución"
+    },
+    {
+      "date" : "2028-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Día de Reyes \/ Epifanía del Señor"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Pascua de Resurrección"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Día del Trabajador"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Asunción"
+    },
+    {
+      "date" : "2029-10-12",
+      "localName" : "Fiesta Nacional de España"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "Día de todos los Santos"
+    },
+    {
+      "date" : "2029-12-06",
+      "localName" : "Día de la Constitución"
+    },
+    {
+      "date" : "2029-12-08",
+      "localName" : "Inmaculada Concepción"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Navidad"
     }
   ],
   "subTerritories" : [
@@ -820,6 +996,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -1378,6 +1922,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -1934,6 +2846,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -2492,6 +3772,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -3048,6 +4696,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -3606,6 +5622,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -4162,6 +6546,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -4720,6 +7472,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -5276,6 +8396,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -5834,6 +9322,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -6390,6 +10246,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -6948,6 +11172,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -7504,6 +12096,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -8062,6 +13022,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -8618,6 +13946,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -9176,6 +14872,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -9732,6 +15796,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]
@@ -10290,6 +16722,374 @@
         {
           "date" : "2025-12-26",
           "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Sant Esteve"
         }
       ]
     },
@@ -10846,6 +17646,374 @@
         },
         {
           "date" : "2025-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2026-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2026-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2026-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2026-04-03",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2026-04-06",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2026-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2026-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2026-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2026-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2026-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2026-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2026-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2026-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2026-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2026-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2026-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2026-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2026-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2026-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2027-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2027-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2027-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2027-03-26",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2027-03-29",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2027-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2027-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2027-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2027-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2027-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2027-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2027-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2027-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2027-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2027-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2027-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2027-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2027-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2027-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2028-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2028-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2028-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2028-04-14",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2028-04-17",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2028-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2028-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2028-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2028-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2028-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2028-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2028-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2028-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2028-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2028-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2028-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2028-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2028-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Sant Esteve"
+        },
+        {
+          "date" : "2029-02-28",
+          "localName" : "Día de Andalucía"
+        },
+        {
+          "date" : "2029-03-01",
+          "localName" : "Dia de les Illes Balears"
+        },
+        {
+          "date" : "2029-03-19",
+          "localName" : "San José"
+        },
+        {
+          "date" : "2029-03-30",
+          "localName" : "Jueves Santo"
+        },
+        {
+          "date" : "2029-04-02",
+          "localName" : "Lunes de Pascua"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "San Jorge (Día de Aragón)"
+        },
+        {
+          "date" : "2029-04-23",
+          "localName" : "Día de Castilla y León"
+        },
+        {
+          "date" : "2029-05-02",
+          "localName" : "Fiesta de la Comunidad de Madrid"
+        },
+        {
+          "date" : "2029-05-17",
+          "localName" : "Día das Letras Galegas"
+        },
+        {
+          "date" : "2029-05-30",
+          "localName" : "Día de Canarias"
+        },
+        {
+          "date" : "2029-05-31",
+          "localName" : "Día de la Región Castilla-La Mancha"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de la Región de Murcia"
+        },
+        {
+          "date" : "2029-06-09",
+          "localName" : "Día de La Rioja"
+        },
+        {
+          "date" : "2029-06-24",
+          "localName" : "Sant Joan"
+        },
+        {
+          "date" : "2029-07-25",
+          "localName" : "Santiago Apóstol"
+        },
+        {
+          "date" : "2029-09-02",
+          "localName" : "Día de Ceuta"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Asturias"
+        },
+        {
+          "date" : "2029-09-08",
+          "localName" : "Día de Extremadura"
+        },
+        {
+          "date" : "2029-09-11",
+          "localName" : "Diada Nacional de Catalunya"
+        },
+        {
+          "date" : "2029-09-15",
+          "localName" : "Día de Cantabria"
+        },
+        {
+          "date" : "2029-10-09",
+          "localName" : "Dia de la Comunitat Valenciana"
+        },
+        {
+          "date" : "2029-10-25",
+          "localName" : "Euskadi Eguna"
+        },
+        {
+          "date" : "2029-12-26",
           "localName" : "Sant Esteve"
         }
       ]

@@ -168,6 +168,118 @@
     {
       "date" : "2025-10-06",
       "localName" : "中秋节"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2026-02-17",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2026-06-19",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2026-09-25",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2026-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2027-02-06",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2027-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2027-06-09",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2027-09-15",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2027-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2028-01-26",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2028-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2028-05-28",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2028-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2028-10-03",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2029-02-13",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2029-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2029-06-16",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2029-09-22",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2029-10-01",
+      "localName" : "国庆节"
     }
   ],
   "subTerritories" : [

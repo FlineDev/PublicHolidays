@@ -288,6 +288,198 @@
     {
       "date" : "2025-12-26",
       "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2026-04-02",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2026-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2027-03-25",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2027-05-16",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2028-04-13",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2028-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2028-06-04",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Andre juledag"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Første nyttårsdag"
+    },
+    {
+      "date" : "2029-03-29",
+      "localName" : "Skjærtorsdag"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Langfredag"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Første påskedag"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Andre påskedag"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Første mai"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Kristi himmelfartsdag"
+    },
+    {
+      "date" : "2029-05-17",
+      "localName" : "Syttende mai"
+    },
+    {
+      "date" : "2029-05-20",
+      "localName" : "Første pinsedag"
+    },
+    {
+      "date" : "2029-05-21",
+      "localName" : "Andre pinsedag"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Første juledag"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Andre juledag"
     }
   ],
   "subTerritories" : [

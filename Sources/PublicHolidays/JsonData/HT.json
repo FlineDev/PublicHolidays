@@ -480,6 +480,326 @@
     {
       "date" : "2025-12-25",
       "localName" : "Noël"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2026-01-02",
+      "localName" : "Jour des Aieux"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Le Jour des Rois"
+    },
+    {
+      "date" : "2026-02-16",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2026-02-17",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2026-02-18",
+      "localName" : "Mercredi Des Cendres"
+    },
+    {
+      "date" : "2026-04-02",
+      "localName" : "Jeudi saint"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Vendredi saint"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Pâques"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Fête du Travail \/ Fête des Travailleurs"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Ascension"
+    },
+    {
+      "date" : "2026-05-18",
+      "localName" : "Jour du Drapeau et de l'Université"
+    },
+    {
+      "date" : "2026-06-04",
+      "localName" : "Fête-Dieu"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2026-10-17",
+      "localName" : "Anniversaire de la mort de Dessalines"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2026-11-02",
+      "localName" : "Jour des Morts"
+    },
+    {
+      "date" : "2026-11-18",
+      "localName" : "Vertières"
+    },
+    {
+      "date" : "2026-12-05",
+      "localName" : "Découverte d'Haïti"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Noël"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2027-01-02",
+      "localName" : "Jour des Aieux"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Le Jour des Rois"
+    },
+    {
+      "date" : "2027-02-08",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2027-02-09",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2027-02-10",
+      "localName" : "Mercredi Des Cendres"
+    },
+    {
+      "date" : "2027-03-25",
+      "localName" : "Jeudi saint"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Vendredi saint"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Pâques"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Fête du Travail \/ Fête des Travailleurs"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Ascension"
+    },
+    {
+      "date" : "2027-05-18",
+      "localName" : "Jour du Drapeau et de l'Université"
+    },
+    {
+      "date" : "2027-05-27",
+      "localName" : "Fête-Dieu"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2027-10-17",
+      "localName" : "Anniversaire de la mort de Dessalines"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2027-11-02",
+      "localName" : "Jour des Morts"
+    },
+    {
+      "date" : "2027-11-18",
+      "localName" : "Vertières"
+    },
+    {
+      "date" : "2027-12-05",
+      "localName" : "Découverte d'Haïti"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Noël"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2028-01-02",
+      "localName" : "Jour des Aieux"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Le Jour des Rois"
+    },
+    {
+      "date" : "2028-02-28",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2028-02-29",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2028-03-01",
+      "localName" : "Mercredi Des Cendres"
+    },
+    {
+      "date" : "2028-04-13",
+      "localName" : "Jeudi saint"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Vendredi saint"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Pâques"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Fête du Travail \/ Fête des Travailleurs"
+    },
+    {
+      "date" : "2028-05-18",
+      "localName" : "Jour du Drapeau et de l'Université"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Ascension"
+    },
+    {
+      "date" : "2028-06-15",
+      "localName" : "Fête-Dieu"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2028-10-17",
+      "localName" : "Anniversaire de la mort de Dessalines"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2028-11-02",
+      "localName" : "Jour des Morts"
+    },
+    {
+      "date" : "2028-11-18",
+      "localName" : "Vertières"
+    },
+    {
+      "date" : "2028-12-05",
+      "localName" : "Découverte d'Haïti"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Noël"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Jour de l'an"
+    },
+    {
+      "date" : "2029-01-02",
+      "localName" : "Jour des Aieux"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Le Jour des Rois"
+    },
+    {
+      "date" : "2029-02-12",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2029-02-13",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2029-02-14",
+      "localName" : "Mercredi Des Cendres"
+    },
+    {
+      "date" : "2029-03-29",
+      "localName" : "Jeudi saint"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Vendredi saint"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Pâques"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Fête du Travail \/ Fête des Travailleurs"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Ascension"
+    },
+    {
+      "date" : "2029-05-18",
+      "localName" : "Jour du Drapeau et de l'Université"
+    },
+    {
+      "date" : "2029-05-31",
+      "localName" : "Fête-Dieu"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "L'Assomption de Marie"
+    },
+    {
+      "date" : "2029-10-17",
+      "localName" : "Anniversaire de la mort de Dessalines"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "La Toussaint"
+    },
+    {
+      "date" : "2029-11-02",
+      "localName" : "Jour des Morts"
+    },
+    {
+      "date" : "2029-11-18",
+      "localName" : "Vertières"
+    },
+    {
+      "date" : "2029-12-05",
+      "localName" : "Découverte d'Haïti"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Noël"
     }
   ],
   "subTerritories" : [

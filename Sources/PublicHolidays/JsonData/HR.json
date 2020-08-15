@@ -360,6 +360,246 @@
     {
       "date" : "2025-12-26",
       "localName" : "Prvi dan po Božiću, Sveti Stjepan, Štefanje, Stipanje"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Nova Godina"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Bogojavljenje, Sveta tri kralja"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Uskrs i uskrsni ponedjeljak"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Uskrs i uskrsni ponedjeljak"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Međunarodni praznik rada"
+    },
+    {
+      "date" : "2026-05-30",
+      "localName" : "Dan državnosti"
+    },
+    {
+      "date" : "2026-06-04",
+      "localName" : "Tijelovo"
+    },
+    {
+      "date" : "2026-06-22",
+      "localName" : "Dan antifašističke borbe"
+    },
+    {
+      "date" : "2026-08-05",
+      "localName" : "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Velika Gospa"
+    },
+    {
+      "date" : "2026-10-08",
+      "localName" : "Dan neovisnosti"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "Dan svih svetih"
+    },
+    {
+      "date" : "2026-11-18",
+      "localName" : "Dan sjećanja na žrtve Domovinskog rata"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Prvi dan po Božiću, Sveti Stjepan, Štefanje, Stipanje"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Nova Godina"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Bogojavljenje, Sveta tri kralja"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Uskrs i uskrsni ponedjeljak"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Uskrs i uskrsni ponedjeljak"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Međunarodni praznik rada"
+    },
+    {
+      "date" : "2027-05-27",
+      "localName" : "Tijelovo"
+    },
+    {
+      "date" : "2027-05-30",
+      "localName" : "Dan državnosti"
+    },
+    {
+      "date" : "2027-06-22",
+      "localName" : "Dan antifašističke borbe"
+    },
+    {
+      "date" : "2027-08-05",
+      "localName" : "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Velika Gospa"
+    },
+    {
+      "date" : "2027-10-08",
+      "localName" : "Dan neovisnosti"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "Dan svih svetih"
+    },
+    {
+      "date" : "2027-11-18",
+      "localName" : "Dan sjećanja na žrtve Domovinskog rata"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Prvi dan po Božiću, Sveti Stjepan, Štefanje, Stipanje"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Nova Godina"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Bogojavljenje, Sveta tri kralja"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Uskrs i uskrsni ponedjeljak"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Uskrs i uskrsni ponedjeljak"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Međunarodni praznik rada"
+    },
+    {
+      "date" : "2028-05-30",
+      "localName" : "Dan državnosti"
+    },
+    {
+      "date" : "2028-06-15",
+      "localName" : "Tijelovo"
+    },
+    {
+      "date" : "2028-06-22",
+      "localName" : "Dan antifašističke borbe"
+    },
+    {
+      "date" : "2028-08-05",
+      "localName" : "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Velika Gospa"
+    },
+    {
+      "date" : "2028-10-08",
+      "localName" : "Dan neovisnosti"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "Dan svih svetih"
+    },
+    {
+      "date" : "2028-11-18",
+      "localName" : "Dan sjećanja na žrtve Domovinskog rata"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Prvi dan po Božiću, Sveti Stjepan, Štefanje, Stipanje"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Nova Godina"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Bogojavljenje, Sveta tri kralja"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Uskrs i uskrsni ponedjeljak"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Uskrs i uskrsni ponedjeljak"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Međunarodni praznik rada"
+    },
+    {
+      "date" : "2029-05-30",
+      "localName" : "Dan državnosti"
+    },
+    {
+      "date" : "2029-05-31",
+      "localName" : "Tijelovo"
+    },
+    {
+      "date" : "2029-06-22",
+      "localName" : "Dan antifašističke borbe"
+    },
+    {
+      "date" : "2029-08-05",
+      "localName" : "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Velika Gospa"
+    },
+    {
+      "date" : "2029-10-08",
+      "localName" : "Dan neovisnosti"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "Dan svih svetih"
+    },
+    {
+      "date" : "2029-11-18",
+      "localName" : "Dan sjećanja na žrtve Domovinskog rata"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Prvi dan po Božiću, Sveti Stjepan, Štefanje, Stipanje"
     }
   ],
   "subTerritories" : [

@@ -432,6 +432,294 @@
     {
       "date" : "2025-12-31",
       "localName" : "New Year's Eve"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Epiphany"
+    },
+    {
+      "date" : "2026-02-05",
+      "localName" : "Feast of Saint Agatha"
+    },
+    {
+      "date" : "2026-03-25",
+      "localName" : "Anniversary of the Arengo"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2026-06-04",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2026-07-28",
+      "localName" : "Liberation from Fascism"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Ferragosto (Assumption)"
+    },
+    {
+      "date" : "2026-09-03",
+      "localName" : "The Feast of San Marino and the Republic"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2026-11-02",
+      "localName" : "Commemoration of all those who died at war"
+    },
+    {
+      "date" : "2026-12-08",
+      "localName" : "Immaculate Conception"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Christmas Eve"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Saint Stephen's Day"
+    },
+    {
+      "date" : "2026-12-31",
+      "localName" : "New Year's Eve"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Epiphany"
+    },
+    {
+      "date" : "2027-02-05",
+      "localName" : "Feast of Saint Agatha"
+    },
+    {
+      "date" : "2027-03-25",
+      "localName" : "Anniversary of the Arengo"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2027-05-27",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2027-07-28",
+      "localName" : "Liberation from Fascism"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Ferragosto (Assumption)"
+    },
+    {
+      "date" : "2027-09-03",
+      "localName" : "The Feast of San Marino and the Republic"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2027-11-02",
+      "localName" : "Commemoration of all those who died at war"
+    },
+    {
+      "date" : "2027-12-08",
+      "localName" : "Immaculate Conception"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Christmas Eve"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Saint Stephen's Day"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "New Year's Eve"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Epiphany"
+    },
+    {
+      "date" : "2028-02-05",
+      "localName" : "Feast of Saint Agatha"
+    },
+    {
+      "date" : "2028-03-25",
+      "localName" : "Anniversary of the Arengo"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2028-06-15",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2028-07-28",
+      "localName" : "Liberation from Fascism"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Ferragosto (Assumption)"
+    },
+    {
+      "date" : "2028-09-03",
+      "localName" : "The Feast of San Marino and the Republic"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2028-11-02",
+      "localName" : "Commemoration of all those who died at war"
+    },
+    {
+      "date" : "2028-12-08",
+      "localName" : "Immaculate Conception"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Christmas Eve"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Saint Stephen's Day"
+    },
+    {
+      "date" : "2028-12-31",
+      "localName" : "New Year's Eve"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Epiphany"
+    },
+    {
+      "date" : "2029-02-05",
+      "localName" : "Feast of Saint Agatha"
+    },
+    {
+      "date" : "2029-03-25",
+      "localName" : "Anniversary of the Arengo"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2029-05-31",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2029-07-28",
+      "localName" : "Liberation from Fascism"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Ferragosto (Assumption)"
+    },
+    {
+      "date" : "2029-09-03",
+      "localName" : "The Feast of San Marino and the Republic"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2029-11-02",
+      "localName" : "Commemoration of all those who died at war"
+    },
+    {
+      "date" : "2029-12-08",
+      "localName" : "Immaculate Conception"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Christmas Eve"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Saint Stephen's Day"
+    },
+    {
+      "date" : "2029-12-31",
+      "localName" : "New Year's Eve"
     }
   ],
   "subTerritories" : [

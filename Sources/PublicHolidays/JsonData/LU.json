@@ -288,6 +288,198 @@
     {
       "date" : "2025-12-26",
       "localName" : "Stiefesdag"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Neijoerschdag"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Karfreideg"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Ouschterméindeg"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Dag vun der Aarbecht"
+    },
+    {
+      "date" : "2026-05-09",
+      "localName" : "Europadag"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Christi Himmelfaart"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Péngschtméindeg"
+    },
+    {
+      "date" : "2026-06-23",
+      "localName" : "Groussherzogsgebuertsdag"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Léiffrawëschdag"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "Allerhellgen"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Chrëschtdag"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Stiefesdag"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Neijoerschdag"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Karfreideg"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Ouschterméindeg"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Dag vun der Aarbecht"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Christi Himmelfaart"
+    },
+    {
+      "date" : "2027-05-09",
+      "localName" : "Europadag"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "Péngschtméindeg"
+    },
+    {
+      "date" : "2027-06-23",
+      "localName" : "Groussherzogsgebuertsdag"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Léiffrawëschdag"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "Allerhellgen"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Chrëschtdag"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Stiefesdag"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Neijoerschdag"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Karfreideg"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Ouschterméindeg"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Dag vun der Aarbecht"
+    },
+    {
+      "date" : "2028-05-09",
+      "localName" : "Europadag"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Christi Himmelfaart"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Péngschtméindeg"
+    },
+    {
+      "date" : "2028-06-23",
+      "localName" : "Groussherzogsgebuertsdag"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Léiffrawëschdag"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "Allerhellgen"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Chrëschtdag"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Stiefesdag"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Neijoerschdag"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Karfreideg"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Ouschterméindeg"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Dag vun der Aarbecht"
+    },
+    {
+      "date" : "2029-05-09",
+      "localName" : "Europadag"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Christi Himmelfaart"
+    },
+    {
+      "date" : "2029-05-21",
+      "localName" : "Péngschtméindeg"
+    },
+    {
+      "date" : "2029-06-23",
+      "localName" : "Groussherzogsgebuertsdag"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Léiffrawëschdag"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "Allerhellgen"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Chrëschtdag"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Stiefesdag"
     }
   ],
   "subTerritories" : [

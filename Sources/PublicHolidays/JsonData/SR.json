@@ -432,6 +432,294 @@
     {
       "date" : "2025-12-26",
       "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2026-01-04",
+      "localName" : "World Religion Day"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Three Kings Day"
+    },
+    {
+      "date" : "2026-02-17",
+      "localName" : "Chinese New Year"
+    },
+    {
+      "date" : "2026-02-25",
+      "localName" : "Day of the Revolution"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2026-06-05",
+      "localName" : "Indian Arrival Day"
+    },
+    {
+      "date" : "2026-07-01",
+      "localName" : "Keti Koti"
+    },
+    {
+      "date" : "2026-08-08",
+      "localName" : "Javanese Arrival Day"
+    },
+    {
+      "date" : "2026-08-09",
+      "localName" : "Indigenous People's Day"
+    },
+    {
+      "date" : "2026-10-10",
+      "localName" : "Day of the Maroons"
+    },
+    {
+      "date" : "2026-10-20",
+      "localName" : "Chinese Arrival day"
+    },
+    {
+      "date" : "2026-11-25",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2027-01-03",
+      "localName" : "World Religion Day"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Three Kings Day"
+    },
+    {
+      "date" : "2027-02-06",
+      "localName" : "Chinese New Year"
+    },
+    {
+      "date" : "2027-02-25",
+      "localName" : "Day of the Revolution"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2027-06-05",
+      "localName" : "Indian Arrival Day"
+    },
+    {
+      "date" : "2027-07-01",
+      "localName" : "Keti Koti"
+    },
+    {
+      "date" : "2027-08-08",
+      "localName" : "Javanese Arrival Day"
+    },
+    {
+      "date" : "2027-08-09",
+      "localName" : "Indigenous People's Day"
+    },
+    {
+      "date" : "2027-10-10",
+      "localName" : "Day of the Maroons"
+    },
+    {
+      "date" : "2027-10-20",
+      "localName" : "Chinese Arrival day"
+    },
+    {
+      "date" : "2027-11-25",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2028-01-02",
+      "localName" : "World Religion Day"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Three Kings Day"
+    },
+    {
+      "date" : "2028-01-26",
+      "localName" : "Chinese New Year"
+    },
+    {
+      "date" : "2028-02-25",
+      "localName" : "Day of the Revolution"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Indian Arrival Day"
+    },
+    {
+      "date" : "2028-07-01",
+      "localName" : "Keti Koti"
+    },
+    {
+      "date" : "2028-08-08",
+      "localName" : "Javanese Arrival Day"
+    },
+    {
+      "date" : "2028-08-09",
+      "localName" : "Indigenous People's Day"
+    },
+    {
+      "date" : "2028-10-10",
+      "localName" : "Day of the Maroons"
+    },
+    {
+      "date" : "2028-10-20",
+      "localName" : "Chinese Arrival day"
+    },
+    {
+      "date" : "2028-11-25",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Boxing Day"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Three Kings Day"
+    },
+    {
+      "date" : "2029-01-07",
+      "localName" : "World Religion Day"
+    },
+    {
+      "date" : "2029-02-13",
+      "localName" : "Chinese New Year"
+    },
+    {
+      "date" : "2029-02-25",
+      "localName" : "Day of the Revolution"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Easter Sunday"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Ascension Day"
+    },
+    {
+      "date" : "2029-06-05",
+      "localName" : "Indian Arrival Day"
+    },
+    {
+      "date" : "2029-07-01",
+      "localName" : "Keti Koti"
+    },
+    {
+      "date" : "2029-08-08",
+      "localName" : "Javanese Arrival Day"
+    },
+    {
+      "date" : "2029-08-09",
+      "localName" : "Indigenous People's Day"
+    },
+    {
+      "date" : "2029-10-10",
+      "localName" : "Day of the Maroons"
+    },
+    {
+      "date" : "2029-10-20",
+      "localName" : "Chinese Arrival day"
+    },
+    {
+      "date" : "2029-11-25",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Boxing Day"
     }
   ],
   "subTerritories" : [

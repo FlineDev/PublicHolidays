@@ -360,6 +360,246 @@
     {
       "date" : "2025-12-26",
       "localName" : "2. joulupäivä"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Uudenvuodenpäivä"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Loppiainen"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Pitkäperjantai"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Pääsiäispäivä"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "2. pääsiäispäivä"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Vappu"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Helatorstai"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Helluntaipäivä"
+    },
+    {
+      "date" : "2026-06-19",
+      "localName" : "Juhannusaatto"
+    },
+    {
+      "date" : "2026-06-20",
+      "localName" : "Juhannuspäivä"
+    },
+    {
+      "date" : "2026-10-31",
+      "localName" : "Pyhäinpäivä"
+    },
+    {
+      "date" : "2026-12-06",
+      "localName" : "Itsenäisyyspäivä"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Jouluaatto"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Joulupäivä"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "2. joulupäivä"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Uudenvuodenpäivä"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Loppiainen"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Pitkäperjantai"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Pääsiäispäivä"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "2. pääsiäispäivä"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Vappu"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Helatorstai"
+    },
+    {
+      "date" : "2027-05-16",
+      "localName" : "Helluntaipäivä"
+    },
+    {
+      "date" : "2027-06-25",
+      "localName" : "Juhannusaatto"
+    },
+    {
+      "date" : "2027-06-26",
+      "localName" : "Juhannuspäivä"
+    },
+    {
+      "date" : "2027-11-06",
+      "localName" : "Pyhäinpäivä"
+    },
+    {
+      "date" : "2027-12-06",
+      "localName" : "Itsenäisyyspäivä"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Jouluaatto"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Joulupäivä"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "2. joulupäivä"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Uudenvuodenpäivä"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Loppiainen"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Pitkäperjantai"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Pääsiäispäivä"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "2. pääsiäispäivä"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Vappu"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Helatorstai"
+    },
+    {
+      "date" : "2028-06-04",
+      "localName" : "Helluntaipäivä"
+    },
+    {
+      "date" : "2028-06-23",
+      "localName" : "Juhannusaatto"
+    },
+    {
+      "date" : "2028-06-24",
+      "localName" : "Juhannuspäivä"
+    },
+    {
+      "date" : "2028-11-04",
+      "localName" : "Pyhäinpäivä"
+    },
+    {
+      "date" : "2028-12-06",
+      "localName" : "Itsenäisyyspäivä"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Jouluaatto"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Joulupäivä"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "2. joulupäivä"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Uudenvuodenpäivä"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Loppiainen"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Pitkäperjantai"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Pääsiäispäivä"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "2. pääsiäispäivä"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Vappu"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Helatorstai"
+    },
+    {
+      "date" : "2029-05-20",
+      "localName" : "Helluntaipäivä"
+    },
+    {
+      "date" : "2029-06-22",
+      "localName" : "Juhannusaatto"
+    },
+    {
+      "date" : "2029-06-23",
+      "localName" : "Juhannuspäivä"
+    },
+    {
+      "date" : "2029-11-03",
+      "localName" : "Pyhäinpäivä"
+    },
+    {
+      "date" : "2029-12-06",
+      "localName" : "Itsenäisyyspäivä"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Jouluaatto"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Joulupäivä"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "2. joulupäivä"
     }
   ],
   "subTerritories" : [

@@ -4,10 +4,10 @@ import XCTest
 // swiftlint:disable line_length
 
 class PublicHolidaysTests: XCTestCase {
-    func testAvailableCountries() throws {
+    func testAvailableCountries() {
         XCTAssertEqual(
             ["AD", "AL", "AR", "AT", "AU", "AX", "BB", "BE", "BG", "BJ", "BO", "BR", "BS", "BW", "BY", "BZ", "CA", "CH", "CL", "CN", "CO", "CR", "CU", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FO", "FR", "GA", "GB", "GD", "GL", "GM", "GR", "GT", "GY", "HN", "HR", "HT", "HU", "ID", "IE", "IM", "IS", "IT", "JE", "JM", "JP", "LI", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "MG", "MK", "MN", "MT", "MX", "MZ", "NA", "NE", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PR", "PT", "PY", "RO", "RS", "RU", "SE", "SI", "SJ", "SK", "SM", "SR", "SV", "TN", "TR", "UA", "US", "UY", "VA", "VE", "VN", "ZA", "ZW"],
-            try PublicHolidays.availableCountries()
+            PublicHolidays.availableCountries()
         )
     }
 
@@ -45,7 +45,7 @@ class PublicHolidaysTests: XCTestCase {
         XCTAssertThrowsError(try PublicHolidays.availableSubTerritories(countryCode: "ZZ"))
     }
 
-    func testPublicHolidays() throws {
+    func testAll() throws {
         XCTAssertEqual(
             [
                 PublicHoliday(localName: "Neujahr", date: "2020-01-01"),
@@ -58,7 +58,7 @@ class PublicHolidaysTests: XCTestCase {
                 PublicHoliday(localName: "Erster Weihnachtstag", date: "2020-12-25"),
                 PublicHoliday(localName: "Zweiter Weihnachtstag", date: "2020-12-26"),
             ],
-            try PublicHolidays.publicHolidays(countryCode: "DE").filter { $0.date.year == 2020 }
+            try PublicHolidays.all(countryCode: "DE").filter { $0.date.year == 2020 }
         )
 
         XCTAssertEqual(
@@ -82,11 +82,11 @@ class PublicHolidaysTests: XCTestCase {
                 PublicHoliday(localName: "Erster Weihnachtstag", date: "2020-12-25"),
                 PublicHoliday(localName: "Zweiter Weihnachtstag", date: "2020-12-26"),
             ],
-            try PublicHolidays.publicHolidays(countryCode: "DE", subTerritoryCode: "BW").filter { $0.date.year == 2020 }
+            try PublicHolidays.all(countryCode: "DE", subTerritoryCode: "BW").filter { $0.date.year == 2020 }
         )
 
-        XCTAssertThrowsError(try PublicHolidays.publicHolidays(countryCode: "ZZ"))
-        XCTAssertThrowsError(try PublicHolidays.publicHolidays(countryCode: "DE", subTerritoryCode: "ZZ"))
+        XCTAssertThrowsError(try PublicHolidays.all(countryCode: "ZZ"))
+        XCTAssertThrowsError(try PublicHolidays.all(countryCode: "DE", subTerritoryCode: "ZZ"))
     }
 }
 

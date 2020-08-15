@@ -17,8 +17,8 @@ public enum PublicHolidays {
 
     /// Returns the ISO codes of all countries that have available public holildays data.
     /// - NOTE:Even if this responds with a non-empty list of sub territories, the list is not guaranteed to be complete.
-    public static func availableCountries() throws -> [String] {
-        try FileManager.default.contentsOfDirectory(atPath: jsonDataDirUrl.path)
+    public static func availableCountries() -> [String] { // swiftlint:disable:next force_try
+        try! FileManager.default.contentsOfDirectory(atPath: jsonDataDirUrl.path)
             .map { URL(fileURLWithPath: $0).deletingPathExtension().lastPathComponent }
             .sorted()
     }
@@ -29,7 +29,7 @@ public enum PublicHolidays {
     }
 
     /// Returns a sorted list of all public holidays for the given country or sub territory (optional).
-    public static func publicHolidays(countryCode: String, subTerritoryCode: String? = nil) throws -> [PublicHoliday] {
+    public static func all(countryCode: String, subTerritoryCode: String? = nil) throws -> [PublicHoliday] {
         let country = try loadCountry(countryCode: countryCode)
 
         if let subTerritoryCode = subTerritoryCode {

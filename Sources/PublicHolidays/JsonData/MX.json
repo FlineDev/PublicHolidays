@@ -172,6 +172,118 @@
     {
       "date" : "2025-12-25",
       "localName" : "Navidad"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2026-02-02",
+      "localName" : "Día de la Constitución"
+    },
+    {
+      "date" : "2026-03-16",
+      "localName" : "Natalicio de Benito Juárez"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2026-09-16",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2026-11-16",
+      "localName" : "Día de la Revolución"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2027-02-01",
+      "localName" : "Día de la Constitución"
+    },
+    {
+      "date" : "2027-03-15",
+      "localName" : "Natalicio de Benito Juárez"
+    },
+    {
+      "date" : "2027-04-30",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2027-09-16",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2027-11-15",
+      "localName" : "Día de la Revolución"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2028-02-07",
+      "localName" : "Día de la Constitución"
+    },
+    {
+      "date" : "2028-03-20",
+      "localName" : "Natalicio de Benito Juárez"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2028-09-15",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2028-11-20",
+      "localName" : "Día de la Revolución"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2029-02-05",
+      "localName" : "Día de la Constitución"
+    },
+    {
+      "date" : "2029-03-19",
+      "localName" : "Natalicio de Benito Juárez"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2029-09-17",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2029-11-19",
+      "localName" : "Día de la Revolución"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Navidad"
     }
   ],
   "subTerritories" : [

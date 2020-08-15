@@ -624,6 +624,422 @@
     {
       "date" : "2025-12-31",
       "localName" : "Fin de año"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Día del trabajo\t"
+    },
+    {
+      "date" : "2026-05-03",
+      "localName" : "Día de la Cru"
+    },
+    {
+      "date" : "2026-05-07",
+      "localName" : "Día del Soldado"
+    },
+    {
+      "date" : "2026-05-10",
+      "localName" : "Día de las Madres"
+    },
+    {
+      "date" : "2026-05-10",
+      "localName" : "Día del Padre"
+    },
+    {
+      "date" : "2026-08-01",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2026-08-02",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2026-08-03",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2026-08-04",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2026-08-05",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2026-08-06",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2026-08-07",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2026-09-15",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2026-10-01",
+      "localName" : "Día del niño"
+    },
+    {
+      "date" : "2026-10-12",
+      "localName" : "Día de la raza"
+    },
+    {
+      "date" : "2026-11-02",
+      "localName" : "El día de los difuntos"
+    },
+    {
+      "date" : "2026-11-07",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2026-11-08",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2026-11-09",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2026-11-10",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2026-11-11",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2026-11-12",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2026-11-13",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2026-11-21",
+      "localName" : "Dia de la Reina de la Paz"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2026-12-31",
+      "localName" : "Fin de año"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Día del trabajo\t"
+    },
+    {
+      "date" : "2027-05-03",
+      "localName" : "Día de la Cru"
+    },
+    {
+      "date" : "2027-05-07",
+      "localName" : "Día del Soldado"
+    },
+    {
+      "date" : "2027-05-10",
+      "localName" : "Día de las Madres"
+    },
+    {
+      "date" : "2027-05-10",
+      "localName" : "Día del Padre"
+    },
+    {
+      "date" : "2027-08-01",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2027-08-02",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2027-08-03",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2027-08-04",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2027-08-05",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2027-08-06",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2027-08-07",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2027-09-15",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2027-10-01",
+      "localName" : "Día del niño"
+    },
+    {
+      "date" : "2027-10-12",
+      "localName" : "Día de la raza"
+    },
+    {
+      "date" : "2027-11-02",
+      "localName" : "El día de los difuntos"
+    },
+    {
+      "date" : "2027-11-07",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2027-11-08",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2027-11-09",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2027-11-10",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2027-11-11",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2027-11-12",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2027-11-13",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2027-11-21",
+      "localName" : "Dia de la Reina de la Paz"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "Fin de año"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Día del trabajo\t"
+    },
+    {
+      "date" : "2028-05-03",
+      "localName" : "Día de la Cru"
+    },
+    {
+      "date" : "2028-05-07",
+      "localName" : "Día del Soldado"
+    },
+    {
+      "date" : "2028-05-10",
+      "localName" : "Día de las Madres"
+    },
+    {
+      "date" : "2028-05-10",
+      "localName" : "Día del Padre"
+    },
+    {
+      "date" : "2028-08-01",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2028-08-02",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2028-08-03",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2028-08-04",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2028-08-05",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2028-08-06",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2028-08-07",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2028-09-15",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2028-10-01",
+      "localName" : "Día del niño"
+    },
+    {
+      "date" : "2028-10-12",
+      "localName" : "Día de la raza"
+    },
+    {
+      "date" : "2028-11-02",
+      "localName" : "El día de los difuntos"
+    },
+    {
+      "date" : "2028-11-07",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2028-11-08",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2028-11-09",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2028-11-10",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2028-11-11",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2028-11-12",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2028-11-13",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2028-11-21",
+      "localName" : "Dia de la Reina de la Paz"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2028-12-31",
+      "localName" : "Fin de año"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Día del trabajo\t"
+    },
+    {
+      "date" : "2029-05-03",
+      "localName" : "Día de la Cru"
+    },
+    {
+      "date" : "2029-05-07",
+      "localName" : "Día del Soldado"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Día de las Madres"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Día del Padre"
+    },
+    {
+      "date" : "2029-08-01",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2029-08-02",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2029-08-03",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2029-08-04",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2029-08-05",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2029-08-06",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2029-08-07",
+      "localName" : "Fiestas de agosto"
+    },
+    {
+      "date" : "2029-09-15",
+      "localName" : "Día de la Independencia"
+    },
+    {
+      "date" : "2029-10-01",
+      "localName" : "Día del niño"
+    },
+    {
+      "date" : "2029-10-12",
+      "localName" : "Día de la raza"
+    },
+    {
+      "date" : "2029-11-02",
+      "localName" : "El día de los difuntos"
+    },
+    {
+      "date" : "2029-11-07",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2029-11-08",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2029-11-09",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2029-11-10",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2029-11-11",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2029-11-12",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2029-11-13",
+      "localName" : "Festival Nacional De La Pupusa"
+    },
+    {
+      "date" : "2029-11-21",
+      "localName" : "Dia de la Reina de la Paz"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2029-12-31",
+      "localName" : "Fin de año"
     }
   ],
   "subTerritories" : [

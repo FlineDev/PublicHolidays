@@ -3,7 +3,7 @@ import Foundation
 import PublicHolidays
 
 struct Import: ParsableCommand {
-    private static let yearsToFetch: ClosedRange<Int> = 2020...2025
+    private static let yearsToFetch: ClosedRange<Int> = 2020...2029
 
     func run() throws { // swiftlint:disable:this function_body_length
         let countriesFilePath = URL(fileURLWithPath: FileManager.default.currentDirectoryPath).appendingPathComponent("Sources/PublicHolidays/JsonData").path

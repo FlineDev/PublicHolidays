@@ -216,6 +216,150 @@
     {
       "date" : "2025-12-25",
       "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2026-01-19",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2026-02-16",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2026-07-03",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2026-09-07",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2026-11-11",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2026-11-26",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2027-01-18",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2027-02-15",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2027-05-31",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2027-07-05",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2027-09-06",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2027-11-11",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2027-11-25",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2028-01-17",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2028-02-21",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2028-05-29",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2028-07-04",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2028-09-04",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2028-11-10",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2028-11-23",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2029-01-15",
+      "localName" : "Martin Luther King, Jr. Day"
+    },
+    {
+      "date" : "2029-02-19",
+      "localName" : "Presidents Day"
+    },
+    {
+      "date" : "2029-05-28",
+      "localName" : "Memorial Day"
+    },
+    {
+      "date" : "2029-07-04",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2029-09-03",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2029-11-12",
+      "localName" : "Veterans Day"
+    },
+    {
+      "date" : "2029-11-22",
+      "localName" : "Thanksgiving Day"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Christmas Day"
     }
   ],
   "subTerritories" : [
@@ -252,6 +396,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -290,6 +454,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -326,6 +510,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -364,6 +568,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -400,6 +624,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -438,6 +682,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -474,6 +738,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -512,6 +796,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -548,6 +852,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -586,6 +910,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -622,6 +966,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -660,6 +1024,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -696,6 +1080,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -734,6 +1138,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -770,6 +1194,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -808,6 +1252,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -844,6 +1308,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -882,6 +1366,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -918,6 +1422,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -956,6 +1480,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -992,6 +1536,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -1030,6 +1594,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -1066,6 +1650,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -1104,6 +1708,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -1140,6 +1764,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -1178,6 +1822,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -1214,6 +1878,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -1252,6 +1936,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -1288,6 +1992,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -1326,6 +2050,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -1362,6 +2106,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]
@@ -1400,6 +2164,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -1437,6 +2221,26 @@
         {
           "date" : "2025-10-13",
           "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
+          "localName" : "Columbus Day"
         }
       ]
     },
@@ -1473,6 +2277,26 @@
         },
         {
           "date" : "2025-10-13",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2026-10-12",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2027-10-11",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2028-10-09",
+          "localName" : "Columbus Day"
+        },
+        {
+          "date" : "2029-01-20",
+          "localName" : "Inauguration Day"
+        },
+        {
+          "date" : "2029-10-08",
           "localName" : "Columbus Day"
         }
       ]

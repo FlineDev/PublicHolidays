@@ -384,6 +384,262 @@
     {
       "date" : "2025-12-31",
       "localName" : "Nyårsafton"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Trettondedag jul"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Långfredagen"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Kristi himmelsfärds dag"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2026-06-06",
+      "localName" : "Sveriges nationaldag"
+    },
+    {
+      "date" : "2026-06-19",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2026-06-20",
+      "localName" : "Midsommar"
+    },
+    {
+      "date" : "2026-10-31",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2026-12-31",
+      "localName" : "Nyårsafton"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Trettondedag jul"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Långfredagen"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Kristi himmelsfärds dag"
+    },
+    {
+      "date" : "2027-05-16",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2027-06-06",
+      "localName" : "Sveriges nationaldag"
+    },
+    {
+      "date" : "2027-06-25",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2027-06-26",
+      "localName" : "Midsommar"
+    },
+    {
+      "date" : "2027-11-06",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "Nyårsafton"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Trettondedag jul"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Långfredagen"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Kristi himmelsfärds dag"
+    },
+    {
+      "date" : "2028-06-04",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2028-06-06",
+      "localName" : "Sveriges nationaldag"
+    },
+    {
+      "date" : "2028-06-23",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2028-06-24",
+      "localName" : "Midsommar"
+    },
+    {
+      "date" : "2028-11-04",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2028-12-31",
+      "localName" : "Nyårsafton"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Trettondedag jul"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Långfredagen"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Kristi himmelsfärds dag"
+    },
+    {
+      "date" : "2029-05-20",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2029-06-06",
+      "localName" : "Sveriges nationaldag"
+    },
+    {
+      "date" : "2029-06-22",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2029-06-23",
+      "localName" : "Midsommar"
+    },
+    {
+      "date" : "2029-11-03",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2029-12-31",
+      "localName" : "Nyårsafton"
     }
   ],
   "subTerritories" : [

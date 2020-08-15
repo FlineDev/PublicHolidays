@@ -384,6 +384,262 @@
     {
       "date" : "2025-12-31",
       "localName" : "Gamlársdagur"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Nýársdagur"
+    },
+    {
+      "date" : "2026-04-02",
+      "localName" : "Skírdagur"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Föstudagurinn langi"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Annar í páskum"
+    },
+    {
+      "date" : "2026-04-23",
+      "localName" : "Sumardagurinn fyrsti"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Verkalýðsdagurinn"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Uppstigningardagur"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Annar í hvítasunnu"
+    },
+    {
+      "date" : "2026-06-17",
+      "localName" : "Þjóðhátíðardagurinn"
+    },
+    {
+      "date" : "2026-08-03",
+      "localName" : "Frídagur verslunarmanna"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Aðfangadagur"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Annar í jólum"
+    },
+    {
+      "date" : "2026-12-31",
+      "localName" : "Gamlársdagur"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Nýársdagur"
+    },
+    {
+      "date" : "2027-03-25",
+      "localName" : "Skírdagur"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Föstudagurinn langi"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Annar í páskum"
+    },
+    {
+      "date" : "2027-04-22",
+      "localName" : "Sumardagurinn fyrsti"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Verkalýðsdagurinn"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Uppstigningardagur"
+    },
+    {
+      "date" : "2027-05-16",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "Annar í hvítasunnu"
+    },
+    {
+      "date" : "2027-06-17",
+      "localName" : "Þjóðhátíðardagurinn"
+    },
+    {
+      "date" : "2027-08-02",
+      "localName" : "Frídagur verslunarmanna"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Aðfangadagur"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Annar í jólum"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "Gamlársdagur"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Nýársdagur"
+    },
+    {
+      "date" : "2028-04-13",
+      "localName" : "Skírdagur"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Föstudagurinn langi"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Annar í páskum"
+    },
+    {
+      "date" : "2028-04-20",
+      "localName" : "Sumardagurinn fyrsti"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Verkalýðsdagurinn"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Uppstigningardagur"
+    },
+    {
+      "date" : "2028-06-04",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Annar í hvítasunnu"
+    },
+    {
+      "date" : "2028-06-17",
+      "localName" : "Þjóðhátíðardagurinn"
+    },
+    {
+      "date" : "2028-08-07",
+      "localName" : "Frídagur verslunarmanna"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Aðfangadagur"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Annar í jólum"
+    },
+    {
+      "date" : "2028-12-31",
+      "localName" : "Gamlársdagur"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Nýársdagur"
+    },
+    {
+      "date" : "2029-03-29",
+      "localName" : "Skírdagur"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Föstudagurinn langi"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Annar í páskum"
+    },
+    {
+      "date" : "2029-04-19",
+      "localName" : "Sumardagurinn fyrsti"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Verkalýðsdagurinn"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Uppstigningardagur"
+    },
+    {
+      "date" : "2029-05-20",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2029-05-21",
+      "localName" : "Annar í hvítasunnu"
+    },
+    {
+      "date" : "2029-06-17",
+      "localName" : "Þjóðhátíðardagurinn"
+    },
+    {
+      "date" : "2029-08-06",
+      "localName" : "Frídagur verslunarmanna"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Aðfangadagur"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Annar í jólum"
+    },
+    {
+      "date" : "2029-12-31",
+      "localName" : "Gamlársdagur"
     }
   ],
   "subTerritories" : [
