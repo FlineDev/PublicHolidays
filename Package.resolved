@@ -23,9 +23,9 @@
         "package": "Microya",
         "repositoryURL": "https://github.com/Flinesoft/Microya.git",
         "state": {
-          "branch": "main",
-          "revision": "f5b46409d02f9707ea058dbafd3febd84e31661e",
-          "version": null
+          "branch": null,
+          "revision": "8c3927df2d47bd8032df72de1e00ab76ddac427e",
+          "version": "0.2.0"
         }
       },
       {
