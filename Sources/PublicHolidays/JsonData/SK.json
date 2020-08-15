@@ -1,0 +1,608 @@
+{
+  "isoCode" : "SK",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2020-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2020-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2020-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2020-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2020-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2020-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2020-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2021-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2021-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2021-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2021-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2021-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2021-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2021-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2022-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2022-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2022-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2022-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2022-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2022-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2022-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2023-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2023-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2023-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2023-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2023-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2023-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2023-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2024-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2024-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2024-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2024-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2024-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2024-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2024-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2025-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2025-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2025-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2025-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2025-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2025-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2025-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2026-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2026-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2026-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2026-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2026-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2026-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2027-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2027-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2027-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2027-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2027-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2027-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2028-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2028-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2028-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2028-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2028-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2028-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Zjavenie Pána"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Veľkonočný piatok"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Veľkonočný pondelok"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Sviatok práce"
+    },
+    {
+      "date" : "2029-05-08",
+      "localName" : "Deň víťazstva nad fašizmom"
+    },
+    {
+      "date" : "2029-07-05",
+      "localName" : "Sviatok svätého Cyrila a svätého Metoda"
+    },
+    {
+      "date" : "2029-08-29",
+      "localName" : "Výročie Slovenského národného povstania"
+    },
+    {
+      "date" : "2029-09-01",
+      "localName" : "Deň Ústavy Slovenskej republiky"
+    },
+    {
+      "date" : "2029-09-15",
+      "localName" : "Sedembolestná Panna Mária"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "Sviatok Všetkých svätých"
+    },
+    {
+      "date" : "2029-11-17",
+      "localName" : "Deň boja za slobodu a demokraciu"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Štedrý deň"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Prvý sviatok vianočný"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Druhý sviatok vianočný"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

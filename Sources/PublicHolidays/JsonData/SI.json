@@ -1,0 +1,608 @@
+{
+  "isoCode" : "SI",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2020-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2020-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2020-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2020-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2020-05-31",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2020-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2020-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2021-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2021-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2021-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2021-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2021-05-23",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2021-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2021-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2022-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2022-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2022-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2022-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2022-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2022-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2023-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2023-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2023-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2023-05-28",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2023-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2023-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2024-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2024-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2024-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2024-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2024-05-19",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2024-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2024-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2025-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2025-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2025-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2025-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2025-06-08",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2025-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2025-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2026-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2026-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2026-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2026-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2026-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2026-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2027-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2027-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2027-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2027-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2027-05-16",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2027-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2027-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2028-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2028-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2028-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2028-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2028-06-04",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2028-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2028-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2029-01-02",
+      "localName" : "novo leto"
+    },
+    {
+      "date" : "2029-02-08",
+      "localName" : "Prešernov dan"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "velikonočna nedelja in ponedeljek"
+    },
+    {
+      "date" : "2029-04-27",
+      "localName" : "dan upora proti okupatorju"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2029-05-02",
+      "localName" : "praznik dela"
+    },
+    {
+      "date" : "2029-05-20",
+      "localName" : "binkoštna nedelja, binkošti"
+    },
+    {
+      "date" : "2029-06-25",
+      "localName" : "dan državnosti"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Marijino vnebovzetje"
+    },
+    {
+      "date" : "2029-10-31",
+      "localName" : "dan reformacije"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "dan spomina na mrtve"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "božič"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "dan samostojnosti in enotnosti"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

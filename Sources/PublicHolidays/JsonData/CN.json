@@ -1,0 +1,288 @@
+{
+  "isoCode" : "CN",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2020-01-25",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2020-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2020-05-27",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2020-10-01",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2020-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2021-02-12",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2021-06-14",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2021-09-21",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2021-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2022-02-01",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2022-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2022-06-03",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2022-09-10",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2022-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2023-01-22",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2023-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2023-06-22",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2023-09-29",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2023-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2024-02-10",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2024-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2024-06-10",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2024-09-17",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2024-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2025-01-29",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2025-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2025-05-31",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2025-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2025-10-06",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2026-02-17",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2026-06-19",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2026-09-25",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2026-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2027-02-06",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2027-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2027-06-09",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2027-09-15",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2027-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2028-01-26",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2028-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2028-05-28",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2028-10-01",
+      "localName" : "国庆节"
+    },
+    {
+      "date" : "2028-10-03",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "元旦"
+    },
+    {
+      "date" : "2029-02-13",
+      "localName" : "春节"
+    },
+    {
+      "date" : "2029-04-05",
+      "localName" : "清明节"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "劳动节"
+    },
+    {
+      "date" : "2029-06-16",
+      "localName" : "端午节"
+    },
+    {
+      "date" : "2029-09-22",
+      "localName" : "中秋节"
+    },
+    {
+      "date" : "2029-10-01",
+      "localName" : "国庆节"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

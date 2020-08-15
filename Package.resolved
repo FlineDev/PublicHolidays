@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Difference",
+        "repositoryURL": "https://github.com/krzysztofzablocki/Difference.git",
+        "state": {
+          "branch": "master",
+          "revision": "b67d4483312832b2eb3458a25374a353abd8fb21",
+          "version": null
+        }
+      },
+      {
+        "package": "HandySwift",
+        "repositoryURL": "https://github.com/Flinesoft/HandySwift.git",
+        "state": {
+          "branch": null,
+          "revision": "80a9697f586cba84278a48539c58b1b1afc61e13",
+          "version": "3.2.0"
+        }
+      },
+      {
+        "package": "Microya",
+        "repositoryURL": "https://github.com/Flinesoft/Microya.git",
+        "state": {
+          "branch": "main",
+          "revision": "f5b46409d02f9707ea058dbafd3febd84e31661e",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser.git",
+        "state": {
+          "branch": null,
+          "revision": "3e7d2fe99da091dcc1e4a7dd22fc3cfc2dca7937",
+          "version": "0.2.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

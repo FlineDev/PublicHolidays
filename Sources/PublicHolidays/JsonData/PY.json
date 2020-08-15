@@ -1,0 +1,488 @@
+{
+  "isoCode" : "PY",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2020-04-09",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2020-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2020-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2020-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2020-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2021-04-01",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2021-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2021-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2021-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2021-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2022-04-14",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2022-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2022-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2022-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2022-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2023-04-06",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2023-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2023-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2023-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2023-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2024-03-28",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2024-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2024-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2024-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2024-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2025-04-17",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2025-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2025-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2025-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2025-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2026-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2026-04-02",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2026-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2026-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2026-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2026-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2027-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2027-03-25",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2027-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2027-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2027-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2027-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2027-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2028-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2028-04-13",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2028-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2028-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2028-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2028-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2028-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2029-03-01",
+      "localName" : "Dia de los héroes"
+    },
+    {
+      "date" : "2029-03-29",
+      "localName" : "Jueves Santo"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Día de los Trabajadores"
+    },
+    {
+      "date" : "2029-05-14",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2029-05-15",
+      "localName" : "Independencia"
+    },
+    {
+      "date" : "2029-06-12",
+      "localName" : "Dia de la Paz del Chaco"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Fundación de Asunción"
+    },
+    {
+      "date" : "2029-09-29",
+      "localName" : "Victoria de Boquerón"
+    },
+    {
+      "date" : "2029-12-08",
+      "localName" : "Virgen de Caacupé"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Día de Navidad"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

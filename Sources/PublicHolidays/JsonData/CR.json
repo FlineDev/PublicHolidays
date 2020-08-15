@@ -1,0 +1,448 @@
+{
+  "isoCode" : "CR",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-04-09",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2020-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2020-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2020-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2020-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-04-01",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2021-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2021-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2021-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2021-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2022-04-14",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2022-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2022-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2022-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-04-06",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2023-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2023-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2023-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2023-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-03-28",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2024-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2024-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2024-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2024-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2025-04-17",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2025-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2025-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2025-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2026-04-02",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2026-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2026-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2026-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2026-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2026-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2027-03-25",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2027-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2027-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2027-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2027-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2027-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2028-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2028-04-13",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2028-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2028-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2028-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2028-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2029-03-29",
+      "localName" : "Good Thursday"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2029-04-11",
+      "localName" : "Juan Santa maria Day"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Labor Day"
+    },
+    {
+      "date" : "2029-07-25",
+      "localName" : "Guanacaste Day"
+    },
+    {
+      "date" : "2029-08-02",
+      "localName" : "Virgin of Los Angeles Day"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Mother´s Day"
+    },
+    {
+      "date" : "2029-09-15",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2029-10-12",
+      "localName" : "Cultures National Day"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Christmas Day"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

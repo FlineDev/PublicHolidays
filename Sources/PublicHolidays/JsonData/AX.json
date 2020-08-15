@@ -1,0 +1,768 @@
+{
+  "isoCode" : "AX",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2020-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2020-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2020-05-31",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2020-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2020-06-19",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2020-06-19",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2020-11-20",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2020-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2021-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2021-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2021-05-23",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2021-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2021-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2021-06-18",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2021-06-18",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2021-11-19",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2021-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2022-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2022-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2022-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2022-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2022-06-17",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2022-06-17",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2022-11-18",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2022-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2023-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2023-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2023-05-28",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2023-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2023-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2023-06-16",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2023-06-16",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2023-11-17",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2023-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2024-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2024-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2024-05-19",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2024-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2024-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2024-06-21",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2024-06-21",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2024-11-15",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2024-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2025-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2025-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2025-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2025-06-08",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2025-06-20",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2025-06-20",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2025-11-21",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2025-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2026-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2026-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2026-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2026-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2026-06-19",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2026-06-19",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2026-11-20",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2026-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2027-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2027-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2027-05-16",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2027-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2027-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2027-06-18",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2027-06-18",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2027-11-19",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2027-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2028-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2028-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2028-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2028-06-04",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2028-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2028-06-16",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2028-06-16",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2028-11-17",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2028-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Annandag jul"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Nyårsdagen"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Ålands demilitariseringsdag"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Långfredag"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Påskdagen"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Annandag påsk"
+    },
+    {
+      "date" : "2029-04-30",
+      "localName" : "Valborgsmässoafton"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Första maj"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Kristi himmelsfärdsdagn"
+    },
+    {
+      "date" : "2029-05-20",
+      "localName" : "Pingstdagen"
+    },
+    {
+      "date" : "2029-05-21",
+      "localName" : "Annandag Pingst"
+    },
+    {
+      "date" : "2029-06-01",
+      "localName" : "Trettondagen"
+    },
+    {
+      "date" : "2029-06-09",
+      "localName" : "Självstyrelsedagen"
+    },
+    {
+      "date" : "2029-06-15",
+      "localName" : "Midsommarafton"
+    },
+    {
+      "date" : "2029-06-15",
+      "localName" : "Midsommardagen"
+    },
+    {
+      "date" : "2029-11-16",
+      "localName" : "Alla helgons dag"
+    },
+    {
+      "date" : "2029-12-06",
+      "localName" : "Självständighetsdagen"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Julafton"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Juldagen"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Annandag jul"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

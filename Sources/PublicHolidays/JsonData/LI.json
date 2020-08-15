@@ -1,0 +1,768 @@
+{
+  "isoCode" : "LI",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2020-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2020-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2020-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2020-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2020-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2020-06-11",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2020-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2020-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2021-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2021-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2021-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2021-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2021-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2021-06-03",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2021-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2021-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2022-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2022-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2022-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2022-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2022-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2022-06-16",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2022-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2022-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2023-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2023-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2023-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2023-06-08",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2023-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2023-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2024-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2024-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2024-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2024-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2024-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2024-05-30",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2024-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2024-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2025-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2025-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2025-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2025-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2025-06-19",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2025-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2025-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2026-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2026-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2026-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2026-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2026-06-04",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2026-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2026-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2026-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2027-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2027-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2027-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2027-05-27",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2027-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2027-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2027-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2028-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2028-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2028-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2028-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2028-06-15",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2028-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2028-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2028-12-31",
+      "localName" : "Silvester"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Neujahr"
+    },
+    {
+      "date" : "2029-01-02",
+      "localName" : "Berchtoldstag"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Heilige Drei Könige"
+    },
+    {
+      "date" : "2029-02-02",
+      "localName" : "Mariä Lichtmess"
+    },
+    {
+      "date" : "2029-03-19",
+      "localName" : "Josefstag"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Karfreitag"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Ostermontag"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Tag der Arbeit"
+    },
+    {
+      "date" : "2029-05-21",
+      "localName" : "Pfingstmontag"
+    },
+    {
+      "date" : "2029-05-29",
+      "localName" : "Auffahrt"
+    },
+    {
+      "date" : "2029-05-31",
+      "localName" : "Fronleichnam"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Staatsfeiertag"
+    },
+    {
+      "date" : "2029-09-08",
+      "localName" : "Maria Geburt"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "Allerheiligen"
+    },
+    {
+      "date" : "2029-12-08",
+      "localName" : "Mariä Empfängnis"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Heiliger Abend"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Weihnachten"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Stephanstag"
+    },
+    {
+      "date" : "2029-12-31",
+      "localName" : "Silvester"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

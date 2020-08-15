@@ -1,0 +1,408 @@
+{
+  "isoCode" : "NL",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2020-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2020-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2021-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2021-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2022-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2022-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2023-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2023-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2024-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2024-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2025-04-26",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2025-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2026-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2026-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2027-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2027-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2028-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2028-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Tweede Kerstdag"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Nieuwjaarsdag"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Goede Vrijdag"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Eerste Paasdag"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Tweede Paasdag"
+    },
+    {
+      "date" : "2029-04-27",
+      "localName" : "Koningsdag"
+    },
+    {
+      "date" : "2029-05-05",
+      "localName" : "Bevrijdingsdag"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Hemelvaartsdag"
+    },
+    {
+      "date" : "2029-05-21",
+      "localName" : "Pinksteren"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Eerste Kerstdag"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Tweede Kerstdag"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

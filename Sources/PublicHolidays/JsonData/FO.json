@@ -1,0 +1,688 @@
+{
+  "isoCode" : "FO",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2020-04-09",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2020-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2020-05-08",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2020-05-21",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2020-05-31",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2020-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2020-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2020-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2020-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2021-04-01",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2021-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2021-04-30",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2021-05-13",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2021-05-23",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2021-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2021-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2021-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2021-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2022-04-14",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2022-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2022-05-13",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2022-05-26",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2022-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2022-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2022-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2023-04-06",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2023-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2023-05-05",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2023-05-18",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2023-05-28",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2023-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2023-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2023-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2023-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2024-03-28",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2024-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2024-04-26",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2024-05-09",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2024-05-19",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2024-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2024-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2024-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2024-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2025-04-17",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2025-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2025-05-16",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2025-05-29",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2025-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2025-06-08",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2025-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2025-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2025-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2026-04-02",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2026-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2026-05-14",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2026-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2026-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2026-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2026-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2027-03-25",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2027-04-23",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2027-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2027-05-16",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2027-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2027-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2027-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2028-04-13",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2028-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2028-05-12",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2028-05-25",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2028-06-04",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2028-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2028-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2028-12-31",
+      "localName" : "Nýggjársaftan"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Nýggjársdagur"
+    },
+    {
+      "date" : "2029-03-29",
+      "localName" : "Skírhósdagur"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Langifríggjadagur"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Páskadagur"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "2. Páskadagur"
+    },
+    {
+      "date" : "2029-04-25",
+      "localName" : "Flaggdagur"
+    },
+    {
+      "date" : "2029-04-27",
+      "localName" : "Store bededag"
+    },
+    {
+      "date" : "2029-05-10",
+      "localName" : "Kristi himmalsferðar dagur"
+    },
+    {
+      "date" : "2029-05-20",
+      "localName" : "Hvítasunnudagur"
+    },
+    {
+      "date" : "2029-05-21",
+      "localName" : "2. Hvítasunnudagur"
+    },
+    {
+      "date" : "2029-06-05",
+      "localName" : "Grundlógardagur Danmarkar"
+    },
+    {
+      "date" : "2029-07-28",
+      "localName" : "Ólavsøkuaftan"
+    },
+    {
+      "date" : "2029-07-29",
+      "localName" : "Ólavsøkudagur"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Jólaaftanskvøld"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Jóladagur"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "2. Jóladagur"
+    },
+    {
+      "date" : "2029-12-31",
+      "localName" : "Nýggjársaftan"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

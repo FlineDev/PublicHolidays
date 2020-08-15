@@ -1,0 +1,848 @@
+{
+  "isoCode" : "PR",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2020-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2020-01-13",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2020-01-20",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2020-02-17",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2020-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2020-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2020-04-20",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2020-05-25",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2020-07-03",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2020-07-20",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2020-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2020-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2020-09-07",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2020-10-12",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2020-11-11",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2020-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2020-11-26",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2021-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2021-01-11",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2021-01-18",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2021-02-15",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2021-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2021-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2021-04-19",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2021-05-31",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2021-07-05",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2021-07-19",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2021-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2021-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2021-09-06",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2021-10-11",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2021-11-11",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2021-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2021-11-25",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2021-12-31",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2022-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2022-01-10",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2022-01-17",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2022-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2022-02-21",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2022-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2022-05-30",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2022-07-04",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2022-07-18",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2022-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2022-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2022-09-05",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2022-10-10",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2022-11-11",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2022-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2022-11-24",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2023-01-02",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2023-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2023-01-09",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2023-01-16",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2023-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2023-02-20",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2023-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2023-04-17",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2023-07-04",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2023-07-17",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2023-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2023-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2023-09-04",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2023-10-09",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2023-11-10",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2023-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2023-11-23",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2024-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2024-01-08",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2024-01-15",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2024-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2024-02-19",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2024-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2024-04-15",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2024-05-27",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2024-07-04",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2024-07-15",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2024-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2024-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2024-09-02",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2024-10-14",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2024-11-11",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2024-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2024-11-28",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2025-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2025-01-13",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2025-01-20",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2025-02-17",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2025-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2025-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2025-05-26",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2025-07-04",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2025-07-21",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2025-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2025-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2025-09-01",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2025-10-13",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2025-11-11",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2025-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2025-11-27",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2026-01-12",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2026-01-19",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2026-02-16",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2026-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2026-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2026-04-20",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2026-07-03",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2026-07-20",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2026-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2026-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2026-09-07",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2026-10-12",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2026-11-11",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2026-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2026-11-26",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2027-01-11",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2027-01-18",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2027-02-15",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2027-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2027-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2027-04-19",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2027-05-31",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2027-07-05",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2027-07-19",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2027-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2027-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2027-09-06",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2027-10-11",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2027-11-11",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2027-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2027-11-25",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2027-12-31",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2028-01-10",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2028-01-17",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2028-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2028-02-21",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2028-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2028-05-29",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2028-07-04",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2028-07-17",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2028-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2028-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2028-09-04",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2028-10-09",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2028-11-10",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2028-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2028-11-23",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Día de Año Nuevo"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Día de Reyes"
+    },
+    {
+      "date" : "2029-01-08",
+      "localName" : "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date" : "2029-01-15",
+      "localName" : "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date" : "2029-02-18",
+      "localName" : "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date" : "2029-02-19",
+      "localName" : "Día de los Presidentes"
+    },
+    {
+      "date" : "2029-03-22",
+      "localName" : "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2029-04-16",
+      "localName" : "Natalicio de José de Diego"
+    },
+    {
+      "date" : "2029-05-28",
+      "localName" : "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date" : "2029-07-04",
+      "localName" : "Día de la Independencia de los Estados Unidos"
+    },
+    {
+      "date" : "2029-07-16",
+      "localName" : "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date" : "2029-07-25",
+      "localName" : "Constitución de Puerto Rico"
+    },
+    {
+      "date" : "2029-07-27",
+      "localName" : "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date" : "2029-09-03",
+      "localName" : "Día del Trabajo"
+    },
+    {
+      "date" : "2029-10-08",
+      "localName" : "Día de la Raza Descubrimiento de América"
+    },
+    {
+      "date" : "2029-11-12",
+      "localName" : "Día del Veterano Día del Armisticio"
+    },
+    {
+      "date" : "2029-11-19",
+      "localName" : "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date" : "2029-11-22",
+      "localName" : "Día de Acción de Gracias"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Noche Buena"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Navidad"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

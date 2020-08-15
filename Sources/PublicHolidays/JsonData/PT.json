@@ -1,0 +1,817 @@
+{
+  "isoCode" : "PT",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2020-02-25",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2020-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2020-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2020-06-11",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2020-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2020-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2020-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2021-02-16",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2021-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2021-06-03",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2021-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2021-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2021-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2021-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2022-03-01",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2022-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2022-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2022-06-16",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2022-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2022-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2022-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2023-02-21",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2023-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2023-06-08",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2023-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2023-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2023-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2023-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2024-02-13",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2024-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2024-05-30",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2024-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2024-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2024-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2024-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2025-03-04",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2025-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2025-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2025-06-19",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2025-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2025-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2025-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2026-02-17",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2026-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2026-06-04",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2026-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2026-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2026-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2026-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2027-02-09",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2027-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2027-05-27",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2027-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2027-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2027-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2027-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2028-02-29",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2028-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2028-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2028-06-15",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2028-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2028-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2028-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Natal"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Ano Novo"
+    },
+    {
+      "date" : "2029-02-13",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Sexta-feira Santa"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Domingo de Páscoa"
+    },
+    {
+      "date" : "2029-04-25",
+      "localName" : "Dia da Liberdade"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Dia do Trabalhador"
+    },
+    {
+      "date" : "2029-05-31",
+      "localName" : "Corpo de Deus"
+    },
+    {
+      "date" : "2029-06-10",
+      "localName" : "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Assunção de Nossa Senhora"
+    },
+    {
+      "date" : "2029-10-05",
+      "localName" : "Implantação da República"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "Dia de Todos-os-Santos"
+    },
+    {
+      "date" : "2029-12-01",
+      "localName" : "Restauração da Independência"
+    },
+    {
+      "date" : "2029-12-08",
+      "localName" : "Imaculada Conceição"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Natal"
+    }
+  ],
+  "subTerritories" : [
+    {
+      "isoCode" : "20",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2020-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2021-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2021-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2022-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2022-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2023-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2023-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2024-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2024-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2025-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2025-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2026-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2026-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2027-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2027-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2028-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2028-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2029-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2029-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Primeira Oitava"
+        }
+      ]
+    },
+    {
+      "isoCode" : "30",
+      "additionalPublicHolidays" : [
+        {
+          "date" : "2020-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2020-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2020-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2021-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2021-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2021-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2022-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2022-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2022-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2023-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2023-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2023-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2024-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2024-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2024-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2025-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2025-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2025-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2026-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2026-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2026-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2027-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2027-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2027-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2028-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2028-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2028-12-26",
+          "localName" : "Primeira Oitava"
+        },
+        {
+          "date" : "2029-06-01",
+          "localName" : "Dia dos Açores"
+        },
+        {
+          "date" : "2029-07-01",
+          "localName" : "Dia da Madeira"
+        },
+        {
+          "date" : "2029-12-26",
+          "localName" : "Primeira Oitava"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "isoCode" : "GA",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2020-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2020-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2020-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2021-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2021-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2021-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2022-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2022-06-06",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2022-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2023-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2023-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2023-05-29",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2023-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2024-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2024-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2024-05-20",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2024-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2025-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2025-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2025-06-09",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2025-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2026-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2026-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2026-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2026-05-25",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2026-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2027-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2027-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2027-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2027-05-17",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2027-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2028-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2028-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2028-06-05",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2028-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Božić"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2029-03-12",
+      "localName" : "Renovation Day"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Easter Monday"
+    },
+    {
+      "date" : "2029-04-17",
+      "localName" : "Women's Day"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2029-05-06",
+      "localName" : "Martyr's Day"
+    },
+    {
+      "date" : "2029-05-21",
+      "localName" : "Whit Monday"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Assumption Day"
+    },
+    {
+      "date" : "2029-08-17",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "All Saints' Day"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Božić"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

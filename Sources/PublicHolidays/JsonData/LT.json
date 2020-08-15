@@ -1,0 +1,568 @@
+{
+  "isoCode" : "LT",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2020-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2020-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2020-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2020-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2020-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2020-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2021-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2021-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2021-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2021-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2021-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2021-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2022-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2022-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2022-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2022-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2022-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2022-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2023-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2023-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2023-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2023-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2023-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2023-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2024-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2024-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2024-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2024-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2024-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2024-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2025-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2025-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2025-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2025-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2025-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2025-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2026-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2026-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2026-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2026-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2026-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2026-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2027-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2027-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2027-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2027-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2027-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2027-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2028-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2028-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2028-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2028-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2028-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2028-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Naujieji metai"
+    },
+    {
+      "date" : "2029-02-16",
+      "localName" : "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date" : "2029-03-11",
+      "localName" : "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Velykos"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Antroji Velykų diena"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Tarptautinė darbo diena"
+    },
+    {
+      "date" : "2029-06-24",
+      "localName" : "Joninės, Rasos"
+    },
+    {
+      "date" : "2029-07-06",
+      "localName" : "Valstybės diena"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Žolinė"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "Visų šventųjų diena"
+    },
+    {
+      "date" : "2029-11-02",
+      "localName" : "Vėlinės"
+    },
+    {
+      "date" : "2029-12-24",
+      "localName" : "Šv. Kūčios"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Šv. Kalėdos"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Šv. Kalėdos"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

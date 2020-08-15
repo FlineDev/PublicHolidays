@@ -1,0 +1,448 @@
+{
+  "isoCode" : "EC",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2020-02-24",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2020-02-25",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2020-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2020-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2020-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2020-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2020-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2021-02-15",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2021-02-16",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2021-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2021-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2021-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2021-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2021-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2022-02-28",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2022-03-01",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2022-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2022-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2022-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2022-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2022-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2023-02-20",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2023-02-21",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2023-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2023-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2023-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2023-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2023-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2024-02-12",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2024-02-13",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2024-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2024-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2024-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2024-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2024-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2025-03-03",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2025-03-04",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2025-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2025-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2025-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2025-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2025-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2026-02-16",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2026-02-17",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2026-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2026-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2026-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2026-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2027-02-08",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2027-02-09",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2027-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2027-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2027-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2027-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2027-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2028-02-28",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2028-02-29",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2028-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2028-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2028-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2028-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2028-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Día de Navidad"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2029-02-12",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2029-02-13",
+      "localName" : "Carnaval"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "International Workers' Day"
+    },
+    {
+      "date" : "2029-05-24",
+      "localName" : "Batalla de Pichincha"
+    },
+    {
+      "date" : "2029-08-10",
+      "localName" : "Primer Grito de Independencia"
+    },
+    {
+      "date" : "2029-10-09",
+      "localName" : "Independencia de Guayaquil"
+    },
+    {
+      "date" : "2029-11-02",
+      "localName" : "Día de los Difuntos, Día de Muertos"
+    },
+    {
+      "date" : "2029-11-03",
+      "localName" : "Independencia de Cuenca"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Día de Navidad"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "isoCode" : "BO",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2020-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2020-02-24",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2020-02-25",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2020-06-11",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2020-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2020-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2020-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2020-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2021-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2021-02-15",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2021-02-16",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2021-06-03",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2021-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2021-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2021-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2021-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2022-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2022-02-28",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2022-03-01",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2022-06-16",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2022-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2022-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2022-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2022-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2023-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2023-02-20",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2023-02-21",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2023-06-08",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2023-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2023-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2023-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2023-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2024-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2024-02-12",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2024-02-13",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2024-05-30",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2024-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2024-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2024-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2024-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2025-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2025-03-03",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2025-03-04",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2025-06-19",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2025-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2025-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2025-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2025-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2026-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2026-02-16",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2026-02-17",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2026-06-04",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2026-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2026-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2026-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2026-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2027-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2027-02-08",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2027-02-09",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2027-05-27",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2027-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2027-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2027-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2027-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2028-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2028-02-28",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2028-02-29",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2028-06-15",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2028-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2028-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2028-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2028-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Navidad"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Año Nuevo"
+    },
+    {
+      "date" : "2029-02-02",
+      "localName" : "Fiesta de la Virgen de Candelaria"
+    },
+    {
+      "date" : "2029-02-12",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2029-02-13",
+      "localName" : "Feriado por Carnaval"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Viernes Santo"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Dia del trabajo"
+    },
+    {
+      "date" : "2029-05-31",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2029-06-21",
+      "localName" : "Año Nuevo Andino"
+    },
+    {
+      "date" : "2029-08-02",
+      "localName" : "Día de la Revolución Agraria"
+    },
+    {
+      "date" : "2029-08-06",
+      "localName" : "Dia de la Patria"
+    },
+    {
+      "date" : "2029-11-02",
+      "localName" : "Todos Santos"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Navidad"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

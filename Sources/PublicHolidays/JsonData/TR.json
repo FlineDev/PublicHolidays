@@ -1,0 +1,288 @@
+{
+  "isoCode" : "TR",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2020-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2020-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2020-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2020-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2020-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2021-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2021-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2021-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2021-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2021-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2022-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2022-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2022-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2022-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2022-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2023-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2023-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2023-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2023-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2023-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2024-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2024-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2024-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2024-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2024-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2025-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2025-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2025-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2025-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2025-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2026-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2026-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2026-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2026-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2026-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2027-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2027-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2027-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2027-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2027-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2028-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2028-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2028-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2028-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2028-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Yılbaşı"
+    },
+    {
+      "date" : "2029-04-23",
+      "localName" : "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "İşçi Bayramı"
+    },
+    {
+      "date" : "2029-05-19",
+      "localName" : "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+      "date" : "2029-07-15",
+      "localName" : "Demokrasi Bayramı"
+    },
+    {
+      "date" : "2029-08-30",
+      "localName" : "Zafer Bayramı"
+    },
+    {
+      "date" : "2029-10-29",
+      "localName" : "Cumhuriyet Bayramı"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

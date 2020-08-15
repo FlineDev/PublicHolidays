@@ -1,0 +1,328 @@
+{
+  "isoCode" : "ID",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2020-05-22",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2020-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2020-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2021-05-14",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2021-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2021-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2022-05-27",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2022-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2022-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2023-05-19",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2023-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2023-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2024-05-10",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2024-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2024-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2025-05-30",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2025-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2025-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2026-05-15",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2026-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2026-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2027-05-07",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2027-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2027-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2028-05-26",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2028-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2028-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Hari Raya Natal"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Tahun Baru Masehi"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Wafat Isa Almasih"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Paskah"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Hari Buruh Internasional"
+    },
+    {
+      "date" : "2029-05-11",
+      "localName" : "Kenaikan Isa Almasih"
+    },
+    {
+      "date" : "2029-06-01",
+      "localName" : "Hari Lahir Pancasila"
+    },
+    {
+      "date" : "2029-08-17",
+      "localName" : "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Hari Raya Natal"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

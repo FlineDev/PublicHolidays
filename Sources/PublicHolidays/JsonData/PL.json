@@ -1,0 +1,528 @@
+{
+  "isoCode" : "PL",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2020-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2020-04-12",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2020-04-13",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2020-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2020-05-31",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2020-06-11",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2020-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2020-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2020-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2020-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2021-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2021-04-04",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2021-04-05",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2021-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2021-05-23",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2021-06-03",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2021-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2021-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2021-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2021-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2022-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2022-04-17",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2022-04-18",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2022-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2022-06-05",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2022-06-16",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2022-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2022-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2022-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2022-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2023-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2023-04-09",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2023-04-10",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2023-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2023-05-28",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2023-06-08",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2023-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2023-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2023-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2023-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2024-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2024-03-31",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2024-04-01",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2024-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2024-05-19",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2024-05-30",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2024-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2024-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2024-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2024-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2025-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2025-04-20",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2025-04-21",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2025-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2025-06-08",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2025-06-19",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2025-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2025-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2025-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2025-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2026-04-05",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2026-04-06",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2026-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2026-05-24",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2026-06-04",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2026-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2026-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2026-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2026-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2027-03-28",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2027-03-29",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2027-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2027-05-16",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2027-05-27",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2027-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2027-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2027-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2027-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2028-04-16",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2028-04-17",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2028-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2028-06-04",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2028-06-15",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2028-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2028-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2028-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2028-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "Nowy Rok"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Święto Trzech Króli"
+    },
+    {
+      "date" : "2029-04-01",
+      "localName" : "Wielkanoc"
+    },
+    {
+      "date" : "2029-04-02",
+      "localName" : "Drugi Dzień Wielkanocy"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Święto Pracy"
+    },
+    {
+      "date" : "2029-05-03",
+      "localName" : "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date" : "2029-05-20",
+      "localName" : "Zielone Świątki"
+    },
+    {
+      "date" : "2029-05-31",
+      "localName" : "Boże Ciało"
+    },
+    {
+      "date" : "2029-08-15",
+      "localName" : "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date" : "2029-11-01",
+      "localName" : "Wszystkich Świętych"
+    },
+    {
+      "date" : "2029-11-11",
+      "localName" : "Narodowe Święto Niepodległości"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Boże Narodzenie"
+    },
+    {
+      "date" : "2029-12-26",
+      "localName" : "Drugi Dzień Bożego Narodzenia"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}

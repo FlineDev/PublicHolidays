@@ -1,0 +1,528 @@
+{
+  "isoCode" : "DO",
+  "publicHolidays" : [
+    {
+      "date" : "2020-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2020-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2020-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2020-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2020-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2020-04-10",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2020-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2020-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2020-06-11",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2020-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2020-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2020-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2020-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2021-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2021-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2021-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2021-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2021-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2021-04-02",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2021-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2021-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2021-06-03",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2021-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2021-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2021-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2021-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2022-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2022-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2022-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2022-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2022-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2022-04-15",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2022-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2022-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2022-06-16",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2022-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2022-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2022-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2022-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2023-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2023-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2023-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2023-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2023-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2023-04-07",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2023-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2023-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2023-06-08",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2023-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2023-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2023-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2023-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2024-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2024-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2024-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2024-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2024-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2024-03-29",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2024-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2024-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2024-05-30",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2024-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2024-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2024-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2024-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2025-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2025-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2025-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2025-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2025-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2025-04-18",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2025-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2025-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2025-06-19",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2025-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2025-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2025-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2025-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2026-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2026-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2026-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2026-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2026-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2026-04-03",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2026-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2026-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2026-06-04",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2026-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2026-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2026-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2026-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2027-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2027-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2027-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2027-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2027-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2027-03-26",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2027-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2027-05-27",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2027-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2027-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2027-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2027-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2027-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2028-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2028-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2028-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2028-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2028-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2028-04-14",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2028-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2028-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2028-06-15",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2028-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2028-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2028-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2028-12-25",
+      "localName" : "Christmas Day"
+    },
+    {
+      "date" : "2029-01-01",
+      "localName" : "New Year's Day"
+    },
+    {
+      "date" : "2029-01-06",
+      "localName" : "Dia de Reyes"
+    },
+    {
+      "date" : "2029-01-21",
+      "localName" : "Our Lady of Altagracia"
+    },
+    {
+      "date" : "2029-01-26",
+      "localName" : "Duarte's Birthday"
+    },
+    {
+      "date" : "2029-02-27",
+      "localName" : "Independence Day"
+    },
+    {
+      "date" : "2029-03-30",
+      "localName" : "Good Friday"
+    },
+    {
+      "date" : "2029-05-01",
+      "localName" : "Labour Day"
+    },
+    {
+      "date" : "2029-05-28",
+      "localName" : "Mother's Day"
+    },
+    {
+      "date" : "2029-05-31",
+      "localName" : "Corpus Christi"
+    },
+    {
+      "date" : "2029-08-16",
+      "localName" : "Restoration Day"
+    },
+    {
+      "date" : "2029-09-24",
+      "localName" : "Nuestra Senora de las Mercedes"
+    },
+    {
+      "date" : "2029-11-06",
+      "localName" : "Constitution Day"
+    },
+    {
+      "date" : "2029-12-25",
+      "localName" : "Christmas Day"
+    }
+  ],
+  "subTerritories" : [
+
+  ]
+}
