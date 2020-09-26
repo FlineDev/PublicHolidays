@@ -27,7 +27,6 @@ let package = Package(
             name: "PublicHolidays",
             dependencies: [
                 "HandySwift",
-                "Microya",
             ],
             resources: [
                 .copy("JsonData"),
@@ -44,6 +43,7 @@ let package = Package(
             name: "PublicHolidaysUpdater",
             dependencies: [
                 .product(name: "ArgumentParser", package: "swift-argument-parser"),
+                "Microya",
                 "PublicHolidays",
             ]
         ),
