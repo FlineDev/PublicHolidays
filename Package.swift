@@ -17,7 +17,7 @@ let package = Package(
         .package(name: "HandySwift", url: "https://github.com/Flinesoft/HandySwift.git", from: "3.2.0"),
 
         // Micro version of the Moya network abstraction layer written in Swift.
-        .package(name: "Microya", url: "https://github.com/Flinesoft/Microya.git", from: "0.2.0"),
+        .package(name: "Microya", url: "https://github.com/Flinesoft/Microya.git", .branch("main")),
 
         // Straightforward, type-safe argument parsing for Swift
         .package(name: "swift-argument-parser", url: "https://github.com/apple/swift-argument-parser.git", from: "0.2.2"),
