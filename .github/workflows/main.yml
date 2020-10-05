@@ -84,26 +84,24 @@ jobs:
         with:
           args: --strict
 
-# Turned off until there's a final Swift 5.3 release on Ubuntu 18.04.
-  # test-linux:
-  #   runs-on: ubuntu-latest
-  #
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #
-  #     - name: Run tests
-  #       run: swift test -v
+  test-linux:
+    runs-on: ubuntu-latest
 
-# Turned off until https://bugs.swift.org/browse/SR-12912 is fixed.
-  # test-macos:
-  #   runs-on: macOS-latest
-  #
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #
-  #     - uses: maxim-lobanov/setup-xcode@1.0
-  #       with:
-  #         xcode-version: 12.0
-  #
-  #     - name: Run tests
-  #       run: swift test -v
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run tests
+        run: swift test -v
+
+  test-macos:
+    runs-on: macOS-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: maxim-lobanov/setup-xcode@1.0
+        with:
+          xcode-version: 12.0
+
+      - name: Run tests
+        run: swift test -v
