@@ -94,6 +94,12 @@ To update the public holidays data JSON files from [nager.date API](https://date
 swift build && .build/x86_64-apple-macosx/debug/PublicHolidaysUpdater
 ```
 
+It is recommended that you configure git hooks so that lint checks are automatically executed & Linux tests generated before any commit. We prepared a script to set this up for you (run once per project):
+
+```bash
+./pre-commit.sh
+```
+
 ## License
 
 This library is released under the [MIT License](http://opensource.org/licenses/MIT). See LICENSE for details.

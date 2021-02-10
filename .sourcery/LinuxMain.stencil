@@ -1,8 +1,6 @@
 @testable import PublicHolidaysTests
 import XCTest
 
-// swiftlint:disable line_length file_length
-
 {% for type in types.classes|based:"XCTestCase" %}
 extension {{ type.name }} {
     static var allTests: [(String, ({{ type.name }}) -> () throws -> Void)] = [
