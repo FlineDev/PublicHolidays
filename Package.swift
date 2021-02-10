@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "PublicHolidays",
-    platforms: [.macOS(.v10_12)],
+    platforms: [.macOS(.v10_15)],
     products: [
         .library(name: "PublicHolidays", targets: ["PublicHolidays"]),
         .executable(name: "PublicHolidaysUpdater", targets: ["PublicHolidaysUpdater"]),
