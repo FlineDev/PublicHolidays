@@ -21,17 +21,17 @@ public class Country: Codable {
    ) throws {
       let values = try decoder.container(keyedBy: CodingKeys.self)
 
-      isoCode = try values.decode(String.self, forKey: .isoCode)
-      publicHolidays = try values.decode([PublicHoliday].self, forKey: .publicHolidays)
+      self.isoCode = try values.decode(String.self, forKey: .isoCode)
+      self.publicHolidays = try values.decode([PublicHoliday].self, forKey: .publicHolidays)
 
-      subTerritories = try values.decode([SubTerritory].self, forKey: .subTerritories)
-      subTerritories.forEach { $0.country = self }
+      self.subTerritories = try values.decode([SubTerritory].self, forKey: .subTerritories)
+      self.subTerritories.forEach { $0.country = self }
    }
 }
 
 extension Country: CustomStringConvertible {
    public var description: String {
-      #"Country(isoCode: "\#(isoCode)", publicHolidays: \#(publicHolidays), subTerritories: \#(subTerritories))"#
+      #"Country(isoCode: "\#(self.isoCode)", publicHolidays: \#(self.publicHolidays), subTerritories: \#(self.subTerritories))"#
    }
 }
 

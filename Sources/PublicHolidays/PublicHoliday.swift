@@ -21,7 +21,7 @@ public class PublicHoliday: Codable {
 extension PublicHoliday: CustomStringConvertible {
    /// The printable description of the public holiday.
    public var description: String {
-      #"PublicHoliday(localName: "\#(localName)", date: "\#(DateFormatter.dateOnly(timeZone: Calendar.current.timeZone).string(from: date))")"#
+      #"PublicHoliday(localName: "\#(self.localName)", date: "\#(DateFormatter.dateOnly(timeZone: Calendar.current.timeZone).string(from: self.date))")"#
    }
 }
 

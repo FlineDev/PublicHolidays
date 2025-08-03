@@ -14,11 +14,11 @@ public class SubTerritory: Codable {
    var country: Country?
 
    var fullIsoCode: String {
-      "\(country!.isoCode)-\(isoCode)"
+      "\(self.country!.isoCode)-\(self.isoCode)"
    }
 
    var allPublicHolidays: [PublicHoliday] {
-      (country!.publicHolidays + additionalPublicHolidays).sorted { $0.date < $1.date }
+      (self.country!.publicHolidays + self.additionalPublicHolidays).sorted { $0.date < $1.date }
    }
 
    /// Initializes a new sub territory.
@@ -34,7 +34,7 @@ public class SubTerritory: Codable {
 extension SubTerritory: CustomStringConvertible {
    /// The printable description of the sub territory.
    public var description: String {
-      #"SubTerritory(isoCode: "\#(isoCode)", additionalPublicHolidays: \#(additionalPublicHolidays), country: \#(country?.description ?? "nil"))"#
+      #"SubTerritory(isoCode: "\#(self.isoCode)", additionalPublicHolidays: \#(self.additionalPublicHolidays), country: \#(self.country?.description ?? "nil"))"#
    }
 }
 

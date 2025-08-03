@@ -18,14 +18,14 @@ public enum PublicHolidays {
    /// Returns the ISO codes of all countries that have available public holildays data.
    /// - NOTE:Even if this responds with a non-empty list of sub territories, the list is not guaranteed to be complete.
    public static func availableCountries() -> [String] {
-      try! FileManager.default.contentsOfDirectory(atPath: jsonDataDirUrl.path)
+      try! FileManager.default.contentsOfDirectory(atPath: self.jsonDataDirUrl.path)
          .map { URL(fileURLWithPath: $0).deletingPathExtension().lastPathComponent }
          .sorted()
    }
 
    /// Returns a list of ISO sub territory codes (2/3 numbers/characters) for the given country code.
    public static func availableSubTerritories(countryCode: String) throws -> [String] {
-      try loadCountry(countryCode: countryCode, timeZone: Calendar.current.timeZone).subTerritories.map { $0.isoCode }
+      try self.loadCountry(countryCode: countryCode, timeZone: Calendar.current.timeZone).subTerritories.map { $0.isoCode }
    }
 
    /// Returns a sorted list of all public holidays for the given country or sub territory (optional).
@@ -56,7 +56,7 @@ public enum PublicHolidays {
       subTerritoryCode: String? = nil,
       timeZone: TimeZone = Calendar.current.timeZone
    ) throws -> Bool {
-      guard supportedYears.contains(date.year(timeZone: timeZone)) else {
+      guard self.supportedYears.contains(date.year(timeZone: timeZone)) else {
          throw PublicHolidaysError.dateOutsideOfSupportedRange
       }
       let publicHolidaysAtLocation = try all(
@@ -84,7 +84,7 @@ public enum PublicHolidays {
          throw PublicHolidaysError.unavailableCountryCode(countryCode)
       }
 
-      return try jsonDecoder(timeZone: timeZone).decode(Country.self, from: countryData)
+      return try self.jsonDecoder(timeZone: timeZone).decode(Country.self, from: countryData)
    }
 
    private static func jsonDecoder(timeZone: TimeZone) -> JSONDecoder {
